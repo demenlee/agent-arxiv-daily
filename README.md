@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Relative Principals, Pluralistic Alignment, and the Structural Value Alignment Problem**|Travis LaCroix et.al.|[2604.20805](http://arxiv.org/abs/2604.20805)|null|
+|**2026-04-22**|**Synthesizing Multi-Agent Harnesses for Vulnerability Discovery**|Hanzhi Liu et.al.|[2604.20801](http://arxiv.org/abs/2604.20801)|null|
+|**2026-04-22**|**SWE-chat: Coding Agent Interactions From Real Users in the Wild**|Joachim Baumann et.al.|[2604.20779](http://arxiv.org/abs/2604.20779)|null|
+|**2026-04-22**|**Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization**|Shan He et.al.|[2604.20714](http://arxiv.org/abs/2604.20714)|null|
+|**2026-04-22**|**Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows**|Shivani Kumar et.al.|[2604.20658](http://arxiv.org/abs/2604.20658)|null|
+|**2026-04-22**|**CHORUS: An Agentic Framework for Generating Realistic Deliberation Data**|A. Koursaris et.al.|[2604.20651](http://arxiv.org/abs/2604.20651)|null|
+|**2026-04-22**|**Trust, Lies, and Long Memories: Emergent Social Dynamics and Reputation in Multi-Round Avalon with LLM Agents**|Suveen Ellawela et.al.|[2604.20582](http://arxiv.org/abs/2604.20582)|null|
+|**2026-04-22**|**MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills**|Yingyong Hou et.al.|[2604.20441](http://arxiv.org/abs/2604.20441)|null|
+|**2026-04-22**|**WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning**|Juyong Jiang et.al.|[2604.20398](http://arxiv.org/abs/2604.20398)|null|
+|**2026-04-22**|**R2IF: Aligning Reasoning with Decisions via Composite Rewards for Interpretable LLM Function Calling**|Aijia Cheng et.al.|[2604.20316](http://arxiv.org/abs/2604.20316)|null|
+|**2026-04-22**|**FSFM: A Biologically-Inspired Framework for Selective Forgetting of Agent Memory**|Yingjie Gu et.al.|[2604.20300](http://arxiv.org/abs/2604.20300)|null|
+|**2026-04-22**|**Chasing the Public Score: User Pressure and Evaluation Exploitation in Coding Agent Workflows**|Hardy Chen et.al.|[2604.20200](http://arxiv.org/abs/2604.20200)|null|
+|**2026-04-22**|**How is a gas sensor poisoned by volatile methylsiloxanes?**|Heng Liu et.al.|[2604.20197](http://arxiv.org/abs/2604.20197)|null|
+|**2026-04-22**|**Taint-Style Vulnerability Detection and Confirmation for Node.js Packages Using LLM Agent Reasoning**|Ronghao Ni et.al.|[2604.20179](http://arxiv.org/abs/2604.20179)|null|
+|**2026-04-22**|**Stateless Decision Memory for Enterprise AI Agents**|Vasundra Srinivasan et.al.|[2604.20158](http://arxiv.org/abs/2604.20158)|null|
+|**2026-04-22**|**Meta-Tool: Efficient Few-Shot Tool Adaptation for Small Language Models**|Sachin Kumar et.al.|[2604.20148](http://arxiv.org/abs/2604.20148)|null|
+|**2026-04-22**|**SAKE: Self-aware Knowledge Exploitation-Exploration for Grounded Multimodal Named Entity Recognition**|Jielong Tang et.al.|[2604.20146](http://arxiv.org/abs/2604.20146)|null|
+|**2026-04-22**|**An Agentic Approach to Metadata Reasoning**|Jiani Zhang et.al.|[2604.20144](http://arxiv.org/abs/2604.20144)|null|
+|**2026-04-22**|**HiPO: Hierarchical Preference Optimization for Adaptive Reasoning in LLMs**|Darsh Kachroo et.al.|[2604.20140](http://arxiv.org/abs/2604.20140)|null|
+|**2026-04-22**|**AgentSOC: A Multi-Layer Agentic AI Framework for Security Operations Automation**|Joyjit Roy et.al.|[2604.20134](http://arxiv.org/abs/2604.20134)|null|
 |**2026-04-21**|**Recent Advances in Causal Analysis of the Stochastic Frontier Model**|Samuele Centorrino et.al.|[2604.19693](http://arxiv.org/abs/2604.19693)|null|
 |**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
 |**2026-04-21**|**Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language**|Yi Zhong et.al.|[2604.19667](http://arxiv.org/abs/2604.19667)|null|
@@ -6103,6 +6123,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Unconventional Quantum Criticality in Long-Range Spin-1 Chains: Insights from Entanglement Entropy and Bipartite Fluctuations**|Justin Tim-Lok Chau et.al.|[2604.20831](http://arxiv.org/abs/2604.20831)|null|
+|**2026-04-22**|**ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control**|Shelly Golan et.al.|[2604.20816](http://arxiv.org/abs/2604.20816)|null|
+|**2026-04-22**|**V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization**|Yubo Jiang et.al.|[2604.20755](http://arxiv.org/abs/2604.20755)|null|
+|**2026-04-22**|**Fast Bayesian equipment condition monitoring via simulation based inference: applications to heat exchanger health**|Peter Collett et.al.|[2604.20735](http://arxiv.org/abs/2604.20735)|null|
+|**2026-04-22**|**Near-Future Policy Optimization**|Chuanyu Qin et.al.|[2604.20733](http://arxiv.org/abs/2604.20733)|null|
+|**2026-04-22**|**Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly**|Yongqiang Zhao et.al.|[2604.20712](http://arxiv.org/abs/2604.20712)|null|
+|**2026-04-22**|**SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models**|Jiahao Xie et.al.|[2604.20705](http://arxiv.org/abs/2604.20705)|null|
+|**2026-04-22**|**Divide-and-Conquer Neural Network Surrogates for Quantum Sampling: Accelerating Markov Chain Monte Carlo in Large-Scale Constrained Optimization Problems**|Yuya Kawamata et.al.|[2604.20701](http://arxiv.org/abs/2604.20701)|null|
+|**2026-04-22**|**Bayesian approach for uncertainty quantification of hybrid spectral unmixing in $γ$ -ray spectrometry**|Dinh Triem Phan et.al.|[2604.20691](http://arxiv.org/abs/2604.20691)|null|
+|**2026-04-22**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Zhixuan Xu et.al.|[2604.20689](http://arxiv.org/abs/2604.20689)|null|
+|**2026-04-22**|**MGDA-Decoupled: Geometry-Aware Multi-Objective Optimisation for DPO-based LLM Alignment**|Andor Vári-Kakas et.al.|[2604.20685](http://arxiv.org/abs/2604.20685)|null|
+|**2026-04-22**|**GRPO-VPS: Enhancing Group Relative Policy Optimization with Verifiable Process Supervision for Effective Reasoning**|Jingyi Wang et.al.|[2604.20659](http://arxiv.org/abs/2604.20659)|null|
+|**2026-04-22**|**Polaron transport and Verwey transition in magnetite**|Nikita Fominykh et.al.|[2604.20642](http://arxiv.org/abs/2604.20642)|null|
+|**2026-04-22**|**Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning**|Aravind Venugopal et.al.|[2604.20627](http://arxiv.org/abs/2604.20627)|null|
+|**2026-04-22**|**Self-Guided Plan Extraction for Instruction-Following Tasks with Goal-Conditional Reinforcement Learning**|Zoya Volovikova et.al.|[2604.20601](http://arxiv.org/abs/2604.20601)|null|
+|**2026-04-22**|**Predicting co-segregation in multicomponent alloys with solute-solute interactions**|Zuoyong Zhang et.al.|[2604.20593](http://arxiv.org/abs/2604.20593)|null|
+|**2026-04-22**|**A Hierarchical MARL-Based Approach for Coordinated Retail P2P Trading and Wholesale Market Participation of DERs**|Patrick Wilk et.al.|[2604.20586](http://arxiv.org/abs/2604.20586)|null|
+|**2026-04-22**|**Ask Only When Needed: Proactive Retrieval from Memory and Skills for Experience-Driven Lifelong Agents**|Yuxuan Cai et.al.|[2604.20572](http://arxiv.org/abs/2604.20572)|null|
+|**2026-04-22**|**Where Reasoning Breaks: Logic-Aware Path Selection by Controlling Logical Connectives in LLMs Reasoning Chains**|Seunghyun Park et.al.|[2604.20564](http://arxiv.org/abs/2604.20564)|null|
+|**2026-04-22**|**Conditional Monte Carlo Tree Diffusion for Designing Cell-Type-Specific and Biologically Faithful Regulatory DNA**|Animesh Awasthi et.al.|[2604.20488](http://arxiv.org/abs/2604.20488)|null|
 |**2026-04-21**|**Safe Continual Reinforcement Learning in Non-stationary Environments**|Austin Coursey et.al.|[2604.19737](http://arxiv.org/abs/2604.19737)|null|
 |**2026-04-21**|**FASTER: Value-Guided Sampling for Fast RL**|Perry Dong et.al.|[2604.19730](http://arxiv.org/abs/2604.19730)|null|
 |**2026-04-21**|**On two ways to use determinantal point processes for Monte Carlo integration**|Guillaume Gautier et.al.|[2604.19698](http://arxiv.org/abs/2604.19698)|null|
