@@ -8478,7 +8478,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-10**|**Action-Factored Multi-Agent Reinforcement Learning for Scalable Quantum Device Tuning**|Edwin De Nicolo et.al.|[2607.09422](http://arxiv.org/abs/2607.09422)|null|
 |**2026-07-10**|**Tests for Increasing Convex Ordering Based on Generalized Tsallis Entropy Measures**|Aritra Saha et.al.|[2607.09418](http://arxiv.org/abs/2607.09418)|null|
 |**2026-07-10**|**Two observables of one wall: how surface relaxivity can bias the diffusion intra-axonal fraction and the myelin water fraction**|Rutger H. J. Fick et.al.|[2607.09401](http://arxiv.org/abs/2607.09401)|null|
-|**2026-07-10**|**Mach-Mind-4-Flash Technical Report**| Foundation Model Team et.al.|[2607.09375](http://arxiv.org/abs/2607.09375)|null|
+|**2026-07-10**|**Mach-Mind-4-Flash Technical Report**|Foundation Model Team et.al.|[2607.09375](http://arxiv.org/abs/2607.09375)|null|
 |**2026-07-10**|**Shortcut Trajectory Planning for Efficient Offline Reinforcement Learning**|Guanquan Wang et.al.|[2607.09336](http://arxiv.org/abs/2607.09336)|null|
 |**2026-07-10**|**Clock-noise subtraction in geometric time-delay interferometry for space-based gravitational-wave parameter estimation**|Rui Luo et.al.|[2607.09335](http://arxiv.org/abs/2607.09335)|null|
 |**2026-07-10**|**Risk-Aware General-Utility Markov Decision Processes**|Pedro P. Santos et.al.|[2607.09298](http://arxiv.org/abs/2607.09298)|null|
