@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents**|Lijie Ding et.al.|[2610.03631](http://arxiv.org/abs/2610.03631)|null|
+|**2026-10-02**|**HazardWeaver: Scientific Route Selection for Hazard Analysis Agents**|Wangshu Zhu et.al.|[2610.03591](http://arxiv.org/abs/2610.03591)|null|
+|**2026-10-02**|**Knowledge or Calculator? Decomposing the Skill Premium in Verifiable Financial Agent Workflows**|Jermyn Zhen Yong Bek et.al.|[2610.03564](http://arxiv.org/abs/2610.03564)|null|
+|**2026-10-02**|**MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation**|Chenzhi Liu et.al.|[2610.03476](http://arxiv.org/abs/2610.03476)|null|
+|**2026-10-02**|**Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents**|Zhuowen Liu et.al.|[2610.03448](http://arxiv.org/abs/2610.03448)|null|
+|**2026-10-02**|**EdgeAgent: Orchestrating On-Device LLM inference for End-User Multi-Agent Systems on CPU-GPU Unified Memory Architectures**|Yuhai Long et.al.|[2610.03394](http://arxiv.org/abs/2610.03394)|null|
+|**2026-10-02**|**ReFract: Benchmarking Perspective Awareness in Language Model Agents with Text World Models**|Hainiu Xu et.al.|[2610.03356](http://arxiv.org/abs/2610.03356)|null|
+|**2026-10-02**|**Lightweight, Rubric-Guided Trajectory Evaluation for Production AI Agents**|Linh-An Phan et.al.|[2610.03315](http://arxiv.org/abs/2610.03315)|null|
+|**2026-10-02**|**VenusRL: A Fully Disaggregated Agentic RL System with Priority Scheduling and Scalable Interaction**|Mingjun Zhang et.al.|[2610.03286](http://arxiv.org/abs/2610.03286)|null|
+|**2026-10-02**|**A Kinetic Theory of the Gated Self-Evolving LLM Agent**|Haipeng Wang et.al.|[2610.03243](http://arxiv.org/abs/2610.03243)|null|
+|**2026-10-02**|**D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?**|Daifeng Li et.al.|[2610.03226](http://arxiv.org/abs/2610.03226)|null|
+|**2026-10-02**|**AdaStep: Adaptive Step Credit Weighting for Agentic Reinforcement Learning**|Xin Wang et.al.|[2610.03223](http://arxiv.org/abs/2610.03223)|null|
+|**2026-10-02**|**Toward SLM-based agentic task-tool intent matching**|Chiara Troiani et.al.|[2610.03213](http://arxiv.org/abs/2610.03213)|null|
+|**2026-10-02**|**Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It**|Jonghyun Song et.al.|[2610.03195](http://arxiv.org/abs/2610.03195)|null|
+|**2026-10-02**|**Tracking State Footprints: How Agents Can Transact**|Oto Mraz et.al.|[2610.03140](http://arxiv.org/abs/2610.03140)|null|
+|**2026-10-02**|**Agentic RF Intelligence: Multi-Timescale 6G Sensing and Reasoning with On-Device Foundation Models**|Jaron Fontaine et.al.|[2610.03139](http://arxiv.org/abs/2610.03139)|null|
+|**2026-10-02**|**Ask, Relax, or Act? Evaluating Actionable Indeterminacy in LLM Preference Reasoning**|Ang Li et.al.|[2610.03102](http://arxiv.org/abs/2610.03102)|null|
+|**2026-10-02**|**Beyond Single Videos: Benchmarking and Active Evidence Seeking for E-Commerce Cross-Video Reasoning**|Jinghan Zhao et.al.|[2610.03099](http://arxiv.org/abs/2610.03099)|null|
+|**2026-10-02**|**Peer Influence across Heterogeneous AI Models**|Frida Nøhr Laustsen et.al.|[2610.03095](http://arxiv.org/abs/2610.03095)|null|
+|**2026-10-02**|**Coda: Exploiting Admission Flexibility for Coding-Agent Serving**|Youhe Jiang et.al.|[2610.03088](http://arxiv.org/abs/2610.03088)|null|
 |**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
 |**2026-10-01**|**Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents**|Yen-Jen Wang et.al.|[2610.02204](http://arxiv.org/abs/2610.02204)|null|
 |**2026-10-01**|**InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation**|Zhuo Lin et.al.|[2610.02196](http://arxiv.org/abs/2610.02196)|null|
@@ -5359,6 +5379,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**What Should World Models Forget? Stratified Retention for Continual Adaptation**|Nishit Anand et.al.|[2610.03713](http://arxiv.org/abs/2610.03713)|null|
+|**2026-10-02**|**LESSER: Post-Training Data Selection with Output-Layer Gradients**|Lyuxin David Zhang et.al.|[2610.03702](http://arxiv.org/abs/2610.03702)|null|
+|**2026-10-02**|**Language Models that Play Chess and Explain Their Moves**|Adithya Bhaskar et.al.|[2610.03695](http://arxiv.org/abs/2610.03695)|null|
+|**2026-10-02**|**Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models**|Seo Hyun Kim et.al.|[2610.03665](http://arxiv.org/abs/2610.03665)|null|
+|**2026-10-02**|**Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System**|Rubén Manrique et.al.|[2610.03639](http://arxiv.org/abs/2610.03639)|null|
+|**2026-10-02**|**NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents**|Lijie Ding et.al.|[2610.03631](http://arxiv.org/abs/2610.03631)|null|
+|**2026-10-02**|**DEPICT: Scoring Text-to-Image Alignment by Answer Agreement**|Vasco Ramos et.al.|[2610.03617](http://arxiv.org/abs/2610.03617)|null|
+|**2026-10-02**|**HazardWeaver: Scientific Route Selection for Hazard Analysis Agents**|Wangshu Zhu et.al.|[2610.03591](http://arxiv.org/abs/2610.03591)|null|
+|**2026-10-02**|**Rubric-Based Optimization for Text-to-Music Generation**|Ping Wang et.al.|[2610.03589](http://arxiv.org/abs/2610.03589)|null|
+|**2026-10-02**|**Objects Without Morphisms: What LLMs for Mathematics Do Not Represent**|Yanli Wang et.al.|[2610.03551](http://arxiv.org/abs/2610.03551)|null|
+|**2026-10-02**|**Divergence controls entropy in distillation**|Nicolas Zucchet et.al.|[2610.03529](http://arxiv.org/abs/2610.03529)|null|
+|**2026-10-02**|**Structured Composition of Verifiable Atomic Insights for Table-to-Report Generation**|Teng Lin et.al.|[2610.03525](http://arxiv.org/abs/2610.03525)|null|
+|**2026-10-02**|**PrivDev: Mapping Static-Analysis Data Types to DPV**|Simon Bernbeck et.al.|[2610.03518](http://arxiv.org/abs/2610.03518)|null|
+|**2026-10-02**|**Efficient Reasoning Training Does Not Always Harm CoT Faithfulness and Monitorability**|Samuel Lewis-Lim et.al.|[2610.03509](http://arxiv.org/abs/2610.03509)|null|
+|**2026-10-02**|**Single-Pass Uncertainty Heads for Claim-Level Hallucination Detection in Persian Medical Language Models**|Mehrdad Ghassabi et.al.|[2610.03482](http://arxiv.org/abs/2610.03482)|null|
+|**2026-10-02**|**Metropolis-Hastings Dominates Importance Resampling for Policy Composition**|Alexey Kurennoy et.al.|[2610.03480](http://arxiv.org/abs/2610.03480)|null|
+|**2026-10-02**|**MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation**|Chenzhi Liu et.al.|[2610.03476](http://arxiv.org/abs/2610.03476)|null|
+|**2026-10-02**|**CorrectGuard: Eyes-Off Correctness Estimation for Black-Box Security Guardrails**|Adam Faulkner et.al.|[2610.03470](http://arxiv.org/abs/2610.03470)|null|
+|**2026-10-02**|**A Vision-Language Model (VLM)-based Pipeline for End-to-End Procedural Modeling of Field-Grown Maize from Point Clouds**|Mozhgan Hadadi et.al.|[2610.03468](http://arxiv.org/abs/2610.03468)|null|
+|**2026-10-02**|**Generalization of Transformer-Based Neural Quantum States via In-Context Learning**|Zhen Qin et.al.|[2610.03463](http://arxiv.org/abs/2610.03463)|null|
 |**2026-10-01**|**TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning**|Jichao Jiang et.al.|[2610.02199](http://arxiv.org/abs/2610.02199)|null|
 |**2026-10-01**|**InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation**|Zhuo Lin et.al.|[2610.02196](http://arxiv.org/abs/2610.02196)|null|
 |**2026-10-01**|**Hierarchical Continuous Diffusion Language Models**|Hui Ren et.al.|[2610.02193](http://arxiv.org/abs/2610.02193)|null|
@@ -10538,6 +10578,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**SpiderCSS: Scalable Fault-Tolerant CSS State Preparation**|Boldizsár Poór et.al.|[2610.03714](http://arxiv.org/abs/2610.03714)|null|
+|**2026-10-02**|**Does a mortality schedule need a Makeham term? Calibrating the likelihood-ratio test**|Silvio C. Patricio et.al.|[2610.03685](http://arxiv.org/abs/2610.03685)|null|
+|**2026-10-02**|**Finite-momentum pairing and magnetic halos in a spin-imbalanced Holstein model**|Chunhan Feng et.al.|[2610.03678](http://arxiv.org/abs/2610.03678)|null|
+|**2026-10-02**|**Planning to Learn**|Ian Osband et.al.|[2610.03667](http://arxiv.org/abs/2610.03667)|null|
+|**2026-10-02**|**SAC-Controlled RIS-Assisted Monopulse Radar for Multipath-Robust Vital-Sign Localization**|Jafar Norolahi et.al.|[2610.03643](http://arxiv.org/abs/2610.03643)|null|
+|**2026-10-02**|**On the Convergence of Success Conditioning for Policy Optimization**|Matthew Brun et.al.|[2610.03642](http://arxiv.org/abs/2610.03642)|null|
+|**2026-10-02**|**IDRF: Inverse-Distilled Reward Fine-tuning of Masked Discrete Diffusion Models**|Vladislav Gromadskii et.al.|[2610.03641](http://arxiv.org/abs/2610.03641)|null|
+|**2026-10-02**|**Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents**|Yu Li et.al.|[2610.03634](http://arxiv.org/abs/2610.03634)|null|
+|**2026-10-02**|**NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents**|Lijie Ding et.al.|[2610.03631](http://arxiv.org/abs/2610.03631)|null|
+|**2026-10-02**|**UniIntervene++: An Adaptive Intervention Agent for Efficient Real-World Reinforcement Learning**|Yudong Lin et.al.|[2610.03620](http://arxiv.org/abs/2610.03620)|null|
+|**2026-10-02**|**Mastering Atari 2600 Games with Discovered Options**|Erik M. Lintunen et.al.|[2610.03604](http://arxiv.org/abs/2610.03604)|null|
+|**2026-10-02**|**Learning-Based Beam Adaptation for Active/Passive-Aware Monopulse ISAC with Leakage Suppression**|Jafar Norolahi et.al.|[2610.03600](http://arxiv.org/abs/2610.03600)|null|
+|**2026-10-02**|**When a Correct Reward Is Not Enough: Diagnosing and Guiding PPO in an Analytically Solved Broker-Trader Game**|Siu Tung Wong et.al.|[2610.03598](http://arxiv.org/abs/2610.03598)|null|
+|**2026-10-02**|**Complex-momentum form factors from lattice QCD**|Maxwell T. Hansen et.al.|[2610.03553](http://arxiv.org/abs/2610.03553)|null|
+|**2026-10-02**|**Autonomous Robotic Navigation for Endovascular Brain-Computer Interface Access**|Harry Robertshaw et.al.|[2610.03537](http://arxiv.org/abs/2610.03537)|null|
+|**2026-10-02**|**Hierarchical Control via MPC-RL for Multi-Timescale Battery Systems**|Rasa Pourjam et.al.|[2610.03508](http://arxiv.org/abs/2610.03508)|null|
+|**2026-10-02**|**Optimality of delayed reward attainment under uncertainty**|Chuwei Wang et.al.|[2610.03506](http://arxiv.org/abs/2610.03506)|null|
+|**2026-10-02**|**NNLO QED corrections and inelastic two-photon exchange in elastic lepton-proton scattering with McMule**|Matteo Ronchi et.al.|[2610.03486](http://arxiv.org/abs/2610.03486)|null|
+|**2026-10-02**|**Single or Multiple Policies for Phase-Structured Reinforcement Learning?**|Guilhem Loussouarn et.al.|[2610.03475](http://arxiv.org/abs/2610.03475)|null|
+|**2026-10-02**|**Measure Less, Know More: Self-Supervised Test-Time Feature Acquisition**|Eeshaan Jain et.al.|[2610.03454](http://arxiv.org/abs/2610.03454)|null|
 |**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
 |**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
 |**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
