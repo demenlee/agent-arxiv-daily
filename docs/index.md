@@ -5400,25 +5400,18 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-05**|**Base Models Can Reason By Taking a Cue From Training Data**|Sophie L. Wang et.al.|[2610.06851](http://arxiv.org/abs/2610.06851)|null|
-|**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
-|**2026-10-05**|**Learning to Read the Contextual Tokens in Diffusion Transformers**|Omer Dahary et.al.|[2610.06844](http://arxiv.org/abs/2610.06844)|null|
 |**2026-10-05**|**Recursive Video In-Context Learning for Agentic Robot**|Wenrui Bao et.al.|[2610.06843](http://arxiv.org/abs/2610.06843)|null|
 |**2026-10-05**|**Towards Looped Models Done Right, Part II: Rethinking at Fixed Points**|Benhao Huang et.al.|[2610.06833](http://arxiv.org/abs/2610.06833)|null|
 |**2026-10-05**|**CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling**|Yifan Zhang et.al.|[2610.06829](http://arxiv.org/abs/2610.06829)|null|
 |**2026-10-05**|**Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution**|Erfan Baghaei Potraghloo et.al.|[2610.06804](http://arxiv.org/abs/2610.06804)|null|
 |**2026-10-05**|**Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification**|Je Yang et.al.|[2610.06790](http://arxiv.org/abs/2610.06790)|null|
-|**2026-10-05**|**How to scale your HEP ML models: A recipe for robust architecture comparisons at scale**|Matthias Vigl et.al.|[2610.06784](http://arxiv.org/abs/2610.06784)|null|
 |**2026-10-05**|**Conditional Rank Allocation for Taxonomy-Aware Medical Language Model Adaptation**|Guangyuan Dong et.al.|[2610.06765](http://arxiv.org/abs/2610.06765)|null|
-|**2026-10-05**|**MatrixFormer: A Foundation Model for Matrix Completion**|Dwaipayan Saha et.al.|[2610.06751](http://arxiv.org/abs/2610.06751)|null|
 |**2026-10-05**|**Balancing Memory Pathways: Analyzing and Improving Memory Utilization in Hybrid LMs**|Hyunji Lee et.al.|[2610.06750](http://arxiv.org/abs/2610.06750)|null|
 |**2026-10-05**|**BazaarBench: Delegation Safety in Decentralized C2C Marketplaces Run by LLM Agents**|Ziyan Wang et.al.|[2610.06748](http://arxiv.org/abs/2610.06748)|null|
 |**2026-10-05**|**Improving Diversity in LLM Short Story Generation**|Zahra Solati Dehkordi et.al.|[2610.06729](http://arxiv.org/abs/2610.06729)|null|
-|**2026-10-05**|**BRANCH-MoE: Balance-Aware Tree Routing for Large Embedding Models**|Gang Fu et.al.|[2610.06725](http://arxiv.org/abs/2610.06725)|null|
-|**2026-10-05**|**Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs**|Manousos Linardakis et.al.|[2610.06703](http://arxiv.org/abs/2610.06703)|null|
 |**2026-10-05**|**MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA Tasks**|Jiuheng Wan et.al.|[2610.06695](http://arxiv.org/abs/2610.06695)|null|
 |**2026-10-05**|**OVAL: Output-Aware Local Page Bases for KV Cache Retrieval**|Ashkan Shahbazi et.al.|[2610.06686](http://arxiv.org/abs/2610.06686)|null|
 |**2026-10-05**|**Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs**|Jiawen Du et.al.|[2610.06685](http://arxiv.org/abs/2610.06685)|null|
-|**2026-10-05**|**Closing the Context Gap: Activation Alignment for Tabular In-Context Learning**|Yoel Zeldes et.al.|[2610.06679](http://arxiv.org/abs/2610.06679)|null|
 |**2026-10-02**|**What Should World Models Forget? Stratified Retention for Continual Adaptation**|Nishit Anand et.al.|[2610.03713](http://arxiv.org/abs/2610.03713)|null|
 |**2026-10-02**|**LESSER: Post-Training Data Selection with Output-Layer Gradients**|Lyuxin David Zhang et.al.|[2610.03702](http://arxiv.org/abs/2610.03702)|null|
 |**2026-10-02**|**Language Models that Play Chess and Explain Their Moves**|Adithya Bhaskar et.al.|[2610.03695](http://arxiv.org/abs/2610.03695)|null|
@@ -10619,24 +10612,16 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-05**|**Base Models Can Reason By Taking a Cue From Training Data**|Sophie L. Wang et.al.|[2610.06851](http://arxiv.org/abs/2610.06851)|null|
-|**2026-10-05**|**Direct Intermediate Initialization for Tilted Diffusion Samplers**|Gregory D. Bellchambers et.al.|[2610.06834](http://arxiv.org/abs/2610.06834)|null|
 |**2026-10-05**|**Towards Looped Models Done Right, Part II: Rethinking at Fixed Points**|Benhao Huang et.al.|[2610.06833](http://arxiv.org/abs/2610.06833)|null|
 |**2026-10-05**|**MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents**|Haozhen Zhang et.al.|[2610.06830](http://arxiv.org/abs/2610.06830)|null|
 |**2026-10-05**|**CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling**|Yifan Zhang et.al.|[2610.06829](http://arxiv.org/abs/2610.06829)|null|
 |**2026-10-05**|**Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution**|Erfan Baghaei Potraghloo et.al.|[2610.06804](http://arxiv.org/abs/2610.06804)|null|
-|**2026-10-05**|**From Quantum Tunneling to Classical Optimization through Instantons**|Jiayu Shen et.al.|[2610.06797](http://arxiv.org/abs/2610.06797)|null|
 |**2026-10-05**|**Improving Diversity in LLM Short Story Generation**|Zahra Solati Dehkordi et.al.|[2610.06729](http://arxiv.org/abs/2610.06729)|null|
-|**2026-10-05**|**Polarised cross sections for loop-induced processes with SHERPA+RECOLA**|Mareen Hoppe et.al.|[2610.06698](http://arxiv.org/abs/2610.06698)|null|
 |**2026-10-05**|**MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA Tasks**|Jiuheng Wan et.al.|[2610.06695](http://arxiv.org/abs/2610.06695)|null|
-|**2026-10-05**|**Finite-time blow-up for the real-valued defocusing energy-supercritical quintic NLW**|Matthieu Cadiot et.al.|[2610.06678](http://arxiv.org/abs/2610.06678)|null|
 |**2026-10-05**|**Reward Stealing Attack on Large Language Models**|Jiaming Qian et.al.|[2610.06670](http://arxiv.org/abs/2610.06670)|null|
-|**2026-10-05**|**Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation**|Baiqin Wang et.al.|[2610.06658](http://arxiv.org/abs/2610.06658)|null|
 |**2026-10-05**|**Considering Context: When World Models Need Context Encoders**|Oleg Smirnov et.al.|[2610.06651](http://arxiv.org/abs/2610.06651)|null|
 |**2026-10-05**|**Representation-Space MMD for Diffusion Language Models**|Ilya Drobyshevskiy et.al.|[2610.06648](http://arxiv.org/abs/2610.06648)|null|
 |**2026-10-05**|**LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches**|Shaokun Zhang et.al.|[2610.06647](http://arxiv.org/abs/2610.06647)|null|
-|**2026-10-05**|**Staying Sober: A Shot-Free Predictor of Logical Error Rates for Concatenated Quantum Error Correcting Codes**|Sayam Sethi et.al.|[2610.06606](http://arxiv.org/abs/2610.06606)|null|
-|**2026-10-05**|**LinearPFN: Amortized Variable Selection for Linear Models with Interactions**|Louis Schiekiera et.al.|[2610.06580](http://arxiv.org/abs/2610.06580)|null|
-|**2026-10-05**|**Blind Beamforming for Intelligent Reflecting Surfaces: A Gradient Bandit Approach**|Wenhai Lai et.al.|[2610.06565](http://arxiv.org/abs/2610.06565)|null|
 |**2026-10-05**|**MIRT: Transformers for Truthful Generative Auctions with Whole-feed Permutation Externalities**|Ali Elahi et.al.|[2610.06559](http://arxiv.org/abs/2610.06559)|null|
 |**2026-10-02**|**SpiderCSS: Scalable Fault-Tolerant CSS State Preparation**|Boldizsár Poór et.al.|[2610.03714](http://arxiv.org/abs/2610.03714)|null|
 |**2026-10-02**|**Does a mortality schedule need a Makeham term? Calibrating the likelihood-ratio test**|Silvio C. Patricio et.al.|[2610.03685](http://arxiv.org/abs/2610.03685)|null|
