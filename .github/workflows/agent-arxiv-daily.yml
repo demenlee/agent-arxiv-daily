@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 0/12 * * *"  #'*/60 * * * *'
+    - cron:  "0 0/24 * * *"  #'*/60 * * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -72,6 +72,21 @@ jobs:
         run: |
           python send_webhook_notification.py
         continue-on-error: true
+
+      - name: Send email notification
+        if: always()                      # 前面步骤失败也尝试发邮件
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.qq.com     # QQ邮箱；163用 smtp.163.com；Gmail用 smtp.gmail.com
+          server_port: 465
+          secure: true                    # 465端口走SSL；Gmail用587则改为 false
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}   # 注意：是SMTP授权码，不是登录密码！
+          subject: 📚 arXiv 每日论文更新 (${{ github.run_number }})
+          to: ${{ secrets.MAIL_TO }}
+          from: arXiv Daily <${{ secrets.MAIL_USERNAME }}>
+          body: file://docs/paper_analysis.md      # 邮件正文直接用LLM生成的分析报告
+          convert_markdown: true                   # Markdown 自动转 HTML 排版
 
       - name: Push updates
         uses: github-actions-x/commit@v2.9
