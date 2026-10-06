@@ -14,3 +14,19 @@ Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation
 Staying Sober: A Shot-Free Predictor of Logical Error Rates for Concatenated Quantum Error Correcting Codes
 LinearPFN: Amortized Variable Selection for Linear Models with Interactions
 Blind Beamforming for Intelligent Reflecting Surfaces: A Gradient Bandit Approach
+From Valid to Useful: Post-Verification Acquisition for Recursive Self-Improving Recommendation
+Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents
+OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration
+Large Language Model-Guided Discovery of Weight-Five Bivariate Bicycle Codes
+Lens3D: Target-Conditioned Visual Foveation for Fine-Grained 3D Understanding
+Separators Make Carry Propagation Learnable:The Geometry of Latent Carry in a Multiplication Transformer
+An Evaluation of the Semantic Understanding Capabilities of Large Language Models for Web Attack Payloads
+AISSA Demo: AI-based Student Slides Analysis Tool for Automated Grading and Feedback
+Choosing an energy-efficient software architecture for building system diagnostic support
+GPlaceRL: An Open-Source Graph Reinforcement Learning Framework for Detailed Placement
+Visual Swarm Navigation via Deep Reinforcement Learning and Evolutionary Hybrid Design
+CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems
+RollPlace: Improving Macro Placement via Monte Carlo Rollout Search
+Graph Neural Network-Driven Deep Reinforcement Learning for Scalable RIS Allocation
+Constrained Goal-directed Planar Graph Generation with Grammar-based Reinforcement Learning
+I-BFM: Reward-Conditioned Robust Humanoid Interaction via Unsupervised Reinforcement Learning
