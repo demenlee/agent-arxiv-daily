@@ -30,7 +30,10 @@ arXiv 每日论文邮件推送（HTML 摘要版）
   SEND_IF_EMPTY   无新论文时是否也发一封，默认 false
   SHOW_KEYWORDS   邮件开头是否展示追踪关键词（config.yaml 的 filters），默认 true
   CONFIG_PATH     config.yaml 路径，默认 config.yaml
-  FALLBACK_LATEST 无 newly_analyzed 文件时，按发布日期取最近几篇，默认 10（0=不发）
+  FALLBACK_LATEST 无 newly_analyzed 文件时，按发布日期取最近几篇，默认 0（=不发）。
+                  注意：newly_analyzed_papers.json 只在「本轮有新论文分析成功」时生成，
+                  所以默认值 0 意味着「没有新论文的日子不发邮件」；
+                  想发历史回顾邮件或本地预览排版时，显式设为 10 等。
   DRY_RUN         1=只生成预览文件不发信
   PREVIEW_PATH    预览文件路径，默认 docs/email_preview.html
 """
@@ -379,7 +382,7 @@ def main():
     max_per_category = int(os.environ.get("MAX_PER_CATEGORY", "15"))
     max_total = int(os.environ.get("MAX_TOTAL", "0"))  # 0 = 不限制
     send_if_empty = os.environ.get("SEND_IF_EMPTY", "false").lower() in ("1", "true", "yes")
-    fallback_latest_n = int(os.environ.get("FALLBACK_LATEST", "10"))
+    fallback_latest_n = int(os.environ.get("FALLBACK_LATEST", "0"))  # 0 = 无新论文时不发邮件
 
     analysis_data = load_json(ANALYSIS_JSON_PATH)
     if not analysis_data:
