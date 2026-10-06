@@ -516,7 +516,7 @@ def run_streaming_pipeline(args):
             try:
                 # Select API client based on --api argument
                 if args.api == 'claude':
-                    api_client = ClaudeClient(args.apikey, os.environ.get('CRS_BASE_URL'))
+                    api_client = ClaudeClient(args.apikey, os.environ.get('CRS_BASE_URL'), args.model)
                     logging.info('Claude API client initialized')
                 else:  # openai
                     api_client = OpenAIClientOrig(args.apikey, os.environ.get('CRS_BASE_URL'))
@@ -706,6 +706,9 @@ if __name__ == '__main__':
                         help='LLM API to use (default: claude)')
     parser.add_argument('--apikey', type=str, default=default_api_key,
                         help='API key or path to API key file')
+    parser.add_argument('--model', type=str, default=os.environ.get('CRS_MODEL'),
+                        help='LLM 模型名（默认取 CRS_MODEL 环境变量）。'
+                             'DeepSeek 官方填 deepseek-chat；也要把 CRS_BASE_URL 设成 https://api.deepseek.com')
 
     # Control flags
     parser.add_argument('--skip_analysis', action='store_true',
