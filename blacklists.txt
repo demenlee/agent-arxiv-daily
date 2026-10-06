@@ -1,1 +1,16 @@
-FaceChain: A Playground for Human-centric Artificial Intelligence Generated Content
+FaceChain: A Playground for Human-centric Artificial Intelligence Generated ContentDiscovering New Problems for Decoded Quantum Interferometry
+TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify
+Learning to Read the Contextual Tokens in Diffusion Transformers
+How to scale your HEP ML models: A recipe for robust architecture comparisons at scale
+MatrixFormer: A Foundation Model for Matrix Completion
+BRANCH-MoE: Balance-Aware Tree Routing for Large Embedding Models
+Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs
+Closing the Context Gap: Activation Alignment for Tabular In-Context Learning
+Direct Intermediate Initialization for Tilted Diffusion Samplers
+From Quantum Tunneling to Classical Optimization through Instantons
+Polarised cross sections for loop-induced processes with SHERPA+RECOLA
+Finite-time blow-up for the real-valued defocusing energy-supercritical quintic NLW
+Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation
+Staying Sober: A Shot-Free Predictor of Logical Error Rates for Concatenated Quantum Error Correcting Codes
+LinearPFN: Amortized Variable Selection for Linear Models with Interactions
+Blind Beamforming for Intelligent Reflecting Surfaces: A Gradient Bandit Approach
