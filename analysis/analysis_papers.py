@@ -158,7 +158,7 @@ def create_analysis_prompt(parsed_data, search_keywords=None, enable_validation=
 - Evaluate how relevant this paper is to these search keywords: {keywords_str}
 - Provide a relevance score (0-10) and explain your reasoning"""
 
-    prompt = f"""Analyze this research paper extracted from LaTeX source:
+    prompt = f"""Analyze this research paper extracted from LaTeX source（所有分析输出一律使用中文撰写，论文标题/作者/机构/代码仓库名等专有名词可保留英文）:
 
 {json.dumps(parsed_data, indent=2, ensure_ascii=False)}
 
@@ -186,6 +186,7 @@ IMPORTANT:
 - For corresponding_author: look for *, †, ✉ markers; set to null if cannot identify
 - For author_affiliations: match authors to institutions (best effort); can be empty {{}} if unable
 - For one_sentence_summary: write ONE complete sentence in Chinese covering goal, method, dataset, and results
+- 语言要求：所有叙述性字段（one_sentence_summary、reasoning 等）必须使用简体中文；专有名词保持原文
 - Return valid JSON only, no additional text{keyword_instruction}"""
 
     return prompt

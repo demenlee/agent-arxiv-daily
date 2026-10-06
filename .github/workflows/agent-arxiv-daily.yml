@@ -80,32 +80,33 @@ jobs:
           python send_webhook_notification.py
         continue-on-error: true
 
-      - name: Send email notification
-        if: always()                      # 前面步骤失败也尝试发邮件
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.qq.com     # QQ邮箱；163用 smtp.163.com；Gmail用 smtp.gmail.com
-          server_port: 465
-          secure: true                    # 465端口走SSL；Gmail用587则改为 false
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}   # 注意：是SMTP授权码，不是登录密码！
-          subject: 📚 arXiv 每日论文更新 (${{ github.run_number }})
-          to: ${{ secrets.MAIL_TO }}
-          from: arXiv Daily <${{ secrets.MAIL_USERNAME }}>
-          html_body: file://docs/paper_analysis.md  # 必须是 html_body，convert_markdown 只对 html_body 生效
-          convert_markdown: true                    # Markdown -> HTML（对 body 无效）
+      # ---- 邮件方案 B（当前启用）：send_email.py 发「当日新论文」HTML 摘要，只发精选 5 篇 ----
+      - name: Send email notification (python)
+        if: always()
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAX_TOTAL: 5                            # 跨分类精选总篇数；0 = 不限制
+          REPORT_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python send_email.py
+        continue-on-error: true
 
-      # ---- 可选方案：改用 send_email.py 发送「当日新论文」摘要邮件（正文更小、排版更可控）----
-      # 想用就把上面那段 dawidd6/action-send-mail 注释掉，打开下面这段：
-      # - name: Send email notification (python)
-      #   if: always()
-      #   env:
-      #     MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
-      #     MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
-      #     MAIL_TO: ${{ secrets.MAIL_TO }}
-      #     REPORT_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
-      #   run: python send_email.py
-      #   continue-on-error: true
+      # ---- 邮件方案 A（备用）：Action 发「全量报告」，正文 = 全部历史论文（会越来越大）----
+      # - name: Send email notification
+      #   if: always()                      # 前面步骤失败也尝试发邮件
+      #   uses: dawidd6/action-send-mail@v3
+      #   with:
+      #     server_address: smtp.qq.com     # QQ邮箱；163用 smtp.163.com；Gmail用 smtp.gmail.com
+      #     server_port: 465
+      #     secure: true                    # 465端口走SSL；Gmail用587则改为 false
+      #     username: ${{ secrets.MAIL_USERNAME }}
+      #     password: ${{ secrets.MAIL_PASSWORD }}   # 注意：是SMTP授权码，不是登录密码！
+      #     subject: 📚 arXiv 每日论文更新 (${{ github.run_number }})
+      #     to: ${{ secrets.MAIL_TO }}
+      #     from: arXiv Daily <${{ secrets.MAIL_USERNAME }}>
+      #     html_body: file://docs/paper_analysis.md  # 必须是 html_body，convert_markdown 只对 html_body 生效
+      #     convert_markdown: true                    # Markdown -> HTML（对 body 无效）
 
       - name: Push updates
         uses: github-actions-x/commit@v2.9

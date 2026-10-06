@@ -26,7 +26,10 @@ arXiv 每日论文邮件推送（HTML 摘要版）
   SUBJECT_PREFIX  邮件标题前缀，默认 "arXiv 每日论文"
   REPORT_URL      完整报告链接，默认取 GitHub Pages 地址
   MAX_PER_CATEGORY 每个分类最多展示几篇，默认 15
+  MAX_TOTAL     跨分类精选总篇数，0=不限制，默认 0。如 5 表示全文只发精选 5 篇
   SEND_IF_EMPTY   无新论文时是否也发一封，默认 false
+  SHOW_KEYWORDS   邮件开头是否展示追踪关键词（config.yaml 的 filters），默认 true
+  CONFIG_PATH     config.yaml 路径，默认 config.yaml
   FALLBACK_LATEST 无 newly_analyzed 文件时，按发布日期取最近几篇，默认 10（0=不发）
   DRY_RUN         1=只生成预览文件不发信
   PREVIEW_PATH    预览文件路径，默认 docs/email_preview.html
@@ -35,6 +38,7 @@ arXiv 每日论文邮件推送（HTML 摘要版）
 import html
 import json
 import os
+import re
 import smtplib
 import ssl
 import sys
@@ -46,6 +50,7 @@ from email.utils import formataddr, make_msgid
 
 NEWLY_ANALYZED_PATH = os.environ.get("NEWLY_ANALYZED_PATH", "docs/newly_analyzed_papers.json")
 ANALYSIS_JSON_PATH = os.environ.get("ANALYSIS_JSON_PATH", "docs/agent-arxiv-daily-analysis.json")
+CONFIG_PATH = os.environ.get("CONFIG_PATH", "config.yaml")
 
 CATEGORY_COLORS = {
     "Agent": "#2563eb",
@@ -115,6 +120,88 @@ def fallback_latest(analysis_data, limit):
     return groups
 
 
+def load_keyword_filters(config_path):
+    """读取 config.yaml 里 keywords 的 filters。
+
+    优先用 PyYAML（GitHub Actions 的 Install dependencies 步骤已安装）；
+    本地没有 PyYAML 时，用针对本仓库 config.yaml 结构的正则兜底。
+    """
+    try:
+        with open(config_path, encoding="utf-8") as f:
+            text = f.read()
+    except Exception as e:
+        print(f"[WARN] 读取关键词配置失败 {config_path}: {e}")
+        return {}
+
+    try:
+        import yaml
+        data = yaml.safe_load(text) or {}
+        keywords = data.get("keywords") or {}
+        result = {
+            str(name): [str(f) for f in ((value or {}).get("filters") or [])]
+            for name, value in keywords.items()
+            if isinstance(value, dict)
+        }
+        if result:
+            return result
+    except ImportError:
+        print("[INFO] 未安装 PyYAML，关键词配置使用正则解析")
+    except Exception as e:
+        # config.yaml 语法错误（如误留空元素）时不让邮件发送失败
+        print(f"[WARN] PyYAML 解析失败（{e}），改用正则兜底")
+
+    # 正则兜底：匹配  "分类名":\n        filters: [...]
+    out = {}
+    pattern = re.compile(r'^\s*"([^"]+)":\s*\r?\n\s*filters:\s*\[(.*?)\]\s*$', re.M)
+    for name, filters in pattern.findall(text):
+        items = [item.strip().strip("\"'") for item in filters.split(",") if item.strip().strip("\"'")]
+        if items:
+            out[name.strip()] = items
+    return out
+
+
+# ---------------------------------------------------------------- 精选
+
+def paper_score(info):
+    """选优排序键：相关度分数优先（pipeline 关键词校验打的分），发布日期兜底"""
+    score = info.get("keyword_relevance_score")
+    try:
+        score = float(score) if score is not None else -1.0
+    except (TypeError, ValueError):
+        score = -1.0
+    return (score, info.get("publish_date") or "")
+
+
+def select_top(groups, max_total):
+    """跨分类精选 max_total 篇。
+
+    策略：先让每个分类取到自己的最优 1 篇（保证分类覆盖），
+    剩余名额再按分数全局排序补齐；每个分类内部按分数排序展示。
+    max_total <= 0 表示不限制。
+    """
+    if max_total <= 0:
+        return groups
+
+    ranked = {c: sorted(papers, key=paper_score, reverse=True) for c, papers in groups.items()}
+
+    picked, pool = [], []
+    for category, papers in ranked.items():
+        if papers:
+            picked.append((category, papers[0]))
+            pool.extend((category, p) for p in papers[1:])
+
+    picked = picked[:max_total]
+    if len(picked) < max_total:
+        pool.sort(key=lambda x: paper_score(x[1]), reverse=True)
+        picked.extend(pool[: max_total - len(picked)])
+
+    out = {}
+    for category, paper in picked:
+        out.setdefault(category, []).append(paper)
+    # 保持原有分类顺序
+    return {c: out[c] for c in groups if c in out}
+
+
 # ---------------------------------------------------------------- 渲染
 
 def render_paper(info, color):
@@ -154,7 +241,28 @@ def render_paper(info, color):
   </div>"""
 
 
-def build_html(groups, updated_at, report_url, max_per_category):
+def render_keywords(keyword_filters):
+    """邮件开头的「追踪关键词」区块"""
+    if not keyword_filters:
+        return ""
+    rows = []
+    for category, filters in keyword_filters.items():
+        color = CATEGORY_COLORS.get(category, DEFAULT_COLOR)
+        items = "、".join(html.escape(str(f)) for f in filters)
+        rows.append(
+            f'<div style="margin-top:5px;">'
+            f'<span style="color:{color};font-weight:600;">{html.escape(str(category))}</span>'
+            f'：{items}</div>'
+        )
+    return f"""
+  <div style="margin-top:16px;padding:12px 14px;background:#f1f5f9;border-radius:8px;
+              font-size:12px;line-height:1.7;color:#475569;">
+    <div style="font-weight:700;color:#334155;">追踪关键词（config.yaml）</div>
+    {''.join(rows)}
+  </div>"""
+
+
+def build_html(groups, updated_at, report_url, max_per_category, total_new=None, keyword_filters=None):
     total = sum(len(v) for v in groups.values())
     cat_nav = "".join(
         f'<span style="display:inline-block;margin:0 8px 6px 0;padding:3px 10px;border-radius:12px;'
@@ -183,6 +291,17 @@ def build_html(groups, updated_at, report_url, max_per_category):
     {cards}{more}
   </div>""")
 
+    # 标题行：如果做了精选，显示「新增 X · 精选 Y」
+    if total_new is not None and total_new != total:
+        count_line = (
+            f'更新于 {html.escape(updated_at)} · 本轮新增 {total_new} 篇，'
+            f'为你精选 <b style="color:#2563eb;">{total}</b> 篇'
+        )
+    else:
+        count_line = (
+            f'更新于 {html.escape(updated_at)} · 本轮新增 <b style="color:#2563eb;">{total}</b> 篇'
+        )
+
     report_link = (
         f'<a href="{html.escape(report_url, quote=True)}" style="color:#2563eb;text-decoration:none;">'
         f'查看完整报告与历史论文 →</a>' if report_url else ""
@@ -196,10 +315,9 @@ def build_html(groups, updated_at, report_url, max_per_category):
             padding:26px 26px 20px;box-shadow:0 1px 3px rgba(15,23,42,.08);">
 
   <div style="font-size:21px;font-weight:700;color:#0f172a;">arXiv 每日论文速递</div>
-  <div style="font-size:13px;color:#64748b;margin-top:6px;">
-    更新于 {html.escape(updated_at)} · 本轮新增 <b style="color:#2563eb;">{total}</b> 篇
-  </div>
+  <div style="font-size:13px;color:#64748b;margin-top:6px;">{count_line}</div>
   <div style="margin-top:14px;">{cat_nav}</div>
+  {render_keywords(keyword_filters)}
 
   {''.join(sections) if sections else '<div style="padding:28px 0;text-align:center;color:#94a3b8;">本轮没有新论文</div>'}
 
@@ -259,6 +377,7 @@ def send_mail(subject, html_body):
 def main():
     dry_run = os.environ.get("DRY_RUN", "").lower() in ("1", "true", "yes")
     max_per_category = int(os.environ.get("MAX_PER_CATEGORY", "15"))
+    max_total = int(os.environ.get("MAX_TOTAL", "0"))  # 0 = 不限制
     send_if_empty = os.environ.get("SEND_IF_EMPTY", "false").lower() in ("1", "true", "yes")
     fallback_latest_n = int(os.environ.get("FALLBACK_LATEST", "10"))
 
@@ -280,6 +399,14 @@ def main():
         groups = fallback_latest(analysis_data, fallback_latest_n)
         print(f"[WARN] 未找到 {NEWLY_ANALYZED_PATH}，改用各分类最近 {fallback_latest_n} 篇作为兜底")
 
+    total_new = sum(len(v) for v in groups.values())
+
+    # 跨分类精选（MAX_TOTAL > 0 时）
+    if max_total > 0:
+        groups = select_top(groups, max_total)
+        picked = sum(len(v) for v in groups.values())
+        print(f"[INFO] MAX_TOTAL={max_total}，从 {total_new} 篇中精选 {picked} 篇")
+
     total = sum(len(v) for v in groups.values())
     if total == 0 and not send_if_empty:
         print("[INFO] 没有新论文，跳过发送")
@@ -292,8 +419,16 @@ def main():
         report_url = f"https://{owner}.github.io/{repo}/"
 
     subject_prefix = os.environ.get("SUBJECT_PREFIX", "arXiv 每日论文")
-    subject = f"{subject_prefix} | {total} 篇新论文 ({updated_at})"
-    html_body = build_html(groups, updated_at, report_url, max_per_category)
+    if max_total > 0:
+        subject = f"{subject_prefix} | 精选 {total} 篇 ({updated_at})"
+    else:
+        subject = f"{subject_prefix} | {total} 篇新论文 ({updated_at})"
+
+    # 邮件开头展示追踪关键词（SHOW_KEYWORDS=true 时）
+    show_keywords = os.environ.get("SHOW_KEYWORDS", "true").lower() in ("1", "true", "yes")
+    keyword_filters = load_keyword_filters(CONFIG_PATH) if show_keywords else {}
+
+    html_body = build_html(groups, updated_at, report_url, max_per_category, total_new, keyword_filters)
 
     if dry_run:
         path = os.environ.get("PREVIEW_PATH", "docs/email_preview.html")
