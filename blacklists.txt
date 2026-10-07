@@ -30,3 +30,26 @@ RollPlace: Improving Macro Placement via Monte Carlo Rollout Search
 Graph Neural Network-Driven Deep Reinforcement Learning for Scalable RIS Allocation
 Constrained Goal-directed Planar Graph Generation with Grammar-based Reinforcement Learning
 I-BFM: Reward-Conditioned Robust Humanoid Interaction via Unsupervised Reinforcement Learning
+The Missing Minimal Pair: Stereotype Evaluation in LLMs
+BARE-AI: Bit-Flip Attack Resilience in AI Hardware through Built-in Performance Monitors
+Agreement Is Not Validity: Cross-Model LLM Consensus in Diagnosing Student Failure Modes in K-12 Math Tutoring Dialogue
+Secure Speculative Decoding for Large Language Models
+MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory
+Incidental information contaminates patient notes and disrupts clinical reasoning in large language models
+Adaptive Power Sampling for LLM Reasoning
+Latent space bias directions in LLMs capture confidence, not fairness
+AssemState: Manual and Physical-State-Guided Reasoning for Zero-shot Furniture Assembly
+Knowing When Not to Answer: Cross-Domain and Multi-Turn Generalization of Latent Underspecification Signals
+Case-Level Verification in Scanner-LLM Cascades: Overcoming the Alert Aggregation Bottleneck to Expand the FRR-TPR Trade-off Space
+DIPrune: Task-Aware Token Pruning with Dual Importance for Efficient Multimodal Language Models
+Covariate-dependent Nonparametric $g$-modeling for regression via infinite Mixture-of-Expertizing class
+Language Unalignability: Why Some Concepts Resist Cross-Cultural Benchmark Evaluation
+Beyond the Leaderboard: Multi-Dimensional Evaluation of Dense and Mixture-of-Experts Models for Automated Program Repair
+Align, Then Correct: Training-Free Two-Stage Low-Rank Compensation for Extremely Quantized Large Language Models
+QF3: Fast Flow RL with Filtered Q-Gradients
+Reinforcement Learning with Conformal Action Sets: An Application to Sequential Recommendation
+Sensor-Layout-Agnostic Navigation via Geometric Observation Canonicalization
+Reinforcement Learning with Segment Reward Feedback under Linear Function Approximation
+Behavior-Mining, Generative Conversations, and Collaborative Advisory: the Future of Travel and Tourism Recommender Systems
+UWB Meets Crazyflow: Simulating Degraded Feedback at Scale for Aerial Robotics
+EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors
