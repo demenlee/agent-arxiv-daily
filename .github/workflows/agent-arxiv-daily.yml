@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 0/24 * * *"  #'*/60 * * * *'
+    - cron:  "0 16 * * *"  #'*/60 * * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -68,7 +68,7 @@ jobs:
             --delay_seconds 10 \
             --report_path ../docs/paper_analysis.md \
             --trends_file ../docs/agent_trends.txt \
-            --max_papers 40 || echo "::warning::pipeline 非 0 退出：通常表示本轮没有新论文分析成功（全部已分析过，或部分论文 LLM 调用失败）。报告与邮件不受影响，请查看上方日志中的 Successful/Skipped/Failed 统计。"
+            --max_papers 20 || echo "::warning::pipeline 非 0 退出：通常表示本轮没有新论文分析成功（全部已分析过，或部分论文 LLM 调用失败）。报告与邮件不受影响，请查看上方日志中的 Successful/Skipped/Failed 统计。"
         continue-on-error: true
 
       - name: Send DingTalk notification
@@ -88,7 +88,7 @@ jobs:
           MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
           MAX_TOTAL: 5                            # 跨分类精选总篇数；0 = 不限制
-          FALLBACK_LATEST: 5                      # 无新论文时不发邮件（>0 则发历史回顾，仅调试用）
+          FALLBACK_LATEST: 0                      # 无新论文时不发邮件（>0 则发历史回顾，仅调试用）
           REPORT_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
         run: python send_email.py
         continue-on-error: true
