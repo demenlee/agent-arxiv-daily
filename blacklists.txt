@@ -53,3 +53,16 @@ Reinforcement Learning with Segment Reward Feedback under Linear Function Approx
 Behavior-Mining, Generative Conversations, and Collaborative Advisory: the Future of Travel and Tourism Recommender Systems
 UWB Meets Crazyflow: Simulating Degraded Feedback at Scale for Aerial Robotics
 EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors
+PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs
+Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds
+Self-correction Optimization for Interleaved Multimodal Generation
+TaoD2C-Bench: Benchmarking MLLMs for Industrial UI Code Generation Beyond Visual Fidelity
+Nobody Truly Agrees on Sentiment: Humans, Bespoke Tools, and LLMs Struggle with Social Media Texts
+Fault-tolerant foundation models
+SemanticFold: Latent Sequence Compression SeparatesLanguage Modeling, Decodability, and Reasoning
+Beyond LLM-GA: Secure Fluid Antenna Systems with ReEvo-Designed Memetic Algorithm
+LLM Persuasion Is in the Eye of the Evaluation
+MORCA: Offline-to-Online Reinforcement Learning for Adaptive Cache Reuse in Video Diffusion Acceleration
+Average-Reward Reinforcement Learning for Multichain MDPs: A Hierarchical Decomposition Approach
+TRACK: Telemetry-Based Racing Analysis and Coaching Kit in Sim Racing Games
+Decoding Neural Population Dynamics through Robotic Analog
