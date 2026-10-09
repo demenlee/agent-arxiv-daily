@@ -66,3 +66,19 @@ MORCA: Offline-to-Online Reinforcement Learning for Adaptive Cache Reuse in Vide
 Average-Reward Reinforcement Learning for Multichain MDPs: A Hierarchical Decomposition Approach
 TRACK: Telemetry-Based Racing Analysis and Coaching Kit in Sim Racing Games
 Decoding Neural Population Dynamics through Robotic Analog
+OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning
+FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?
+GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving
+Long Text to Predictive Features: LLM-Guided Blockwise Feature Engineering via Executable Program Search
+Overcoming Prior Barriers: Supervised Fine-Tuning under Long-Tail Distribution
+Prior or Feedback? What an LLM Uses When Adapting Neural Operators
+Verdict Without the Rule: Diagnosing and Auditing Regulatory Rule Sensitivity in LLM Compliance Systems
+From What to Which: Decoding Modifier Grounding in Frozen MLLMs
+DVD: Dynamic Vector Decoding for Efficient MLLM-based Perception
+DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training
+Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation
+A Unified Bellman Operator for Safety-Critical Reinforcement Learning
+Walking on Roofs: Exploring the Potential of Walking Robots for Construction Work on Roofs
+VibeEdit: Image Editing with Canvas Instructions
+Credal Machine Learning for Risk-Averse Decision Making
+Predefined-Time Integral Reinforcement Learning for Unknown Nonlinear Systems via Inverse-Optimal Design
