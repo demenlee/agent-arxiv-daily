@@ -297,8 +297,9 @@ def build_html(groups, updated_at, report_url, max_per_category, total_new=None,
     # 标题行：如果做了精选，显示「新增 X · 精选 Y」
     if total_new is not None and total_new != total:
         count_line = (
-            f'更新于 {html.escape(updated_at)} · 本轮新增 {total_new} 篇，'
-            f'为你精选 <b style="color:#2563eb;">{total}</b> 篇'
+            f'更新于 UTC {html.escape(updated_at)} · 本轮新增 {total_new} 篇，'
+            f'为你精选 <b style="color:#2563eb;">{total}</b> 篇。'
+            f'增加、修改追踪关键词或增加发送人请联系李树茂。'
         )
     else:
         count_line = (
@@ -423,9 +424,9 @@ def main():
 
     subject_prefix = os.environ.get("SUBJECT_PREFIX", "arXiv 每日论文")
     if max_total > 0:
-        subject = f"{subject_prefix} | 精选 {total} 篇 ({updated_at})"
+        subject = f"{subject_prefix} | 精选 {total} 篇 (UTC {updated_at})"
     else:
-        subject = f"{subject_prefix} | {total} 篇新论文 ({updated_at})"
+        subject = f"{subject_prefix} | {total} 篇新论文 (UTC {updated_at})"
 
     # 邮件开头展示追踪关键词（SHOW_KEYWORDS=true 时）
     show_keywords = os.environ.get("SHOW_KEYWORDS", "true").lower() in ("1", "true", "yes")
