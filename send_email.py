@@ -299,7 +299,7 @@ def build_html(groups, updated_at, report_url, max_per_category, total_new=None,
         count_line = (
             f'更新于 UTC {html.escape(updated_at)} · 本轮新增 {total_new} 篇，'
             f'为你精选 <b style="color:#2563eb;">{total}</b> 篇。'
-            f'增加、修改追踪关键词或增加发送人请联系李树茂。'
+            f'增加、修改追踪关键词 或 增加、修改收件人 请联系李树茂。'
         )
     else:
         count_line = (
