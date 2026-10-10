@@ -37546,6 +37546,118 @@
       ],
       "blacklisted": false,
       "blacklist_reason": ""
+    },
+    "2610.12061": {
+      "arxiv_id": "2610.12061",
+      "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
+      "publish_date": "2026-10-08",
+      "source_type": "latex",
+      "first_author": "Yiruo Cheng",
+      "corresponding_author": "Yiruo Cheng, Zhicheng Dou",
+      "author_affiliations": {
+        "Yiruo Cheng": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Zhicheng Dou": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Ji-Rong Wen": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Pengjun Xie": "Alibaba Token Hub, Alibaba Group"
+      },
+      "urls": {
+        "github": "https://github.com/HututuAI/RACE",
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了RACE（Reasoning Adaptation through Cross-Turn Estimation）训练框架，利用参考动作似然下降作为轻量级信号进行跨轮推理覆盖检测（LoGiC）并将移除信号融入监督微调与智能体强化学习，在ScienceWorld、WebShop、AppWorld和DeepSearch四个基准上大幅减少推理token（最高约80.2%）且保持或提升任务成功率。",
+      "metadata": {
+        "first_author": "Yiruo Cheng",
+        "corresponding_author": "Yiruo Cheng, Zhicheng Dou",
+        "author_affiliations": {
+          "Yiruo Cheng": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Zhicheng Dou": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Ji-Rong Wen": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Pengjun Xie": "Alibaba Token Hub, Alibaba Group"
+        },
+        "resources": {
+          "github": "https://github.com/HututuAI/RACE",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8.5,
+      "keyword_reasoning": "论文聚焦LLM智能体的自适应推理，核心是ReAct式多轮交互中的推理必要性判断，并采用SFT与GRPO等agentic RL/在线RL训练策略，因此与Agentic、Agent RL、ReAct、LLM、Fine-tuning、Chain of Thought、RL/Online RL高度相关。其研究不是多智能体协作、记忆机制、技能库、递归自我改进或模型压缩/量化/蒸馏，因此这些关键词不匹配。",
+      "matching_keywords": [
+        "Agentic",
+        "ReAct",
+        "Agent RL",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Chain of Thought",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.11989": {
+      "arxiv_id": "2610.11989",
+      "title": "MetaOPD: Meta-Learned Token Weighting for On-Policy Distillation",
+      "publish_date": "2026-10-08",
+      "source_type": "latex",
+      "first_author": "Zipeng Wang",
+      "corresponding_author": "Min Zhang",
+      "author_affiliations": {
+        "Zipeng Wang": "East China Normal University",
+        "Xinpeng Dong": "East China Normal University",
+        "Yuefan Wang": "East China Normal University",
+        "Pingchen Lu": "East China Normal University",
+        "Xian Wei": "East China Normal University",
+        "Kun Kuang": "Zhejiang University",
+        "Fei Wu": "Zhejiang University",
+        "Zhongxiang Dai": "The Chinese University of Hong Kong, Shenzhen",
+        "Min Zhang": "Zhejiang University"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了 MetaOPD 框架，使用双层优化与轻量 token 加权网络，通过虚拟学生更新后的验证损失学习 token 权重，并在六个数学推理和三个域外数据集上，使 0.6B/1.7B 学生的 Avg@8/Pass@8 相比 OPD 分别提升 1.99/5.97 和 2.25/6.41 个百分点。",
+      "metadata": {
+        "first_author": "Zipeng Wang",
+        "corresponding_author": "Min Zhang",
+        "author_affiliations": {
+          "Zipeng Wang": "East China Normal University",
+          "Xinpeng Dong": "East China Normal University",
+          "Yuefan Wang": "East China Normal University",
+          "Pingchen Lu": "East China Normal University",
+          "Xian Wei": "East China Normal University",
+          "Kun Kuang": "Zhejiang University",
+          "Fei Wu": "Zhejiang University",
+          "Zhongxiang Dai": "The Chinese University of Hong Kong, Shenzhen",
+          "Min Zhang": "Zhejiang University"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是 On-Policy Distillation 中的 token 加权学习，直接涉及 Distillation、On-Policy Distillation、OPD、LLM 与 Fine-tuning；使用双层优化、元学习和学生 rollout 上的策略式更新，属于 LLM 蒸馏与微调方向。未涉及 Multi-Agent、Agentic、ReAct、RAG、Mixture of Experts、Quantization 等关键词。",
+      "matching_keywords": [
+        "Distillation",
+        "On-Policy Distillation",
+        "OPD",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
     }
   }
 }

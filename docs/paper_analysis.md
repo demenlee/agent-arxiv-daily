@@ -1,19 +1,19 @@
 # Agent ArXiv Daily - Paper Analysis
 
-## Updated on 2026.10.09
+## Updated on 2026.10.10
 
 This page contains AI-generated analysis of recent papers. The analysis is generated using Claude AI via OpenAI-compatible API.
 
 **Note**: The generated contents are not guaranteed to be 100% accurate.
 
-**Total Papers Analyzed**: 824
+**Total Papers Analyzed**: 826
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#agent">Agent</a> (512 papers)</li>
     <li><a href="#large-language-models">Large Language Models</a> (162 papers)</li>
-    <li><a href="#reinforcement-learning">Reinforcement Learning</a> (150 papers)</li>
+    <li><a href="#reinforcement-learning">Reinforcement Learning</a> (152 papers)</li>
   </ol>
 </details>
 
@@ -4637,7 +4637,7 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 
-<p align="right">(<a href="#updated-on-20261009">back to top</a>)</p>
+<p align="right">(<a href="#updated-on-20261010">back to top</a>)</p>
 
 ## Large Language Models
 
@@ -6137,7 +6137,7 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 
-<p align="right">(<a href="#updated-on-20261009">back to top</a>)</p>
+<p align="right">(<a href="#updated-on-20261010">back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -6308,6 +6308,24 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 <p>
 
 <strong>Resources</strong>: <a href="https://peacelwh.github.io/TPAMI27-DVLA-RLpp/">Project Page</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-08</b> When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation (Unknown Author) <a href="http://arxiv.org/abs/2610.12061">arXiv</a> | <a href="http://arxiv.org/pdf/2610.12061.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/HututuAI/RACE">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-08</b> MetaOPD: Meta-Learned Token Weighting for On-Policy Distillation (Unknown Author) <a href="http://arxiv.org/abs/2610.11989">arXiv</a> | <a href="http://arxiv.org/pdf/2610.11989.pdf">PDF</a></summary>
+<p>
+
+
 
 </p>
 </details>
@@ -7501,5 +7519,5 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 
-<p align="right">(<a href="#updated-on-20261009">back to top</a>)</p>
+<p align="right">(<a href="#updated-on-20261010">back to top</a>)</p>
 
