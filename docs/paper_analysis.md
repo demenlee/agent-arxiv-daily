@@ -1,19 +1,19 @@
 # Agent ArXiv Daily - Paper Analysis
 
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 
 This page contains AI-generated analysis of recent papers. The analysis is generated using Claude AI via OpenAI-compatible API.
 
 **Note**: The generated contents are not guaranteed to be 100% accurate.
 
-**Total Papers Analyzed**: 826
+**Total Papers Analyzed**: 870
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#agent">Agent</a> (512 papers)</li>
-    <li><a href="#large-language-models">Large Language Models</a> (162 papers)</li>
-    <li><a href="#reinforcement-learning">Reinforcement Learning</a> (152 papers)</li>
+    <li><a href="#agent">Agent</a> (517 papers)</li>
+    <li><a href="#large-language-models">Large Language Models</a> (182 papers)</li>
+    <li><a href="#reinforcement-learning">Reinforcement Learning</a> (171 papers)</li>
   </ol>
 </details>
 
@@ -27,6 +27,51 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 ---
+
+<details>
+<summary><b>2026-10-09</b> RSI-Anything: Unlocking Recursive Self-Improvement with World Models (Unknown Author) <a href="http://arxiv.org/abs/2610.13912">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13912.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/Gen-Verse/RSI-Anything">GitHub</a> | <a href="https://huggingface.co/datasets/Gen-Verse/RSI-Anything">HuggingFace</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> MC-EvoBench: Auditing Experience-Driven Self-Improvement in Minecraft Agents (Unknown Author) <a href="http://arxiv.org/abs/2610.13829">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13829.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/xzw-ustc/mc-bench-open-source">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Rollout-Time Intervention: Unlocking Agentic Reinforcement Learning Beyond Policy Limits (Unknown Author) <a href="http://arxiv.org/abs/2610.13438">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13438.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/Alibaba-NLP/qqr">GitHub</a> | <a href="https://huggingface.co/datasets/inclusionAI/AReaL-tau2-data">HuggingFace</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies (Unknown Author) <a href="http://arxiv.org/abs/2610.13376">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13376.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> VETR: Execution-Grounded Self-Improving Agent for Symbolic Graphics Reasoning (Unknown Author) <a href="http://arxiv.org/abs/2610.13098">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13098.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
 
 <details>
 <summary><b>2026-10-08</b> Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement (Unknown Author) <a href="http://arxiv.org/abs/2610.12369">arXiv</a> | <a href="http://arxiv.org/pdf/2610.12369.pdf">PDF</a></summary>
@@ -4637,7 +4682,7 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 
-<p align="right">(<a href="#updated-on-20261011">back to top</a>)</p>
+<p align="right">(<a href="#updated-on-20261012">back to top</a>)</p>
 
 ## Large Language Models
 
@@ -4649,6 +4694,186 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 ---
+
+<details>
+<summary><b>2026-10-09</b> A Comprehensive JWST Slitless Spectroscopic Census of $\sim$12,000 Emission-Line Galaxies at Redshift $0\sim9$ in COSMOS (Unknown Author) <a href="http://arxiv.org/abs/2610.13920">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13920.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/fengwusun/nircam_grism">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Task Context Shapes Component Roles in Language Models (Unknown Author) <a href="http://arxiv.org/abs/2610.13895">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13895.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> SpatialASM: Internalizing Active Mentalization for Spatial Reasoning (Unknown Author) <a href="http://arxiv.org/abs/2610.13832">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13832.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/InternLM/SpatialASM">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing (Unknown Author) <a href="http://arxiv.org/abs/2610.13823">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13823.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/semviews/sqp-variance-study">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> QTestBench: A Test Framework for Evaluating LLM-Generated Quantum Code (Unknown Author) <a href="http://arxiv.org/abs/2610.13811">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13811.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/eBrain4Everyone/QTestBench">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Tracing and Taming Hallucinated Terms via Subsequence-Association Filtering and Breadth-Aware Selection for LLM Query Expansion (Unknown Author) <a href="http://arxiv.org/abs/2610.13810">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13810.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Artificial Intelligence-Assisted Systems Biology Reconstruction of Diabetic Bone Marrow Dysfunction (Unknown Author) <a href="http://arxiv.org/abs/2610.13721">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13721.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> OpenSocialJax: Evaluating Social Adaptation in Sequential Social Dilemmas with Open-Ended Environmental Dynamics (Unknown Author) <a href="http://arxiv.org/abs/2610.13710">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13710.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/cooperativex/OpenSocialJax">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Inject a Turn, Not a Token: Learning Where to Redirect LLM Reasoning for Self-Correction (Unknown Author) <a href="http://arxiv.org/abs/2610.13672">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13672.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models (Unknown Author) <a href="http://arxiv.org/abs/2610.13663">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13663.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/sag111/llm-auto-tuning-results">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> ToFu: Exploiting and Fuzzing the LLM-Orchestrator-Tool Trust Boundary (Unknown Author) <a href="http://arxiv.org/abs/2610.13651">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13651.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> SPARQL-LLM in the TEXT2SPARQL 2026 Challenge (Unknown Author) <a href="http://arxiv.org/abs/2610.13648">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13648.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/sib-swiss/sparql-llm">GitHub</a> | <a href="https://www.expasy.org/chat">Project Page</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Humanize Olympiad Agents: A Multi-Session Workflow for Olympiad Problem Solving with Solve, Review, Wiki, Verify (Unknown Author) <a href="http://arxiv.org/abs/2610.13632">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13632.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/humanfia/hoa">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> AMLworld-Compact: Importance-Weighted Downsampling for Cost-Effective LLM Evaluation and Error Diagnosis (Unknown Author) <a href="http://arxiv.org/abs/2610.13627">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13627.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/nat-nischw/AMLworld-Compact">GitHub</a> | <a href="https://huggingface.co/datasets/typhoon-ai/AMLworldCompactEval">HuggingFace</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> SWE-DeceptionBench: Benchmarking Deceptive Behaviors of LLMs Across the Software Development Lifecycle (Unknown Author) <a href="http://arxiv.org/abs/2610.13626">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13626.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/THU-Agent/SWE-DeceptionBench">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Rationally Linearized MLPs (Unknown Author) <a href="http://arxiv.org/abs/2610.13568">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13568.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Simulating Training Spikes of Deep Neural Networks by Layer-wise Random Feature Models (Unknown Author) <a href="http://arxiv.org/abs/2610.13524">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13524.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Phonology-Aware Speaker Extraction Frontend for Audio LLMs (Unknown Author) <a href="http://arxiv.org/abs/2610.13500">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13500.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> EviRepair: Evidence-Driven Agents for Reliable Vulnerability Repair (Unknown Author) <a href="http://arxiv.org/abs/2610.13491">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13491.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/lly-s/EviRepair">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Proactive Agentic Orchestration (Unknown Author) <a href="http://arxiv.org/abs/2610.13485">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13485.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/XueyangFeng/POrchestra">GitHub</a><br>
+
+</p>
+</details>
 
 <details>
 <summary><b>2026-10-08</b> OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning (Unknown Author) <a href="http://arxiv.org/abs/2610.12458">arXiv</a> | <a href="http://arxiv.org/pdf/2610.12458.pdf">PDF</a></summary>
@@ -6137,7 +6362,7 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 
-<p align="right">(<a href="#updated-on-20261011">back to top</a>)</p>
+<p align="right">(<a href="#updated-on-20261012">back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -6149,6 +6374,177 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 ---
+
+<details>
+<summary><b>2026-10-09</b> InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators (Unknown Author) <a href="http://arxiv.org/abs/2610.13944">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13944.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/InternLM/InstantFusion">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning (Unknown Author) <a href="http://arxiv.org/abs/2610.13923">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13923.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Partially Informed Stochastic Optimization via Zeroth-Order Residual Tracking (Unknown Author) <a href="http://arxiv.org/abs/2610.13871">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13871.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/alirezamirrokni/PISO">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Can Language Models Learn When to Abstain? Policy Learning and Calibrated Answer Selection (Unknown Author) <a href="http://arxiv.org/abs/2610.13821">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13821.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/jrterven/Can-LLMs-learn-to-abstain">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Dream to Remember: Continual Steering of Generalist Robot Policies with World Models (Unknown Author) <a href="http://arxiv.org/abs/2610.13816">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13816.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models (Unknown Author) <a href="http://arxiv.org/abs/2610.13781">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13781.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/OpenDriveLab/SimVTA">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> MARGoS: A Configuration-Driven Platform for Reproducible MARL Experiments in ARGoS (Unknown Author) <a href="http://arxiv.org/abs/2610.13772">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13772.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/tombackert/margos">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> SafeDiSTL: Decomposing Joint Constraints for Safe Multi-Agent Reinforcement Learning (Unknown Author) <a href="http://arxiv.org/abs/2610.13737">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13737.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> DIA: A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming (Unknown Author) <a href="http://arxiv.org/abs/2610.13698">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13698.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> A Critical Look at Power Sampling when Test Time Sharpening LLMs (Unknown Author) <a href="http://arxiv.org/abs/2610.13653">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13653.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> MENTOR: Learning from Failure with On-Policy Pedagogical Intervention (Unknown Author) <a href="http://arxiv.org/abs/2610.13594">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13594.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation (Unknown Author) <a href="http://arxiv.org/abs/2610.13521">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13521.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning (Unknown Author) <a href="http://arxiv.org/abs/2610.13504">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13504.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Branching On-Policy Distillation (Unknown Author) <a href="http://arxiv.org/abs/2610.13481">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13481.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/chendy25/BranchOPD">GitHub</a> | <a href="https://huggingface.co/BranchOPD">HuggingFace</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving (Unknown Author) <a href="http://arxiv.org/abs/2610.13453">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13453.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Collective Autonomous Vehicle Routing Needs Social Awareness for Coexistence with Human Drivers (Unknown Author) <a href="http://arxiv.org/abs/2610.13439">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13439.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> SWE-Critix: Post-Training Generalist Verifiers for Assessing Coding-Agent Trajectories (Unknown Author) <a href="http://arxiv.org/abs/2610.13356">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13356.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> EmoGavel: Grounding-Aware Reinforcement Learning with Verifiable Rewards for Multimodal Emotion Preference Learning (Unknown Author) <a href="http://arxiv.org/abs/2610.13353">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13353.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-09</b> Evo-RL: Iterative Robot Reinforcement Learning from Selective Experience (Unknown Author) <a href="http://arxiv.org/abs/2610.13345">arXiv</a> | <a href="http://arxiv.org/pdf/2610.13345.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/MINT-SJTU/Evo-RL">GitHub</a> | <a href="https://huggingface.co/datasets/MINT-SJTU/RW-RL-Dataset">HuggingFace</a><br>
+
+</p>
+</details>
 
 <details>
 <summary><b>2026-10-08</b> Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration (Unknown Author) <a href="http://arxiv.org/abs/2610.12470">arXiv</a> | <a href="http://arxiv.org/pdf/2610.12470.pdf">PDF</a></summary>
@@ -7519,5 +7915,5 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 
-<p align="right">(<a href="#updated-on-20261011">back to top</a>)</p>
+<p align="right">(<a href="#updated-on-20261012">back to top</a>)</p>
 

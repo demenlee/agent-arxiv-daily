@@ -82,3 +82,17 @@ Walking on Roofs: Exploring the Potential of Walking Robots for Construction Wor
 VibeEdit: Image Editing with Canvas Instructions
 Credal Machine Learning for Risk-Averse Decision Making
 Predefined-Time Integral Reinforcement Learning for Unknown Nonlinear Systems via Inverse-Optimal Design
+A Comprehensive JWST Slitless Spectroscopic Census of $\sim$12,000 Emission-Line Galaxies at Redshift $0\sim9$ in COSMOS
+Task Context Shapes Component Roles in Language Models
+Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing
+QTestBench: A Test Framework for Evaluating LLM-Generated Quantum Code
+Tracing and Taming Hallucinated Terms via Subsequence-Association Filtering and Breadth-Aware Selection for LLM Query Expansion
+Artificial Intelligence-Assisted Systems Biology Reconstruction of Diabetic Bone Marrow Dysfunction
+AMLworld-Compact: Importance-Weighted Downsampling for Cost-Effective LLM Evaluation and Error Diagnosis
+Rationally Linearized MLPs
+Simulating Training Spikes of Deep Neural Networks by Layer-wise Random Feature Models
+Phonology-Aware Speaker Extraction Frontend for Audio LLMs
+InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators
+Partially Informed Stochastic Optimization via Zeroth-Order Residual Tracking
+SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models
+MARGoS: A Configuration-Driven Platform for Reproducible MARL Experiments in ARGoS
