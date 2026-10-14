@@ -96,3 +96,14 @@ InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators
 Partially Informed Stochastic Optimization via Zeroth-Order Residual Tracking
 SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models
 MARGoS: A Configuration-Driven Platform for Reproducible MARL Experiments in ARGoS
+Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs
+OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding
+Read the Room Before Your Model Generates
+SolBehave: Evaluating the Behavioural Correctness of LLM-Generated Smart Contracts
+SP$^2$ec: Adaptive Self-Speculative Decoding for Vision-Language Models
+AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
+GeoReader: Learning Latent Geometry for Spatial Reasoning in Vision-Language Models
+From Relation-Specific Heads to Shared Interventions: Contextual Entrainment in Language Models
+EgoMatrix: Physically Faithful Dexterous Robot Demonstrations from Egocentric Human Videos
+Learning When to Transfer: Reinforcement Learning for Carbon-Footprint Modeling in New Manufacturing Domains
+Steering the Fidelity in State Preparation on Noisy Bosonic Systems with Risk-Seeking Optimization
