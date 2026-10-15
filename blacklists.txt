@@ -107,3 +107,17 @@ From Relation-Specific Heads to Shared Interventions: Contextual Entrainment in 
 EgoMatrix: Physically Faithful Dexterous Robot Demonstrations from Egocentric Human Videos
 Learning When to Transfer: Reinforcement Learning for Carbon-Footprint Modeling in New Manufacturing Domains
 Steering the Fidelity in State Preparation on Noisy Bosonic Systems with Risk-Seeking Optimization
+SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving
+Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes
+PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios
+Bayesian Learning to Select Fair Classifiers
+ReaDy: Recurrent States as Dynamic Context for Speculative Drafting in Hybrid Linear Attention Large Language Models
+ChronoCulture: Evaluating Cultural Awareness Across Time in Large Language Models
+MolLean: A Process-Verifiable Language for Chemical Reasoning
+OrionMoE-v1.0: A Mixture-of-Experts Foundation Model for Tabular In-Context Learning
+From Triage to Impact: A Multi-Hop Reasoning Benchmark for Explainable Persian Hate Speech
+ReferFlow: Beyond Final-Target Localization for Complex Referring Expressions
+PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis
+A Practical Framework for Incremental Testing and Technology Maturation of Spacecraft Autonomy
+TANGO: RNA Topology and Geometry Co-Design
+Multi-Cell LTE-U/Wi-Fi Coexistence Evaluation Using a Reinforcement Learning Framework
