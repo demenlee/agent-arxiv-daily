@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.10.15
+### Automatically Updated on 2026.10.16
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -5488,24 +5488,14 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-14**|**SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**|Shaoyuan Xie et.al.|[2610.20609](http://arxiv.org/abs/2610.20609)|null|
 |**2026-10-14**|**GeoThinker- $F$ : Endogenous Predictive World Representations for Fast Spatial Intelligence**|Haoyuan Li et.al.|[2610.20592](http://arxiv.org/abs/2610.20592)|null|
-|**2026-10-14**|**Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes**|Stavros Nousias et.al.|[2610.20585](http://arxiv.org/abs/2610.20585)|null|
 |**2026-10-14**|**PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition**|Weichen Lyu et.al.|[2610.20560](http://arxiv.org/abs/2610.20560)|null|
-|**2026-10-14**|**PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios**|Ali Zamani et.al.|[2610.20548](http://arxiv.org/abs/2610.20548)|null|
-|**2026-10-14**|**Bayesian Learning to Select Fair Classifiers**|Saatvik Kher et.al.|[2610.20514](http://arxiv.org/abs/2610.20514)|null|
-|**2026-10-14**|**ReaDy: Recurrent States as Dynamic Context for Speculative Drafting in Hybrid Linear Attention Large Language Models**|Bohan Sun et.al.|[2610.20503](http://arxiv.org/abs/2610.20503)|null|
-|**2026-10-14**|**ChronoCulture: Evaluating Cultural Awareness Across Time in Large Language Models**|Rusali Saha et.al.|[2610.20472](http://arxiv.org/abs/2610.20472)|null|
-|**2026-10-14**|**MolLean: A Process-Verifiable Language for Chemical Reasoning**|Jiatong Li et.al.|[2610.20459](http://arxiv.org/abs/2610.20459)|null|
 |**2026-10-14**|**From Training to Escalation: Forensic Analysis and Local Recreation of RL/RLHF-Induced Privilege Escalation in AI Agents (CVE-2026-65616)**|Alicia Colmenero-Fernández et.al.|[2610.20437](http://arxiv.org/abs/2610.20437)|null|
-|**2026-10-14**|**OrionMoE-v1.0: A Mixture-of-Experts Foundation Model for Tabular In-Context Learning**|Mohamed Bouadi et.al.|[2610.20418](http://arxiv.org/abs/2610.20418)|null|
 |**2026-10-14**|**From Unreliable to Usable: Decomposing Failure Modes and Confidence Signals in LLM Entity Extraction - Evidence from Cyber Threat Intelligence**|Jiahong Qian et.al.|[2610.20417](http://arxiv.org/abs/2610.20417)|null|
 |**2026-10-14**|**When Does Momentum Help in Reinforcement Learning with Verifiable Rewards?**|Kaifei Wang et.al.|[2610.20413](http://arxiv.org/abs/2610.20413)|null|
 |**2026-10-14**|**Cortex: Consolidating Context into Parametric Memory**|Jintian Zhang et.al.|[2610.20399](http://arxiv.org/abs/2610.20399)|null|
 |**2026-10-14**|**From Relevance to Validity: Zero-Shot Tool Selection via Functional and Contextual Validation**|Xiaoxuan Dong et.al.|[2610.20388](http://arxiv.org/abs/2610.20388)|null|
-|**2026-10-14**|**From Triage to Impact: A Multi-Hop Reasoning Benchmark for Explainable Persian Hate Speech**|Ghazal Kalhor et.al.|[2610.20370](http://arxiv.org/abs/2610.20370)|null|
 |**2026-10-14**|**Beyond Expert Rankings: Contrast Calibration for Mixed-Precision MoE Quantization**|Renjie Xie et.al.|[2610.20353](http://arxiv.org/abs/2610.20353)|null|
-|**2026-10-14**|**ReferFlow: Beyond Final-Target Localization for Complex Referring Expressions**|Tianyi Gao et.al.|[2610.20352](http://arxiv.org/abs/2610.20352)|null|
 |**2026-10-14**|**Lifted State Policy Optimization: Internalizing Self-Correction through Transition Geometry**|Ren Zhuang et.al.|[2610.20350](http://arxiv.org/abs/2610.20350)|null|
 |**2026-10-14**|**Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents**|Yuyao Ge et.al.|[2610.20344](http://arxiv.org/abs/2610.20344)|null|
 |**2026-10-13**|**ChunkAct: Action Chunking for Agentic Robotics**|Bingxin Xu et.al.|[2610.18874](http://arxiv.org/abs/2610.18874)|null|
@@ -10816,20 +10806,16 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-10-14**|**Player-1: Learning to Play from Synthetic Experience**|Mingyu Ouyang et.al.|[2610.20584](http://arxiv.org/abs/2610.20584)|null|
 |**2026-10-14**|**One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness**|Artin Tajdini et.al.|[2610.20576](http://arxiv.org/abs/2610.20576)|null|
 |**2026-10-14**|**Recovering Reliable Supervision via Critique-Guided On-Policy Distillation**|Kaixiang Zhao et.al.|[2610.20572](http://arxiv.org/abs/2610.20572)|null|
-|**2026-10-14**|**PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis**|Qiushi Sun et.al.|[2610.20538](http://arxiv.org/abs/2610.20538)|null|
 |**2026-10-14**|**Hindsight-Privileged RLVR: Single-Rollout Token Credit Without Group Sampling**|Wei Chen et.al.|[2610.20497](http://arxiv.org/abs/2610.20497)|null|
 |**2026-10-14**|**Average-Reward Policy Identification from a Single Continuing Trajectory**|Tongxi Wang et.al.|[2610.20486](http://arxiv.org/abs/2610.20486)|null|
-|**2026-10-14**|**A Practical Framework for Incremental Testing and Technology Maturation of Spacecraft Autonomy**|Kerianne Hobbs et.al.|[2610.20433](http://arxiv.org/abs/2610.20433)|null|
 |**2026-10-14**|**When Does Momentum Help in Reinforcement Learning with Verifiable Rewards?**|Kaifei Wang et.al.|[2610.20413](http://arxiv.org/abs/2610.20413)|null|
 |**2026-10-14**|**Hyperspherical Contrastive Representations Unlock Planning and Exploration**|Jonghae Park et.al.|[2610.20409](http://arxiv.org/abs/2610.20409)|null|
 |**2026-10-14**|**Training Language Models to Fail Gracefully**|Daman Arora et.al.|[2610.20401](http://arxiv.org/abs/2610.20401)|null|
 |**2026-10-14**|**Non-asymptotic Convergence of Average-reward Q-learning with Options**|Kintan Saha et.al.|[2610.20347](http://arxiv.org/abs/2610.20347)|null|
 |**2026-10-14**|**Efficient Test-Time Adaptation For Robot Policies**|Motasem Alfarra et.al.|[2610.20318](http://arxiv.org/abs/2610.20318)|null|
-|**2026-10-14**|**TANGO: RNA Topology and Geometry Co-Design**|Tianmeng Hu et.al.|[2610.20277](http://arxiv.org/abs/2610.20277)|null|
 |**2026-10-14**|**Harness Policy Distillation: Aligning Agent Policies with Runtime Semantics**|Junze Zhu et.al.|[2610.20261](http://arxiv.org/abs/2610.20261)|null|
 |**2026-10-14**|**Safe Reinforcement Learning with Receding-Horizon Safety Critic and Differentiable Action Shields**|Siwei Ju et.al.|[2610.20255](http://arxiv.org/abs/2610.20255)|null|
 |**2026-10-14**|**Adversarial Reinforcement Learning for Robust Planetary Landing**|Miguel Leiva-Vélez et.al.|[2610.20252](http://arxiv.org/abs/2610.20252)|null|
-|**2026-10-14**|**Multi-Cell LTE-U/Wi-Fi Coexistence Evaluation Using a Reinforcement Learning Framework**|José M. de C. Neto et.al.|[2610.20230](http://arxiv.org/abs/2610.20230)|null|
 |**2026-10-14**|**Design Space Exploration of Reinforcement Learning Configurations for Post-Legalization Placement**|Foteini Oikonomou et.al.|[2610.20224](http://arxiv.org/abs/2610.20224)|null|
 |**2026-10-13**|**AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards**|Xin Gao et.al.|[2610.18860](http://arxiv.org/abs/2610.18860)|null|
 |**2026-10-13**|**Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards**|Yuante Li et.al.|[2610.18853](http://arxiv.org/abs/2610.18853)|null|
