@@ -121,3 +121,14 @@ PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through
 A Practical Framework for Incremental Testing and Technology Maturation of Spacecraft Autonomy
 TANGO: RNA Topology and Geometry Co-Design
 Multi-Cell LTE-U/Wi-Fi Coexistence Evaluation Using a Reinforcement Learning Framework
+Grounding Generative Verification in 3D Content
+Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?
+Designing Transformers for Continuous Diffusion Language Models
+Grid-Bench: Can LLMs Predict How Discrete Worlds Change?
+BitSparse: Compact Activation Storage for ReLU Feed-Forward Networks
+WaveLLM: Wavelet-Domain LLM Entropy Modeling for Lossless Image Compression
+Change the Number, Change the Answer: Assessing Rating Scale Sensitivity in LLM-Based Text Scoring
+Efficient KV Cache Migration for Geo-Distributed LLM Inference in Collaborative Edge Computing
+Dexterity from Supervised Play
+Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce
+Minimizing Age of Incorrect Information in Pull-Based Remote Estimation of a Markov Source
