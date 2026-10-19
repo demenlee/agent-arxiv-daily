@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.10.18
+> Updated on 2026.10.19
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -5384,7 +5384,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-06-11, **A Reactive Redistribution Mechanism for STL Tasks in Multi-Agent Systems Under Time-Varying Communication**, Gregorio Marchesini et.al., Paper: [http://arxiv.org/abs/2606.13479](http://arxiv.org/abs/2606.13479)
 - 2026-09-17, **A Qualitative Model for Reasoning about Path and Support**, Abhishek Jaiswal et.al., Paper: [http://arxiv.org/abs/2609.20349](http://arxiv.org/abs/2609.20349)
 - 2025-11-05, **A Proprietary Model-Based Safety Response Framework for AI Agents**, Qi Li et.al., Paper: [http://arxiv.org/abs/2511.03138](http://arxiv.org/abs/2511.03138)
-- 2026-10-12, **A Production-Grade, High-Efficiency Agentic RL Framework for Frontier LLMs with Validated Recipes**,  LoonSage Team et.al., Paper: [http://arxiv.org/abs/2610.16352](http://arxiv.org/abs/2610.16352)
+- 2026-10-12, **A Production-Grade, High-Efficiency Agentic RL Framework for Frontier LLMs with Validated Recipes**, LoonSage Team et.al., Paper: [http://arxiv.org/abs/2610.16352](http://arxiv.org/abs/2610.16352)
 - 2026-06-25, **A Process Harness for Uplifting Legacy Workflows to Agentic BPM: Design and Realization in CUGA FLO**, Fabiana Fournier et.al., Paper: [http://arxiv.org/abs/2606.27188](http://arxiv.org/abs/2606.27188)
 - 2026-01-06, **A Probabilistic Digital Twin of UK En Route Airspace for Training and Evaluating AI Agents for Air Traffic Control**, Nick Pepper et.al., Paper: [http://arxiv.org/abs/2601.03113](http://arxiv.org/abs/2601.03113)
 - 2025-10-30, **A Pragmatic View of AI Personhood**, Joel Z. Leibo et.al., Paper: [http://arxiv.org/abs/2510.26396](http://arxiv.org/abs/2510.26396)
@@ -5495,7 +5495,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-28, **"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts**, Shenao Wang et.al., Paper: [http://arxiv.org/abs/2603.27204](http://arxiv.org/abs/2603.27204)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -10820,7 +10820,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-20, **"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**, Alexandra Neagu et.al., Paper: [http://arxiv.org/abs/2602.18372](http://arxiv.org/abs/2602.18372)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -16111,7 +16111,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 - 2026-04-17, **$G_2$ -structures as Octonion Algebras**, Isak Sundelius et.al., Paper: [http://arxiv.org/abs/2604.15966](http://arxiv.org/abs/2604.15966)
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 Notes: 
 
