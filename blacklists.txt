@@ -147,3 +147,16 @@ Learning Robot Metareasoning: Adaptive Computation Budgets for Real-Time Control
 RECREG: Recovery-based Shielding for Regular Safety Properties in Reinforcement Learning
 No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?
 Bayesian Learning of Parametric Mean Field Games with Common Noise
+Training with ML-labeled Data via Stochastic First- and Zeroth-Order Optimization
+TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning
+Beyond Omni: A Unified MLLM for Embodied Sensory Understanding
+Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks
+Assisted Turbulence Modeling via Data Assimilation and Machine Learning for Turbomachinery Flows
+Small Average Error, Wide Individual Error: General-Purpose LLMs Estimating Energy Intake from Meal Photos in a Feeding Trial
+Beyond Behavioral Accuracy: Evaluating Individual-Level Fidelity in LLM Investor Simulation
+AfriGuard: Safety and Robust Refusal For African Languages
+VerusEval: Evaluating LLM-Generated Verus Specifications Beyond Verifier Acceptance
+Next Best Action: Causal Constrained Offline RL for Business Action Targeting
+Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware
+Distributional Lifting for Discrete Optimization
+E-Layout: Layout-Stage Logic Restructuring via RL-Optimized Equality-Saturated Graph Retrieval-Augmented Generation
