@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.10.20
+### Automatically Updated on 2026.10.21
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -5519,22 +5519,13 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-10-19**|**LatComm: Reusable Context Compression for Latent Communication between Large Language Models**|Huawei Lin et.al.|[2610.26840](http://arxiv.org/abs/2610.26840)|null|
 |**2026-10-19**|**ASTOR: Benchmarking and Improving Autoformulation for Soft-Constraint Optimization with a Formal Grammar**|Amer Goel et.al.|[2610.26819](http://arxiv.org/abs/2610.26819)|null|
 |**2026-10-19**|**Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability**|Zhengyue Zhao et.al.|[2610.26809](http://arxiv.org/abs/2610.26809)|null|
-|**2026-10-19**|**Training with ML-labeled Data via Stochastic First- and Zeroth-Order Optimization**|Maria-Eleni Sfyraki et.al.|[2610.26790](http://arxiv.org/abs/2610.26790)|null|
-|**2026-10-19**|**TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning**|Liana Patel et.al.|[2610.26754](http://arxiv.org/abs/2610.26754)|null|
-|**2026-10-19**|**Beyond Omni: A Unified MLLM for Embodied Sensory Understanding**|Shiyun Xiong et.al.|[2610.26751](http://arxiv.org/abs/2610.26751)|null|
 |**2026-10-19**|**EpiLens: Lightweight RAG for Epidemiological Knowledge Acquisition**|Vincenzo Perri et.al.|[2610.26730](http://arxiv.org/abs/2610.26730)|null|
 |**2026-10-19**|**Honeypots for AI Agent Insider Threats**|Jan Wehner et.al.|[2610.26664](http://arxiv.org/abs/2610.26664)|null|
 |**2026-10-19**|**Reasoning-Aware Multicalibrated Reliability Predictors for Language Models**|Ekaterina Fedorova et.al.|[2610.26645](http://arxiv.org/abs/2610.26645)|null|
-|**2026-10-19**|**Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks**|Rohan Menon et.al.|[2610.26589](http://arxiv.org/abs/2610.26589)|null|
-|**2026-10-19**|**Assisted Turbulence Modeling via Data Assimilation and Machine Learning for Turbomachinery Flows**|Tom Moussie et.al.|[2610.26567](http://arxiv.org/abs/2610.26567)|null|
 |**2026-10-19**|**Training Natural Schemers: RL Can Amplify Oversight-Conditional Behavior**|Bart Jaworski et.al.|[2610.26551](http://arxiv.org/abs/2610.26551)|null|
-|**2026-10-19**|**Small Average Error, Wide Individual Error: General-Purpose LLMs Estimating Energy Intake from Meal Photos in a Feeding Trial**|Xiaomeng Li et.al.|[2610.26538](http://arxiv.org/abs/2610.26538)|null|
-|**2026-10-19**|**Beyond Behavioral Accuracy: Evaluating Individual-Level Fidelity in LLM Investor Simulation**|Jiajie He et.al.|[2610.26524](http://arxiv.org/abs/2610.26524)|null|
 |**2026-10-19**|**RouterWorld: Scaling Conversational AI with Latency-Aware LLM Routing**|Jinyang Li et.al.|[2610.26511](http://arxiv.org/abs/2610.26511)|null|
 |**2026-10-19**|**SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models**|Shenli Zheng et.al.|[2610.26487](http://arxiv.org/abs/2610.26487)|null|
 |**2026-10-19**|**Promptile: Recovering and Reusing Prompting Strategies from LLM Interaction Histories**|Qingyang Wan et.al.|[2610.26485](http://arxiv.org/abs/2610.26485)|null|
-|**2026-10-19**|**AfriGuard: Safety and Robust Refusal For African Languages**|Israel Abebe Azime et.al.|[2610.26474](http://arxiv.org/abs/2610.26474)|null|
-|**2026-10-19**|**VerusEval: Evaluating LLM-Generated Verus Specifications Beyond Verifier Acceptance**|Ding Wang et.al.|[2610.26464](http://arxiv.org/abs/2610.26464)|null|
 |**2026-10-16**|**Behavioral Couplings: From Formation to Behavioral Emergence in Language Models**|Dongyoon Hahm et.al.|[2610.23847](http://arxiv.org/abs/2610.23847)|null|
 |**2026-10-16**|**DLite: History-free Speculative Decoding for Agentic AI**|Jiaming Xu et.al.|[2610.23787](http://arxiv.org/abs/2610.23787)|null|
 |**2026-10-16**|**Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability**|Qingshi Wang et.al.|[2610.23722](http://arxiv.org/abs/2610.23722)|null|
@@ -10871,12 +10862,30 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking**|Yuxuan Kuang et.al.|[2610.28628](http://arxiv.org/abs/2610.28628)|null|
+|**2026-10-20**|**InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning**|Jingyu Xiao et.al.|[2610.28610](http://arxiv.org/abs/2610.28610)|null|
+|**2026-10-20**|**AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics**|Xinxin Liu et.al.|[2610.28589](http://arxiv.org/abs/2610.28589)|null|
+|**2026-10-20**|**Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation**|Shu Zhao et.al.|[2610.28586](http://arxiv.org/abs/2610.28586)|null|
+|**2026-10-20**|**Continuous-Time Policy Gradient from Discrete Data: Convergence Analysis and Model-Free Algorithms**|Martin Hernandez et.al.|[2610.28580](http://arxiv.org/abs/2610.28580)|null|
+|**2026-10-20**|**SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model**|Qiayuan Liao et.al.|[2610.28480](http://arxiv.org/abs/2610.28480)|null|
+|**2026-10-20**|**Answering in the User's Variety: Calibrated Accommodation Pairs for Post-Training**|Zhizhuo Kou et.al.|[2610.28474](http://arxiv.org/abs/2610.28474)|null|
+|**2026-10-20**|**Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning**|Daniel Marew et.al.|[2610.28470](http://arxiv.org/abs/2610.28470)|null|
+|**2026-10-20**|**Stable charged energy and phase transitions in an anisotropic Dicke quantum battery with Kerr nonlinearity**|Shao-Fan He et.al.|[2610.28373](http://arxiv.org/abs/2610.28373)|null|
+|**2026-10-20**|**FALCA: Falsification-Aware Reinforcement Learning with Hierarchical Credit Assignment for Long-Horizon Deep Search Agents**|Zijun Dou et.al.|[2610.28361](http://arxiv.org/abs/2610.28361)|null|
+|**2026-10-20**|**Confessions of a Masked MDP**|Sebastian Reboul et.al.|[2610.28360](http://arxiv.org/abs/2610.28360)|null|
+|**2026-10-20**|**Reinforced Iterative Learning Control for elastic joint arms: Guaranteed cross-trajectory generalization under model uncertainties**|Yuri De Santis et.al.|[2610.28329](http://arxiv.org/abs/2610.28329)|null|
+|**2026-10-20**|**Reward Misspecification Degrades Chain-of-Thought Monitorability**|Tianyi Lorena Yan et.al.|[2610.28303](http://arxiv.org/abs/2610.28303)|null|
+|**2026-10-20**|**Interference-Graph-Aided Multi-Agent Reinforcement Learning for Beam Hopping LEO Satellite Networks**|Hao Yuan et.al.|[2610.28248](http://arxiv.org/abs/2610.28248)|null|
+|**2026-10-20**|**Reframing Object-Centric Reinforcement Learning: From Absolute to Relative Representations**|Cedric Derstroff et.al.|[2610.28197](http://arxiv.org/abs/2610.28197)|null|
+|**2026-10-20**|**Adaptive Pullback: Reweighting Supervision at Penalty Jumps in On-Policy Distillation**|Guangyu Liu et.al.|[2610.28194](http://arxiv.org/abs/2610.28194)|null|
+|**2026-10-20**|**Interruption-Aware Recurrent Reinforcement Learning for UAS Navigation Under Temporary Overrides**|Christopher Conrad et.al.|[2610.28121](http://arxiv.org/abs/2610.28121)|null|
+|**2026-10-20**|**Training the Whole Agent, Not Just the Model**|Lingxiao Tang et.al.|[2610.28069](http://arxiv.org/abs/2610.28069)|null|
+|**2026-10-20**|**TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment**|Yi Wen et.al.|[2610.28060](http://arxiv.org/abs/2610.28060)|null|
+|**2026-10-20**|**On-Policy Transition Distillation**|Runyang You et.al.|[2610.28048](http://arxiv.org/abs/2610.28048)|null|
 |**2026-10-19**|**Reinforcement Learning with Visually Attributable On-Policy Self-Distillation**|Shiao Xie et.al.|[2610.26856](http://arxiv.org/abs/2610.26856)|null|
 |**2026-10-19**|**CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting**|Zehao Wang et.al.|[2610.26852](http://arxiv.org/abs/2610.26852)|null|
 |**2026-10-19**|**Train An Imaginative Agent**|Jiaxin Ge et.al.|[2610.26845](http://arxiv.org/abs/2610.26845)|null|
-|**2026-10-19**|**Next Best Action: Causal Constrained Offline RL for Business Action Targeting**|Surya Ramachandiran et.al.|[2610.26817](http://arxiv.org/abs/2610.26817)|null|
 |**2026-10-19**|**Cooperative Multi-Agent Reinforcement Learning for Market Making on Prediction-Market Order Books**|Skander Lejmi et.al.|[2610.26789](http://arxiv.org/abs/2610.26789)|null|
-|**2026-10-19**|**Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware**|Wenhao He et.al.|[2610.26759](http://arxiv.org/abs/2610.26759)|null|
 |**2026-10-19**|**Simulation Priors for Rapid Adaptation in Model-Based RL for Autonomous Racing**|Adrian Remonda et.al.|[2610.26757](http://arxiv.org/abs/2610.26757)|null|
 |**2026-10-19**|**CheckDistill: Adaptive Checklist Distillation for Efficient Distributional Reward Modeling in Image Editing**|Yaqi Cai et.al.|[2610.26740](http://arxiv.org/abs/2610.26740)|null|
 |**2026-10-19**|**Intra-Rubric Reward Divergence: Mitigating Rubric Hacking through Latent Dimension Recovery and Balancing**|Jianqiang Xia et.al.|[2610.26685](http://arxiv.org/abs/2610.26685)|null|
@@ -10885,11 +10894,9 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-10-19**|**BetaMem: Learning to Remember a Changing World for Embodied Agents**|Mai Liu et.al.|[2610.26554](http://arxiv.org/abs/2610.26554)|null|
 |**2026-10-19**|**Training Natural Schemers: RL Can Amplify Oversight-Conditional Behavior**|Bart Jaworski et.al.|[2610.26551](http://arxiv.org/abs/2610.26551)|null|
 |**2026-10-19**|**A Fisher-Geometric View of Multi-Teacher On-Policy Distillation**|Liu Kaiyuan et.al.|[2610.26525](http://arxiv.org/abs/2610.26525)|null|
-|**2026-10-19**|**Distributional Lifting for Discrete Optimization**|Ningji Wei et.al.|[2610.26521](http://arxiv.org/abs/2610.26521)|null|
 |**2026-10-19**|**Mitigating Reward Hacking in Preference Reward Models with Evolving Penalties**|Afonso Baldo et.al.|[2610.26496](http://arxiv.org/abs/2610.26496)|null|
 |**2026-10-19**|**SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models**|Shenli Zheng et.al.|[2610.26487](http://arxiv.org/abs/2610.26487)|null|
 |**2026-10-19**|**VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards**|Zhizhou Wang et.al.|[2610.26469](http://arxiv.org/abs/2610.26469)|null|
-|**2026-10-19**|**E-Layout: Layout-Stage Logic Restructuring via RL-Optimized Equality-Saturated Graph Retrieval-Augmented Generation**|Wenji Fang et.al.|[2610.26432](http://arxiv.org/abs/2610.26432)|null|
 |**2026-10-19**|**HarnessRL: Co-Evolving Policies with a Just-in-Time Training Harness for Open-Ended RL**|Xiaoqiang Wang et.al.|[2610.26426](http://arxiv.org/abs/2610.26426)|null|
 |**2026-10-16**|**CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning**|Tianmeng Hu et.al.|[2610.23820](http://arxiv.org/abs/2610.23820)|null|
 |**2026-10-16**|**AlphaLedger: Portfolio-Grounded On-Policy Distillation for Regime-Aware Alpha Mining**|Xiang Li et.al.|[2610.23744](http://arxiv.org/abs/2610.23744)|null|

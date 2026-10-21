@@ -160,3 +160,8 @@ Next Best Action: Causal Constrained Offline RL for Business Action Targeting
 Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware
 Distributional Lifting for Discrete Optimization
 E-Layout: Layout-Stage Logic Restructuring via RL-Optimized Equality-Saturated Graph Retrieval-Augmented Generation
+Answering in the User's Variety: Calibrated Accommodation Pairs for Post-Training
+Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning
+Stable charged energy and phase transitions in an anisotropic Dicke quantum battery with Kerr nonlinearity
+Confessions of a Masked MDP
+Reframing Object-Centric Reinforcement Learning: From Absolute to Relative Representations

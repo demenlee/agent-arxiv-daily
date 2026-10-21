@@ -52195,6 +52195,986 @@
       ],
       "blacklisted": false,
       "blacklist_reason": ""
+    },
+    "2610.28628": {
+      "arxiv_id": "2610.28628",
+      "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Yuxuan Kuang",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Yuxuan Kuang": "Carnegie Mellon University, NVIDIA",
+        "Jiashun Wang": "Carnegie Mellon University",
+        "Yixuan Sun": "Carnegie Mellon University",
+        "Yufei Ye": "Carnegie Mellon University",
+        "Sungjae Park": "Carnegie Mellon University",
+        "Umar Iqbal": "NVIDIA",
+        "Katerina Fragkiadaki": "Carnegie Mellon University",
+        "Shubham Tulsiani": "Carnegie Mellon University"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了 Hybrid Dexterous Mimicking 框架，使用 goal-conditioned 强化学习在跟踪环境与泛化环境两类并行环境中训练共享策略，从数秒人类手-物交互轨迹中学习可适应灵巧技能，在 GRAB 数据集及真实机器人任务上实现了功能抓取、手内重定向和动态抛接，并在泛化性与功能性上优于 ManipTrans 和 SimToolReal 等基线。",
+      "metadata": {
+        "first_author": "Yuxuan Kuang",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Yuxuan Kuang": "Carnegie Mellon University, NVIDIA",
+          "Jiashun Wang": "Carnegie Mellon University",
+          "Yixuan Sun": "Carnegie Mellon University",
+          "Yufei Ye": "Carnegie Mellon University",
+          "Sungjae Park": "Carnegie Mellon University",
+          "Umar Iqbal": "NVIDIA",
+          "Katerina Fragkiadaki": "Carnegie Mellon University",
+          "Shubham Tulsiani": "Carnegie Mellon University"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 6.0,
+      "keyword_reasoning": "本文核心是面向灵巧操作的强化学习，使用 PPO 和在线 RL 训练 goal-conditioned 策略，并学习可迁移的技能，因此与 Reinforcement Learning、RL、Deep RL、PPO、Online RL、Skills 高度相关；文中虽用 VLM Agent 生成下游任务路径点，但不涉及多智能体、ReAct、记忆、RSI、LLM 训练、CoT、MoE、压缩量化、RAG、离线 RL 或 OPD 等关键词，故整体相关性中等偏上。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "Online RL",
+        "Skills"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28610": {
+      "arxiv_id": "2610.28610",
+      "title": "InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Jingyu Xiao",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Jingyu Xiao": "The Chinese University of Hong Kong",
+        "Dasen Dai": "The Chinese University of Hong Kong",
+        "Yuxuan Wan": "The Chinese University of Hong Kong",
+        "Jen-tse Huang": "Johns Hopkins University",
+        "Yintong Huo": "Singapore Management University",
+        "Hongyu Zhang": "Chongqing University",
+        "Michael R. Lyu": "The Chinese University of Hong Kong"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了InterWebCoder框架，使用测试规范引导与执行验证的数据合成（TEDS）以及由test-ID加权SFT和GRPO组成的测试驱动强化学习（TDRL），在IWR-Bench和Vision2Web上以9B骨干分别取得48.54和48.42的最终分数，超过多个30B级与闭源模型，并将奖励计算延迟降低97%以上。",
+      "metadata": {
+        "first_author": "Jingyu Xiao",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Jingyu Xiao": "The Chinese University of Hong Kong",
+          "Dasen Dai": "The Chinese University of Hong Kong",
+          "Yuxuan Wan": "The Chinese University of Hong Kong",
+          "Jen-tse Huang": "Johns Hopkins University",
+          "Yintong Huo": "Singapore Management University",
+          "Hongyu Zhang": "Chongqing University",
+          "Michael R. Lyu": "The Chinese University of Hong Kong"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心是基于多模态大模型的交互网页代码生成，采用SFT与GRPO强化学习后训练，并用可执行测试脚本提供确定性奖励，因此与LLM、Fine-tuning、Reinforcement Learning、RL和Online RL高度相关；同时使用GUI agent进行真实网站交互轨迹采集，并与agent-harness类基线比较，故与Agentic部分相关；但不涉及多智能体、记忆、技能、递归自我改进、RAG、模型压缩、量化或蒸馏等主题。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL",
+        "Agentic"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28589": {
+      "arxiv_id": "2610.28589",
+      "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Xinxin Liu",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Xinxin Liu": "University of Central Florida",
+        "Bingxin Xu": "University of Southern California",
+        "Wenrui Bao": "University of Central Florida",
+        "Ming Li": "University of Central Florida",
+        "Wentao Bao": "Michigan State University",
+        "Chen Chen": "University of Central Florida",
+        "Yuzhang Shang": "University of Central Florida"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出 AgenticRoboRL 框架，使用监督微调与多轮强化学习对机器人规划器进行后训练，并通过 harness-specific adapters 适配 VLA 技能调用与控制代码生成，在 LIBERO-PRO 上把 9B planner 成功率从 18.1% 提升到 71.0%，在 LIBERO-Plus 上达到 72.2%，在 CaP-X harness 上从 2.7% 提升到 28.5%。",
+      "metadata": {
+        "first_author": "Xinxin Liu",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Xinxin Liu": "University of Central Florida",
+          "Bingxin Xu": "University of Southern California",
+          "Wenrui Bao": "University of Central Florida",
+          "Ming Li": "University of Central Florida",
+          "Wentao Bao": "Michigan State University",
+          "Chen Chen": "University of Central Florida",
+          "Yuzhang Shang": "University of Central Florida"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是 agentic robotics 系统中对机器人规划器进行后训练，方法结合监督微调与多轮强化学习，并通过 harness-specific adapters 统一适配 VLA 技能调用和控制代码生成两类 harness。其规划器本质上是 LLM planner，训练流程涉及 SFT、on-policy rollout、PPO 风格策略优化、任务成功奖励和 harness 交互，因此与 Agentic、Agent RL、Harness、Skills、LLM、Fine-tuning、RL、PPO、Online RL 等关键词高度相关；同时也讨论外部 Memory 作为教师/对比设置，但并非多智能体、ReAct、RSI、MoE、压缩量化等方向，故不给满分。",
+      "matching_keywords": [
+        "Agentic",
+        "Agent RL",
+        "Harness",
+        "Memory",
+        "Skills",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Reinforcement Learning",
+        "RL",
+        "PPO",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28586": {
+      "arxiv_id": "2610.28586",
+      "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Shu Zhao",
+      "corresponding_author": "Shu Zhao",
+      "author_affiliations": {
+        "Shu Zhao": "NVIDIA"
+      },
+      "urls": {
+        "github": "https://github.com/Tree-Shu-Zhao/miles-agent",
+        "huggingface": null,
+        "project_page": "https://tree-shu-zhao.github.io/r2s/",
+        "other": [
+          "https://arxiv.org/abs/2610.28586"
+        ]
+      },
+      "one_sentence_summary": "提出了R2S（Rollout-to-Scorer Distillation）框架，通过从无训练学生的高分歧状态让教师接管、用无奖励共识或LLM judge筛选成功接管并将接管信息蒸馏回教师评分器，在ALFWorld、WebShop、ScienceWorld上使用Qwen3.5和Qwen3系列教师-学生组合，十二个模型-环境单元全部优于三种SOTA agentic OPD方法，平均提升12.8个成功率点。",
+      "metadata": {
+        "first_author": "Shu Zhao",
+        "corresponding_author": "Shu Zhao",
+        "author_affiliations": {
+          "Shu Zhao": "NVIDIA"
+        },
+        "resources": {
+          "github": "https://github.com/Tree-Shu-Zhao/miles-agent",
+          "huggingface": null,
+          "project_page": "https://tree-shu-zhao.github.io/r2s/",
+          "other_links": [
+            "https://arxiv.org/abs/2610.28586"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.5,
+      "keyword_reasoning": "论文核心是agentic on-policy distillation（OPD），提出rollout-scorer gap并修复教师评分器，涉及LLM智能体、在线策略蒸馏、蒸馏、教师微调、思维链式deliberation以及MoE教师等关键词。虽然训练中使用PPO式裁剪代理目标，但全程无任务奖励RL，因此与Reinforcement Learning/Agent RL关联较弱，与Multi-Agent、Memory、RAG、模型压缩等无关。",
+      "matching_keywords": [
+        "Agentic",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Chain of Thought",
+        "Mixture of Experts",
+        "Distillation",
+        "PPO",
+        "On-Policy Distillation",
+        "OPD"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28580": {
+      "arxiv_id": "2610.28580",
+      "title": "Continuous-Time Policy Gradient from Discrete Data: Convergence Analysis and Model-Free Algorithms",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.28580"
+        ]
+      },
+      "one_sentence_summary": "提出了一个面向未知连续时间随机动力系统的策略梯度框架，结合性能差引理、熵正则策略流收敛分析和 PhiBE 离散数据代理生成器，构造无模型 on/off-policy actor–critic 算法，并在熵正则 LQR 与非线性轮式机器人任务上验证了收敛性与稳定性。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.28580"
+          ]
+        }
+      },
+      "keyword_relevance_score": 6.0,
+      "keyword_reasoning": "该论文核心是连续时间强化学习中的策略梯度理论、actor–critic 算法与收敛分析，并在实验中使用了 PPO 等强化学习优化方法，因此与 Reinforcement Learning、RL、Deep RL、PPO 等关键词高度相关。但它不涉及 Multi-Agent、Agentic、ReAct、LLM、Memory、Skills、RSI、RAG、模型压缩/量化/蒸馏等以 LLM/Agent 为中心的关键词；其 off-policy 固定数据实验与 Offline RL 有一定邻近性，但并非标准离线强化学习研究。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28480": {
+      "arxiv_id": "2610.28480",
+      "title": "SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Qiayuan Liao",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Qiayuan Liao": "UC Berkeley",
+        "Yiyang Shao": "UC Berkeley",
+        "Junfeng Long": "UC Berkeley",
+        "Kevin Zakka": "UC Berkeley",
+        "Roberto Horowitz": "UC Berkeley",
+        "Pieter Abbeel": "UC Berkeley",
+        "Koushil Sreenath": "UC Berkeley"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": "https://supermimic.github.io",
+        "other": [
+          "https://arxiv.org/abs/2610.28480",
+          "https://bones.studio/"
+        ]
+      },
+      "one_sentence_summary": "提出SuperMimic框架，使用单个可微世界模型和短视想象rollout的BPTT来训练人形全身运动跟踪策略，在BONES-SEED的129514个运动基准上单GPU 3小时超过SONIC的128 GPU 7天返回、减少超过1000倍GPU小时并最终实现零失败，且策略迁移到真实Unitree G1。",
+      "metadata": {
+        "first_author": "Qiayuan Liao",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Qiayuan Liao": "UC Berkeley",
+          "Yiyang Shao": "UC Berkeley",
+          "Junfeng Long": "UC Berkeley",
+          "Kevin Zakka": "UC Berkeley",
+          "Roberto Horowitz": "UC Berkeley",
+          "Pieter Abbeel": "UC Berkeley",
+          "Koushil Sreenath": "UC Berkeley"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": "https://supermimic.github.io",
+          "other_links": [
+            "https://arxiv.org/abs/2610.28480",
+            "https://bones.studio/"
+          ]
+        }
+      },
+      "keyword_relevance_score": 6.0,
+      "keyword_reasoning": "本文核心是面向人形机器人全身控制的可微世界模型与基于模型的深度强化学习，使用BPTT从想象rollout中获得策略梯度，并与PPO、蒸馏基线进行比较；因此与Reinforcement Learning、RL、Deep RL、PPO、Distillation、Online RL等关键词部分高度相关。但论文不涉及Multi-Agent、Agentic、ReAct、Harness、Memory、RSI、LLM、CoT、MoE、RAG等关键词，整体属于机器人强化学习而非LLM/Agent系统研究，故相关性为中等偏高。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "Distillation",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28474": {
+      "arxiv_id": "2610.28474",
+      "title": "Answering in the User's Variety: Calibrated Accommodation Pairs for Post-Training",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Zhizhuo Kou",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Zhizhuo Kou": "The Hong Kong University of Science and Technology",
+        "Jian Yang": "The Hong Kong University of Science and Technology",
+        "Jingshu Peng": "The Hong Kong University of Science and Technology",
+        "Sirui Han": "The Hong Kong University of Science and Technology",
+        "Yike Guo": "The Hong Kong University of Science and Technology"
+      },
+      "urls": {
+        "github": "https://github.com/kouzhizhuo/cap-accommodation",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://anonymous.4open.science/r/cap-accommodation/"
+        ]
+      },
+      "one_sentence_summary": "提出 Calibrated Accommodation Pairs（CAP）偏好数据方法，通过 DPO 后训练校准模型对用户方言密度的匹配，在 OLMo-2-1B 等开放模型上提升 held-out 方言收敛且不向标准英语用户插入方言，但校准、密度跟踪和标准英语请求合规等指标未完全通过。",
+      "metadata": {
+        "first_author": "Zhizhuo Kou",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Zhizhuo Kou": "The Hong Kong University of Science and Technology",
+          "Jian Yang": "The Hong Kong University of Science and Technology",
+          "Jingshu Peng": "The Hong Kong University of Science and Technology",
+          "Sirui Han": "The Hong Kong University of Science and Technology",
+          "Yike Guo": "The Hong Kong University of Science and Technology"
+        },
+        "resources": {
+          "github": "https://github.com/kouzhizhuo/cap-accommodation",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://anonymous.4open.science/r/cap-accommodation/"
+          ]
+        }
+      },
+      "keyword_relevance_score": 5,
+      "keyword_reasoning": "论文核心是 LLM 后训练中的方言适应与偏好优化，涉及 SFT、DPO、RLVR 和偏好数据构建，属于 LLM fine-tuning / post-training 范畴；但它不涉及 Multi-Agent、Agentic、ReAct、Agent RL、Memory、Skills、RSI 等 agent 方向关键词，因此仅为部分相关。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Pre-training",
+        "Reinforcement Learning",
+        "RL"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 5"
+    },
+    "2610.28470": {
+      "arxiv_id": "2610.28470",
+      "title": "Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Daniel Marew",
+      "corresponding_author": "Daniel Marew",
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": "https://daroslab.github.io/frdv/",
+        "other": []
+      },
+      "one_sentence_summary": "提出FRDV快速运动重定向框架，结合自定义SQP/RTI与并行分块运动学重定向以及接触隐式iLQR动力学验证，在LAFAN1和AMASS数据集上实现最高约9156 FPS、最高约136倍加速，并通过运动跟踪RL策略训练与Unitree G1真机sim-to-real验证其可用性。",
+      "metadata": {
+        "first_author": "Daniel Marew",
+        "corresponding_author": "Daniel Marew",
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": "https://daroslab.github.io/frdv/",
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 3.0,
+      "keyword_reasoning": "论文核心是面向人形机器人的快速运动重定向与动力学校验，主要技术为约束逆运动学、SQP、RTI、并行分块处理和接触隐式iLQR，并非大语言模型、多智能体或Agentic相关研究。论文使用Reinforcement Learning训练运动跟踪策略作为下游评估，因此与Reinforcement Learning、RL、Deep RL有一定关联，但RL不是其方法创新核心，整体相关性有限。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 3.0"
+    },
+    "2610.28373": {
+      "arxiv_id": "2610.28373",
+      "title": "Stable charged energy and phase transitions in an anisotropic Dicke quantum battery with Kerr nonlinearity",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Shao-Fan He",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "研究了带Kerr非线性和光子损耗的各向异性Dicke量子电池模型，利用Liouvillian谱理论、Wigner函数与SAC强化学习在QuTiP数值平台上分析相变对稳定储能的调控并优化充电协议，结果表明远离多重近简并区时储能由ENET主导、在近简并区由一/二阶耗散相变主导，且优化协议可在更短时间达到并维持更高储能。",
+      "metadata": {
+        "first_author": "Shao-Fan He",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 4.0,
+      "keyword_reasoning": "论文核心是量子电池与耗散相变物理，仅在充电协议优化中使用SAC/强化学习，属于RL在量子控制中的应用；不涉及Multi-Agent、Agentic、LLM、RAG、预训练/微调等关键词，因此与关键词集合仅部分相关。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "SAC"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.0"
+    },
+    "2610.28361": {
+      "arxiv_id": "2610.28361",
+      "title": "FALCA: Falsification-Aware Reinforcement Learning with Hierarchical Credit Assignment for Long-Horizon Deep Search Agents",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Zijun Dou",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出FALCA——一种面向长程深度搜索的证伪感知强化学习框架，采用Searcher–Falsifier双智能体propose–falsify架构并结合SFT预热、并行rollout与分层信用分配的agentic RL，在BrowseComp、GAIA、DeepSearchQA、xbench-2510和WideSearch-en五个基准上使4B模型取得64.7平均分，优于backbone与harness消融并超过同harness的Qwen3.5-9B。",
+      "metadata": {
+        "first_author": "Zijun Dou",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是面向LLM深度搜索智能体的agentic RL：使用Searcher–Falsifier多智能体协作、工具调用式agentic推理、context/research-state管理与harness、RAG式检索增强，以及包含SFT预热、并行在线rollout、分层信用分配和PPO-style优化的强化学习训练。因此与Multi-Agent、Agentic、Agent RL、Harness、Memory、LLM、Fine-tuning、RAG、RL、PPO、Online RL等关键词高度相关；但不涉及RSI、MoE、模型压缩/量化/蒸馏、SAC/DQN/Offline RL、OPD等，故未给满分。",
+      "matching_keywords": [
+        "Multi-Agent",
+        "Agentic",
+        "Agent RL",
+        "Harness",
+        "Memory",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "RAG",
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28360": {
+      "arxiv_id": "2610.28360",
+      "title": "Confessions of a Masked MDP",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.28360"
+        ]
+      },
+      "one_sentence_summary": "提出面向未知动作掩码的线性 MDP 的联合学习框架，采用 version-space optimism 与基于辅助 MDP 的 λ-planning 进行规划式探索，在合成 masked MDP 迁移实验中相比 VSO 获得更低 regret，并给出 minimax 最优与实例依赖理论保证。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.28360"
+          ]
+        }
+      },
+      "keyword_relevance_score": 5.0,
+      "keyword_reasoning": "该论文属于强化学习理论学习，研究 masked MDP 中的掩码学习、探索与 regret，直接匹配 Reinforcement Learning、RL 和 Online RL；但不涉及多智能体、LLM/agentic、ReAct、memory、skills、预训练/微调、蒸馏、RAG、DQN/PPO/SAC 等关键词，实验为合成 MDP 而非深度 RL benchmark，因此相关度中等。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Online RL"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 5.0"
+    },
+    "2610.28329": {
+      "arxiv_id": "2610.28329",
+      "title": "Reinforced Iterative Learning Control for elastic joint arms: Guaranteed cross-trajectory generalization under model uncertainties",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/yursds/RILC_training",
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出 Reinforced Iterative Learning Control（RILC）框架，将 ILC 与基于 PPO 的 RL 以并发耦合方式结合并为弹性关节臂提供跨轨迹收敛保证，在 3000 条随机轨迹仿真和 4-DoF 串联弹性机器人实验上实现了优于 ILC、NOILC、C-ILC 与 RL 的首试次跟踪、跨轨迹泛化及抗模型失配鲁棒性。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/yursds/RILC_training",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 6.0,
+      "keyword_reasoning": "该论文核心与 Reinforcement Learning、RL、Deep RL、PPO、Online RL 等关键词直接相关，使用 PPO 训练神经网络策略并与 ILC 并发耦合用于机器人轨迹跟踪；但其应用场景是弹性关节机械臂控制，不涉及 Multi-Agent、Agentic、ReAct、Memory、Skills、LLM、RAG、模型压缩、量化、蒸馏或 RSI 等关键词，因此属于中等相关。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28303": {
+      "arxiv_id": "2610.28303",
+      "title": "Reward Misspecification Degrades Chain-of-Thought Monitorability",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Tianyi Yan",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Tianyi Yan": "Columbia University",
+        "Lorena": "Columbia University",
+        "John Hewitt": "Columbia University"
+      },
+      "urls": {
+        "github": "https://github.com/Lorenayannnnn/reward-misspecification-degrades-cot-monitorability",
+        "huggingface": "https://huggingface.co/datasets/HuggingFaceH4/helpful-instructions",
+        "project_page": null,
+        "other": [
+          "https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k",
+          "https://tinker-docs.thinkingmachines.ai/tinker/",
+          "https://developers.openai.com/api/docs/models"
+        ]
+      },
+      "one_sentence_summary": "提出了奖励描述训练（Reward Description Training），利用语言模型从不同奖励的 rollout 中推断奖励描述并注入输入训练模型在 CoT 中显式表达，在 Length、LM Judge、Coding 三个可控任务（Helpful Instructions、Arena-Human-Preference-140k、LeetCodeDataset）和三种基座模型上，将 CoT 可监控性指标平均绝对提升 24% 和 42%。",
+      "metadata": {
+        "first_author": "Tianyi Yan",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Tianyi Yan": "Columbia University",
+          "Lorena": "Columbia University",
+          "John Hewitt": "Columbia University"
+        },
+        "resources": {
+          "github": "https://github.com/Lorenayannnnn/reward-misspecification-degrades-cot-monitorability",
+          "huggingface": "https://huggingface.co/datasets/HuggingFaceH4/helpful-instructions",
+          "project_page": null,
+          "other_links": [
+            "https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k",
+            "https://tinker-docs.thinkingmachines.ai/tinker/",
+            "https://developers.openai.com/api/docs/models"
+          ]
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心研究大型语言模型在强化学习训练中因奖励错设导致的 Chain-of-Thought 可监控性下降，并提出基于奖励描述的训练缓解方法。其主题直接涉及 LLM、CoT、RL 和在线策略优化式训练，因此与搜索关键词高度相关；但它不涉及多智能体、Agentic/Agent RL、ReAct、Memory、Skills、RSI、RAG、模型压缩或量化等方向，故未给满分。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Chain of Thought",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL",
+        "Fine-tuning"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28248": {
+      "arxiv_id": "2610.28248",
+      "title": "Interference-Graph-Aided Multi-Agent Reinforcement Learning for Beam Hopping LEO Satellite Networks",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Hao Yuan",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了面向LEO卫星波束跳变的干扰图辅助多智能体强化学习框架Graph-QMIX，利用干扰图构建与图卷积增强各波束智能体的局部Q值表征并接入标准QMIX混合网络，在8波束服务32小区的非均匀流量与同频干扰仿真场景中取得1425.6 Mbps平均吞吐量，较QMIX提升34.4%，需求满足率达98.4%。",
+      "metadata": {
+        "first_author": "Hao Yuan",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 7.0,
+      "keyword_reasoning": "该论文核心是多智能体强化学习与深度强化学习，使用QMIX值分解、经验回放和TD损失训练，并用图神经网络增强智能体表征，因此与Multi-Agent、Agent RL、Reinforcement Learning、RL、Deep RL等关键词高度相关。但它面向LEO卫星波束跳变调度，不涉及LLM、Agentic、ReAct、Memory、Skills、RSI、预训练/微调、Chain of Thought、Mixture of Experts、模型压缩/量化/蒸馏、RAG、PPO、SAC、Offline RL或On-Policy Distillation等关键词。",
+      "matching_keywords": [
+        "Multi-Agent",
+        "Agent RL",
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28197": {
+      "arxiv_id": "2610.28197",
+      "title": "Reframing Object-Centric Reinforcement Learning: From Absolute to Relative Representations",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Cedric Derstroff",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Cedric Derstroff": "The Hessian Center for Artificial Intelligence (hessian.AI), Technische Universität Darmstadt",
+        "Jannis Blüml": "The Hessian Center for Artificial Intelligence (hessian.AI), Technische Universität Darmstadt"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://anonymous.4open.science/r/ORBiT_TMLR"
+        ]
+      },
+      "one_sentence_summary": "提出 ORCA（Object-Relative Coordinates fixed to Anchor）相对坐标表示与 ORBiT（Object-Relative inductive-Bias Transformer）架构，使用 transformer 编码器和 PPO 训练，将物体位置与速度编码为相对于任务相关锚点的表示，并在 13 个 Atari 游戏、HackAtari 扰动、Foosball 连续控制和 Tag 环境中评估，在 Atari 上将 HNS IQM 从 0.54 提升到 1.10、超越像素 PPO 基线，并在 Foosball 50,000 球对局中仅失 73 球。",
+      "metadata": {
+        "first_author": "Cedric Derstroff",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Cedric Derstroff": "The Hessian Center for Artificial Intelligence (hessian.AI), Technische Universität Darmstadt",
+          "Jannis Blüml": "The Hessian Center for Artificial Intelligence (hessian.AI), Technische Universität Darmstadt"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://anonymous.4open.science/r/ORBiT_TMLR"
+          ]
+        }
+      },
+      "keyword_relevance_score": 5.0,
+      "keyword_reasoning": "该论文核心是经典深度强化学习中的 object-centric RL，使用 PPO 在线训练 transformer/MLP 策略，并在 Atari 和连续控制环境中评估，因此与 Reinforcement Learning、Deep RL、PPO、Online RL 明显相关；但它不涉及大语言模型、Agentic/ReAct、工具调用、记忆、技能、自改进、预训练/微调、蒸馏、量化、RAG 等关键词，也不是多智能体协作或 LLM Agent RL 研究，因此整体属于部分相关。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "Online RL"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 5.0"
+    },
+    "2610.28194": {
+      "arxiv_id": "2610.28194",
+      "title": "Adaptive Pullback: Reweighting Supervision at Penalty Jumps in On-Policy Distillation",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Guangyu Liu",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Guangyu Liu": "State Key Laboratory of Novel Software Technology, Nanjing University, Nanjing, China",
+        "Siyuan Gan": "State Key Laboratory of Novel Software Technology, Nanjing University, Nanjing, China",
+        "Shilong Zhou": "State Key Laboratory of Novel Software Technology, Nanjing University, Nanjing, China",
+        "Linjian Meng": "Shanghai Artificial Intelligence Laboratory, Shanghai, China",
+        "Boyan Wang": "State Key Laboratory of Novel Software Technology, Nanjing University, Nanjing, China",
+        "Jing Huo": "State Key Laboratory of Novel Software Technology, Nanjing University, Nanjing, China"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出 Adaptive Pullback OPD（AP-OPD），在 on-policy distillation 中通过检测 token block 间的 penalty jump 并以前一 block 的 penalty 为局部参考对 post-jump block 的监督系数进行统一缩放，在数学推理（MATH500、AMC23、Minerva、OlympiadBench、AIME24、AIME25）和代码生成（HumanEval+、MBPP+、LiveCodeBench v6）基准上相较 vanilla OPD 取得更高宏平均性能。",
+      "metadata": {
+        "first_author": "Guangyu Liu",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Guangyu Liu": "State Key Laboratory of Novel Software Technology, Nanjing University, Nanjing, China",
+          "Siyuan Gan": "State Key Laboratory of Novel Software Technology, Nanjing University, Nanjing, China",
+          "Shilong Zhou": "State Key Laboratory of Novel Software Technology, Nanjing University, Nanjing, China",
+          "Linjian Meng": "Shanghai Artificial Intelligence Laboratory, Shanghai, China",
+          "Boyan Wang": "State Key Laboratory of Novel Software Technology, Nanjing University, Nanjing, China",
+          "Jing Huo": "State Key Laboratory of Novel Software Technology, Nanjing University, Nanjing, China"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8,
+      "keyword_reasoning": "论文直接研究 On-Policy Distillation（OPD）中 token 级监督重加权问题，面向 LLM 的数学推理与代码生成后训练，涉及 Distillation、LLM、Fine-tuning 以及 policy-gradient 式训练；但不涉及 Multi-Agent、Agentic、Memory、RAG、MoE、量化压缩等关键词，因此与 OPD/Distillation/LLM 高度相关，但覆盖面较窄。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Distillation",
+        "On-Policy Distillation",
+        "OPD",
+        "Fine-tuning"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28121": {
+      "arxiv_id": "2610.28121",
+      "title": "Interruption-Aware Recurrent Reinforcement Learning for UAS Navigation Under Temporary Overrides",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Christopher Conrad",
+      "corresponding_author": "Antonios Tsourdos",
+      "author_affiliations": {
+        "Christopher Conrad": "Cranfield University",
+        "Deepak Panda": "Cranfield University",
+        "Weisi Guo": "Cranfield University",
+        "Antonios Tsourdos": "Cranfield University"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了面向临时接管/中断的UAS导航中断感知循环强化学习框架，使用基于LSTM的PPO与随机中断训练，并设计双特征、双记忆和门控三种架构，在二维UAS去冲突仿真中验证，最强架构将接管后碰撞率降低74%、中断导致的任务失败率降低69%，且不损害无中断性能。",
+      "metadata": {
+        "first_author": "Christopher Conrad",
+        "corresponding_author": "Antonios Tsourdos",
+        "author_affiliations": {
+          "Christopher Conrad": "Cranfield University",
+          "Deepak Panda": "Cranfield University",
+          "Weisi Guo": "Cranfield University",
+          "Antonios Tsourdos": "Cranfield University"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 7.0,
+      "keyword_reasoning": "该论文核心是深度强化学习在单UAS导航中的应用，采用LSTM-based PPO、在线策略训练和随机中断训练，并重点研究循环记忆在外部接管后的退化与恢复问题，因此与Reinforcement Learning、RL、Deep RL、PPO、Online RL和Memory高度相关；但它不是多智能体学习，也不涉及LLM、Agentic、ReAct、工具调用、技能库、预训练/微调、模型压缩或RAG等关键词，因此总体相关性为较高但非全覆盖。",
+      "matching_keywords": [
+        "Memory",
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28069": {
+      "arxiv_id": "2610.28069",
+      "title": "Training the Whole Agent, Not Just the Model",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/lingxiaotang/HarnessAdapt-RL",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.28069"
+        ]
+      },
+      "one_sentence_summary": "提出了HarnessAdapt-RL框架，在强化学习过程中使用GRPO联合训练编码智能体策略，并用教师模型从当前策略轨迹生成机制级技能、演化工具与运行时钩子（以pass rate和trainable rate筛选），在R2E-Gym-Lite上训练9B Qwen3.5-9B并在SWE-bench Verified、Multilingual、Pro上评估，相比GRPO分别提升9.8、12.6、6.4个百分点，平均pass@1达44.9%。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/lingxiaotang/HarnessAdapt-RL",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.28069"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是编码智能体的策略与harness协同训练和演化，使用GRPO进行在线强化学习，并由教师模型生成skills、提出tools与hooks变更，直接覆盖Agentic、Agent RL、Harness、Skills、LLM和RL等关键词；但不涉及多智能体协作、记忆机制、CoT、MoE、模型压缩/量化/蒸馏、RAG、离线RL或OPD等，因此不是全关键词覆盖。",
+      "matching_keywords": [
+        "Agentic",
+        "Agent RL",
+        "Harness",
+        "Skills",
+        "Large Language Model",
+        "LLM",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28060": {
+      "arxiv_id": "2610.28060",
+      "title": "TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Hao Wen",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/wenyiwy99/TrajEvolve",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.28060",
+          "https://paperswithcode.com/datasets"
+        ]
+      },
+      "one_sentence_summary": "提出 TrajEvolve 轨迹演化与事后信用分配框架，利用反事实验证生成步骤必要性标签并训练轻量判别器，进而重构历史轨迹并与 GRPO/PPO 类强化学习联合优化，在 ALFWorld 和 WebShop 上使用 Qwen2.5-1.5B/7B 分别达到 92.2%/95.3% 与 71.9%/82.0% 成功率，优于 GiGPO 等基线。",
+      "metadata": {
+        "first_author": "Hao Wen",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/wenyiwy99/TrajEvolve",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.28060",
+            "https://paperswithcode.com/datasets"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "该论文核心是面向 LLM 智能体长程任务的强化学习训练，提出步骤级信用分配与轨迹演化，直接涉及 Agent RL、LLM、RL、PPO/GRPO、在线强化学习和微调等关键词；但其并非多智能体系统，也未重点研究记忆、RAG、模型压缩、量化、MoE、离线 RL 或 OPD 等方向，因此未给满分。",
+      "matching_keywords": [
+        "Agentic",
+        "ReAct",
+        "Agent RL",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Chain of Thought",
+        "Reinforcement Learning",
+        "RL",
+        "PPO",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28048": {
+      "arxiv_id": "2610.28048",
+      "title": "On-Policy Transition Distillation",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Runyang You",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Runyang You": "The Hong Kong Polytechnic University",
+        "Yongqi Li": "The Hong Kong Polytechnic University",
+        "Tiezheng Yu": "Huawei Technologies Ltd.",
+        "Wenjie Li": "The Hong Kong Polytechnic University"
+      },
+      "urls": {
+        "github": "https://github.com/ModalityDance/optd",
+        "huggingface": "https://huggingface.co/datasets/TURLEing/DAPO-Math-17k",
+        "project_page": null,
+        "other": [
+          "https://github.com/QwenLM/CodeElo",
+          "https://github.com/ModalityDance/LatentTTS",
+          "https://huggingface.co/datasets/agentica-org/DeepCoder-Preview-Dataset",
+          "https://huggingface.co/datasets/TURLEing/Rubrics-To-Tokens",
+          "https://huggingface.co/#2"
+        ]
+      },
+      "one_sentence_summary": "提出了On-Policy Transition Distillation（OPTD），在标准on-policy distillation的最终层分布匹配基础上，对齐学生自生成轨迹上教师与学生的逐层log概率增量（深度预测转移），在三个backbone、数学/代码/指令遵循共八个benchmark上取得最佳或并列最佳整体表现，三领域蒸馏中恢复约90%的教师-学生能力差距（OPD约75%）。",
+      "metadata": {
+        "first_author": "Runyang You",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Runyang You": "The Hong Kong Polytechnic University",
+          "Yongqi Li": "The Hong Kong Polytechnic University",
+          "Tiezheng Yu": "Huawei Technologies Ltd.",
+          "Wenjie Li": "The Hong Kong Polytechnic University"
+        },
+        "resources": {
+          "github": "https://github.com/ModalityDance/optd",
+          "huggingface": "https://huggingface.co/datasets/TURLEing/DAPO-Math-17k",
+          "project_page": null,
+          "other_links": [
+            "https://github.com/QwenLM/CodeElo",
+            "https://github.com/ModalityDance/LatentTTS",
+            "https://huggingface.co/datasets/agentica-org/DeepCoder-Preview-Dataset",
+            "https://huggingface.co/datasets/TURLEing/Rubrics-To-Tokens",
+            "https://huggingface.co/#2"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "该论文直接研究大语言模型的on-policy distillation，并提出OPTD来补充最终层分布匹配，核心关键词On-Policy Distillation、OPD、Distillation、Large Language Model/LLM均高度匹配；同时属于后训练/微调范畴。论文使用教师奖励和on-policy rollout进行蒸馏，带有策略梯度式更新，但与Agent、Memory、RAG、量化、MoE、PPO/DQN等关键词关系较弱。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Distillation",
+        "On-Policy Distillation",
+        "OPD"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
     }
   }
 }
