@@ -165,3 +165,21 @@ Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning
 Stable charged energy and phase transitions in an anisotropic Dicke quantum battery with Kerr nonlinearity
 Confessions of a Masked MDP
 Reframing Object-Centric Reinforcement Learning: From Absolute to Relative Representations
+Will AI kill us all---or just make mathematicians obsolete?
+TIDE: Tree-Induced Fine-Grained Diagnostic Evaluation from Model Behaviors
+Compression Formula for Nonattacking Fillings of Non-symmetric Macdonald Polynomials
+Privacy in Context Is Being Overlooked in the Age of General-Purpose LLMs
+Asking a Multimodal LLM Whether Someone Fell: Zero-Shot Screening of Low-Resolution Thermal Video in a Laboratory and an Occupied Home
+Benchmarking Large Language Models for Detecting Satirical Code-Mixed Sentences
+Investigating the Impact of Learner Errors on Social Bias in Large Language Models
+HAWK: Heterogeneity-Aware KV Cache Transfer for Efficient GPU-NPU Phase-Disaggregated LLM Inference
+Every Part Has Its Role: Part-of-Speech Effects in LLM Post-Training
+AT-Differ: Dataset for Audio-Text Difference Captioning
+Machine Learning-Enabled Wireless Power Transfer: A Task-Oriented Review of Structural Optimization, State and Parameter Estimation, and Adaptive Control
+RLMuscle: Muscle-Driven Character Animation via Reinforcement Learning
+Reinforcement Learning for Global-Local Control of Dynamic Networks with Applications to Systemic Risk
+RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation
+Near Minimax Rate for Quantile Distributional Reinforcement Learning
+End-to-End Reinforcement Learning for Quadrupedal Jumping in Lunar Gravity
+Safe World Model for Joint Trajectory and Beamforming Design of Mobile Base Stations
+Deep Reinforcement Learning Assistance for Resilient Haptic Teleoperation over a 5G Network

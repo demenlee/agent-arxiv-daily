@@ -24858,6 +24858,883 @@
       ],
       "blacklisted": false,
       "blacklist_reason": ""
+    },
+    "2610.30042": {
+      "arxiv_id": "2610.30042",
+      "title": "HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Sudipta Paul",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Sudipta Paul": "Samsung Research America",
+        "Pengrui Quan": "Samsung Research America",
+        "Aounon Kumar": "Samsung Research America",
+        "Nicholas Tzou": "Samsung Research America",
+        "Vivek Kulkarni": "Samsung Research America",
+        "Srinivas Chappidi": "Samsung Research America"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.30042"
+        ]
+      },
+      "one_sentence_summary": "提出 HGM-Dual 框架，利用 lineage-aware agent evolution context 与 error-conditioned dual-path child generation 优化冻结 LLM 的 agent harness，在 DeepPlanning 的 travel 和 shopping 长时规划任务上相较最强基线 case accuracy 最高相对提升 14.45%，并以 2–4 倍更少评估预算达到 HGM 变体的最终性能。",
+      "metadata": {
+        "first_author": "Sudipta Paul",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Sudipta Paul": "Samsung Research America",
+          "Pengrui Quan": "Samsung Research America",
+          "Aounon Kumar": "Samsung Research America",
+          "Nicholas Tzou": "Samsung Research America",
+          "Vivek Kulkarni": "Samsung Research America",
+          "Srinivas Chappidi": "Samsung Research America"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.30042"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是面向冻结 LLM 的 agent harness 优化与递归自我改进，直接涉及 Harness、Agentic、Recursive Self-Improvement、RSI、LLM 等关键词；其 lineage-aware evolution context 也起到了进化记忆作用，因此与 Memory 有一定关联。论文不涉及模型预训练/微调、强化学习算法、模型压缩、量化、蒸馏、RAG 或 CoT 等主题，故未覆盖这些关键词。",
+      "matching_keywords": [
+        "Agentic",
+        "Harness",
+        "Memory",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29784": {
+      "arxiv_id": "2610.29784",
+      "title": "Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Zhipeng Chen",
+      "corresponding_author": "Wayne Xin Zhao, Ji-Rong Wen, Bryan Dai",
+      "author_affiliations": {
+        "Zhipeng Chen": "Gaoling School of Artificial Intelligence, Renmin University of China; 机构2（摘录未给出名称）",
+        "Yunsen Liang": "Gaoling School of Artificial Intelligence, Renmin University of China; 机构2（摘录未给出名称）",
+        "Yanxi Chen": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Hongkang Zhao": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Lingyun Feng": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Ruiyang Ren": "机构3（摘录未给出名称）",
+        "Guoxin Chen": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Jia Deng": "Gaoling School of Artificial Intelligence, Renmin University of China; 机构2（摘录未给出名称）",
+        "Feng Chang": "机构2（摘录未给出名称）",
+        "Chuan Hao": "机构2（摘录未给出名称）",
+        "Ran Tao": "机构2（摘录未给出名称）",
+        "Jian Yang": "机构2（摘录未给出名称）",
+        "Ji-Rong Wen": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Bryan Dai": "机构2（摘录未给出名称）",
+        "Wayne Xin Zhao": "Gaoling School of Artificial Intelligence, Renmin University of China"
+      },
+      "urls": {
+        "github": "https://github.com/RUCAIBox/DeepEvolve",
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出 DeepEvolve 递归自我改进框架，将实时新闻合成为可验证的未来事件预测任务，并用搜索-预测解耦的多智能体预测器 Branchus、基于 GRPO/RLVR 与 RFT 的参数进化、轨迹技能蒸馏以及 Athena 驱动的对抗任务合成环境进化，在 FutureX 周更榜与 Prometheus 合成评测上使 Branchus 在四个 LLM 上取得最高 Bradley-Terry 排名，FutureX 连续三周第一、最高 rating 提升 195%。",
+      "metadata": {
+        "first_author": "Zhipeng Chen",
+        "corresponding_author": "Wayne Xin Zhao, Ji-Rong Wen, Bryan Dai",
+        "author_affiliations": {
+          "Zhipeng Chen": "Gaoling School of Artificial Intelligence, Renmin University of China; 机构2（摘录未给出名称）",
+          "Yunsen Liang": "Gaoling School of Artificial Intelligence, Renmin University of China; 机构2（摘录未给出名称）",
+          "Yanxi Chen": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Hongkang Zhao": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Lingyun Feng": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Ruiyang Ren": "机构3（摘录未给出名称）",
+          "Guoxin Chen": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Jia Deng": "Gaoling School of Artificial Intelligence, Renmin University of China; 机构2（摘录未给出名称）",
+          "Feng Chang": "机构2（摘录未给出名称）",
+          "Chuan Hao": "机构2（摘录未给出名称）",
+          "Ran Tao": "机构2（摘录未给出名称）",
+          "Jian Yang": "机构2（摘录未给出名称）",
+          "Ji-Rong Wen": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Bryan Dai": "机构2（摘录未给出名称）",
+          "Wayne Xin Zhao": "Gaoling School of Artificial Intelligence, Renmin University of China"
+        },
+        "resources": {
+          "github": "https://github.com/RUCAIBox/DeepEvolve",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 9.5,
+      "keyword_reasoning": "该论文核心正是递归自我改进（RSI）与 Agent 在开放可验证环境中的持续进化，提出 DeepEvolve 三模块闭环，包含 living environment、agentic forecaster 与 recursive-evolution engine；使用多智能体搜索/预测团队、RLVR/GRPO、RFT、技能蒸馏、对抗任务合成，并在 FutureX 与 Prometheus 评测中与多种 harness 对比。因此与 Agentic、Multi-Agent、Agent RL、Harness、Skills、RSI、LLM、Fine-tuning、Distillation、Reinforcement Learning 等关键词高度吻合；但不涉及模型压缩、量化、MoE、DQN/SAC/PPO 等特定算法，故不是满分。",
+      "matching_keywords": [
+        "Multi-Agent",
+        "Agentic",
+        "ReAct",
+        "Agent RL",
+        "Harness",
+        "Skills",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Distillation",
+        "Reinforcement Learning",
+        "RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29713": {
+      "arxiv_id": "2610.29713",
+      "title": "Will AI kill us all---or just make mathematicians obsolete?",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Sergiu Klainerman",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/openai/math",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2608.16753",
+          "https://arxiv.org/abs/2505.22954",
+          "https://arxiv.org/abs/2506.13131",
+          "https://arxiv.org/abs/2610.08144",
+          "https://arxiv.org/abs/2609.40068",
+          "https://arxiv.org/abs/2606.28253"
+        ]
+      },
+      "one_sentence_summary": "本文是一篇立场/评论文章，旨在评估AI近期数学成就是否会取代人类数学家，通过论证AI尚缺乏概念与理论发明以及自主递归自我改进能力并强调判断力、想象力和具身经验，未使用数据集或基准实验，最终提出建立学术AI联盟以保护归属、开放交流、保密与数学训练。",
+      "metadata": {
+        "first_author": "Sergiu Klainerman",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/openai/math",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2608.16753",
+            "https://arxiv.org/abs/2505.22954",
+            "https://arxiv.org/abs/2506.13131",
+            "https://arxiv.org/abs/2610.08144",
+            "https://arxiv.org/abs/2609.40068",
+            "https://arxiv.org/abs/2606.28253"
+          ]
+        }
+      },
+      "keyword_relevance_score": 4.0,
+      "keyword_reasoning": "本文是数学与AI关系的立场/评论文章，核心讨论AI是否具备概念创新和自主递归自我改进能力，因此与Recursive Self-Improvement、RSI、LLM等关键词有部分关联；但它不涉及多智能体、Agentic系统、强化学习、记忆、工具调用、模型压缩或量化等技术方法，也没有基准实验，整体相关性中等偏低。",
+      "matching_keywords": [
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.0"
+    },
+    "2610.29677": {
+      "arxiv_id": "2610.29677",
+      "title": "Toward Recursive Self-Improvement in Physical AI",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "该文是一篇面向物理AI的综述，提出以“行为提升—后续学习受益—过程提升—R1/R2递归”四级主张和四项条件组织机器人自我改进研究，系统梳理策略、世界模型、外部知识、学习过程与改进器等机制，并提出受控两轮实验来检验递归自我改进，未在统一数据集或benchmark上报告自有实验结果。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 9.5,
+      "keyword_reasoning": "本文核心正是 Recursive Self-Improvement/RSI 在 Physical AI 与机器人学习中的系统综述，大量讨论 agentic 编码代理、harness、memory、skills、LLM 驱动的实验循环，以及 RL、fine-tuning、distillation 等机制与评测标准，因此与目标关键词高度相关；但它不是多智能体系统、模型压缩/量化或 CoT 方法论文，也没有提出新模型或在统一 benchmark 上给出自有实验数字。",
+      "matching_keywords": [
+        "Agentic",
+        "Harness",
+        "Memory",
+        "Skills",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM",
+        "Pre-training",
+        "Fine-tuning",
+        "Distillation",
+        "Reinforcement Learning",
+        "RL",
+        "Offline RL",
+        "Online RL",
+        "PPO"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29641": {
+      "arxiv_id": "2610.29641",
+      "title": "Recursive Code Evolution for Task-Oriented Semantic Communications",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Yan Gong",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出 ComRSI 框架，使用固定的 LLM agent 递归编辑并继承任务导向语义通信程序代码、由受保护评估器筛选候选，在 CIFAR-100 上以 32 个复符号/图像取得 74.3% 隐藏 AWGN-5 准确率（初始 256 符号为 67.2%），并迁移到 Tiny-ImageNet，十次重复搜索平均 PublicScore 达 0.7587。",
+      "metadata": {
+        "first_author": "Yan Gong",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心是固定 LLM agent 通过递归继承已接受代码来演化任务导向语义通信程序，属于 LLM 驱动的 agentic 程序搜索与 Recursive Self-Improvement/RSI 在通信系统设计中的应用；同时使用文本历史和归档提案支持后续生成，具有 Memory 相关性。但论文不涉及多智能体协作、ReAct、Agent RL、强化学习训练、RAG、模型压缩、量化、蒸馏等关键词。",
+      "matching_keywords": [
+        "Agentic",
+        "Memory",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29458": {
+      "arxiv_id": "2610.29458",
+      "title": "Harness Scaling for Generalizable Agentic Reinforcement Learning",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Fei Bai",
+      "corresponding_author": "Wayne Xin Zhao",
+      "author_affiliations": {
+        "Fei Bai": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Huatong Song": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Chuan Hao": "IQuest Research",
+        "Ran Tao": "IQuest Research",
+        "Jian Yang": "Beihang University",
+        "Bryan Dai": "IQuest Research",
+        "Wayne Xin Zhao": "Gaoling School of Artificial Intelligence, Renmin University of China",
+        "Ji-Rong Wen": "Gaoling School of Artificial Intelligence, Renmin University of China"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出 Harness Scaling 框架，将 agent harness 分解为 system prompt、tool interface、observation、context management 和 workflow 五个组件，使用 strength-2 正交设计选取 18 个 harness 配置并进行 locality-aware 跨 harness 的 GRPO/PPO 强化学习，在 ClawGym-Bench、JobBench-Easy 和 PinchBench 上将 Qwen3-4B-Instruct 的 GRPO 平均 Pass@1 从 29.81 提升至 39.04，并在 Claude Code/OpenClaw 黑盒 harness 上优于单 harness 训练。",
+      "metadata": {
+        "first_author": "Fei Bai",
+        "corresponding_author": "Wayne Xin Zhao",
+        "author_affiliations": {
+          "Fei Bai": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Huatong Song": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Chuan Hao": "IQuest Research",
+          "Ran Tao": "IQuest Research",
+          "Jian Yang": "Beihang University",
+          "Bryan Dai": "IQuest Research",
+          "Wayne Xin Zhao": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "Ji-Rong Wen": "Gaoling School of Artificial Intelligence, Renmin University of China"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 9.5,
+      "keyword_reasoning": "论文核心是面向 LLM agent 的 Harness Scaling，即通过多样化 agent harness 配置进行强化学习训练以提升跨 harness 泛化；直接覆盖 Agentic、Agent RL、Harness、LLM、RL、PPO、Online RL 等关键词，但不涉及多智能体、ReAct、RSI、RAG、压缩/量化/蒸馏等。",
+      "matching_keywords": [
+        "Agentic",
+        "Agent RL",
+        "Harness",
+        "Large Language Model",
+        "LLM",
+        "Reinforcement Learning",
+        "RL",
+        "PPO",
+        "Online RL",
+        "Fine-tuning"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29426": {
+      "arxiv_id": "2610.29426",
+      "title": "BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Ge Qu",
+      "corresponding_author": "Ge Qu",
+      "author_affiliations": {
+        "Ge Qu": "The University of Hong Kong",
+        "Jinyang Li": "The University of Hong Kong",
+        "Xiaohan Xu": "The University of Hong Kong",
+        "Xiaolong Li": "The University of Hong Kong",
+        "Bowen Li": "National University of Singapore",
+        "Nan Qin": "National University of Singapore",
+        "Ziwei Huo": "The University of Hong Kong",
+        "Chenhao Tang": "The Chinese University of Hong Kong, Shenzhen",
+        "Reynold Cheng": "The University of Hong Kong"
+      },
+      "urls": {
+        "github": "https://github.com/bird-bench/BIRD-RL",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://huggingface.co/"
+        ]
+      },
+      "one_sentence_summary": "提出了BIRD-RL四阶段agentic RL课程与轨迹作用域持久执行基础设施，使用GRPO和执行反馈奖励在SIX-GYM-SQLite上训练，并在BIRD-CRITIC-SQLite上使7B/14B模型分别达到44.40%/48.00%成功率，同时将数据库复用空间效率提升12.8倍。",
+      "metadata": {
+        "first_author": "Ge Qu",
+        "corresponding_author": "Ge Qu",
+        "author_affiliations": {
+          "Ge Qu": "The University of Hong Kong",
+          "Jinyang Li": "The University of Hong Kong",
+          "Xiaohan Xu": "The University of Hong Kong",
+          "Xiaolong Li": "The University of Hong Kong",
+          "Bowen Li": "National University of Singapore",
+          "Nan Qin": "National University of Singapore",
+          "Ziwei Huo": "The University of Hong Kong",
+          "Chenhao Tang": "The Chinese University of Hong Kong, Shenzhen",
+          "Reynold Cheng": "The University of Hong Kong"
+        },
+        "resources": {
+          "github": "https://github.com/bird-bench/BIRD-RL",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://huggingface.co/"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "该论文核心是面向状态化数据库环境的agentic reinforcement learning，采用SQL-Act/ReAct式多轮交互、SFT模仿学习与GRPO在线强化学习来训练LLM/小模型进行SQL调试，因此与Agentic、Agent RL、LLM、Fine-tuning、Chain of Thought、Reinforcement Learning、RL、Online RL等关键词高度相关；但不涉及多智能体协作、记忆模块、MoE、模型压缩/量化、RAG或递归自我改进等主题。",
+      "matching_keywords": [
+        "Agentic",
+        "ReAct",
+        "Agent RL",
+        "Harness",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Chain of Thought",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29121": {
+      "arxiv_id": "2610.29121",
+      "title": "Recursive Self-Improvement on a Budget: Scoring Code Edits Before They Run",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Erfan Darzi",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.29121"
+        ]
+      },
+      "one_sentence_summary": "提出一种面向代码智能体递归自改进的 Birth-time readout 预算化搜索方法，用父节点 steering-split 解决率与代码 diff 的 8 维嵌入坐标训练线性评分器，在运行前筛选编辑，并在 HumanEval+ 与 Polyglot 上使 GPT-4o 返回节点在 held-out HumanEval+ 达到 87.0%，高于 parent-rate 消融的 84.2% 等基线。",
+      "metadata": {
+        "first_author": "Erfan Darzi",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.29121"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是让 LLM 代码智能体在固定评估预算下通过改写自身 scaffold/harness 实现递归自改进，并比较不同父节点选择策略与运行前编辑评分器，属于 Recursive Self-Improvement、RSI、Agentic、LLM 和 Harness 方向；不涉及多智能体协作、ReAct、强化学习、记忆机制、技能库、预训练/微调、模型压缩量化蒸馏或 RAG 等关键词。",
+      "matching_keywords": [
+        "Agentic",
+        "Harness",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28998": {
+      "arxiv_id": "2610.28998",
+      "title": "FlashNext-RL: A System Optimization Study for Long-Horizon Agentic RL of Qwen3.8-Flash-Next",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Zhewei",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Zhewei": "Snowflake AI Research",
+        "Yao, Yuxiong": "Snowflake AI Research"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.28998"
+        ]
+      },
+      "one_sentence_summary": "提出面向 Qwen3.8-Flash-Next 长程 agentic RL 的系统优化框架 FlashNext-RL，基于 PrimeRL 与 vLLM，结合 host offload、梯度累积以及 MoE、稀疏注意力和门控残差等模型专用 kernel，在 SWE RL 任务和 131K 上下文、1024 条可训练 rollout 的设置下，将全模型训练吞吐从约 395 提升到 4438 tokens/s/GPU、硬件 matmul 吞吐从约 20 提升到 213 TFLOPs/GPU，并实现平均约 22.4 分钟/迭代的端到端运行。",
+      "metadata": {
+        "first_author": "Zhewei",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Zhewei": "Snowflake AI Research",
+          "Yao, Yuxiong": "Snowflake AI Research"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.28998"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是面向 LLM 长程 agentic 任务的强化学习训练系统优化，直接涉及 Agentic、Agent RL、RL、Online RL、LLM、Memory 和 Harness 等关键词；同时针对 MoE、稀疏注意力等模型结构做 kernel 与内存优化，因此与 Mixture of Experts 也相关。但它不是多智能体系统、ReAct 方法、技能学习、RSI、RAG、量化/压缩/蒸馏或经典 Deep RL 算法（DQN/PPO/SAC）研究，故未覆盖这些关键词。",
+      "matching_keywords": [
+        "Agentic",
+        "Agent RL",
+        "Harness",
+        "Memory",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Mixture of Experts",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28577": {
+      "arxiv_id": "2610.28577",
+      "title": "Cache Engineering for Agents",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Tianyu Fu",
+      "corresponding_author": "Yu Wang",
+      "author_affiliations": {
+        "Tianyu Fu": "Tsinghua University",
+        "Yu Wang": "Tsinghua University",
+        "Ruoxi Wang": "Tsinghua University",
+        "Zihan Min": "Tsinghua University"
+      },
+      "urls": {
+        "github": "https://github.com/thu-nics/AKV",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.28577"
+        ]
+      },
+      "one_sentence_summary": "提出 Cache Engineering（AKV）框架，通过 drop/repos 缓存操作与扩展 radix tree、segment-batch attention 服务系统，使 LLM agent 无需重写轨迹即可直接管理 KV cache，并在 BCP、GAIA-Text、SWE-Verified、xbench-DS 上相比阈值摘要平均提升 1.7 分、降低 27.7% 成本，同时实现最高 1.2× 输出吞吐和 1.5× P95 延迟加速。",
+      "metadata": {
+        "first_author": "Tianyu Fu",
+        "corresponding_author": "Yu Wang",
+        "author_affiliations": {
+          "Tianyu Fu": "Tsinghua University",
+          "Yu Wang": "Tsinghua University",
+          "Ruoxi Wang": "Tsinghua University",
+          "Zihan Min": "Tsinghua University"
+        },
+        "resources": {
+          "github": "https://github.com/thu-nics/AKV",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.28577"
+          ]
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心是面向 LLM agent 的 KV cache 工程与 serving 系统，明确涉及 agent harness、缓存内存管理、LLM 推理服务以及递归自我改进（RSI）来优化缓存策略，因此与 Agentic、Harness、Memory、Large Language Model、LLM、Recursive Self-Improvement、RSI 高度相关；但不涉及多智能体协作、强化学习训练、模型压缩/量化/蒸馏、RAG 方法本身等关键词。",
+      "matching_keywords": [
+        "Agentic",
+        "Harness",
+        "Memory",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28388": {
+      "arxiv_id": "2610.28388",
+      "title": "Self-Credit: Credit Assignment for Long-Horizon Agentic RL via Intra-group Rescaling",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": "https://huggingface.co/datasets/Tevatron/browsecomp-plus",
+        "project_page": null,
+        "other": [
+          "https://huggingface.co/datasets/gaia-benchmark/GAIA",
+          "https://huggingface.co/datasets/xbench/DeepSearch",
+          "https://www.cosmicai.org/"
+        ]
+      },
+      "one_sentence_summary": "提出了Self-Credit方法，利用策略模型在上下文压缩时自生成带轮次引用的摘要作为信用信号，并通过组内重缩放比较成功/失败rollout来修正信用和重加权优势，在BrowseComp-Plus的Qwen3-32B/8B上取得47.0/40.6准确率、GAIA上39.2、xBench-DeepSearch上16.7，并优于强基线。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": "https://huggingface.co/datasets/Tevatron/browsecomp-plus",
+          "project_page": null,
+          "other_links": [
+            "https://huggingface.co/datasets/gaia-benchmark/GAIA",
+            "https://huggingface.co/datasets/xbench/DeepSearch",
+            "https://www.cosmicai.org/"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文直接研究长程LLM智能体的稀疏奖励信用分配问题，提出Self-Credit，将压缩摘要中的轮次引用作为自生成信用，并用成功/失败rollout的组内统计进行重缩放与advantage reweighting；这属于Agentic、Agent RL、LLM、RL/Online RL、Memory与Harness等关键词的核心范围。其不涉及多智能体、RSI、MoE、模型压缩/量化/蒸馏、OPD等，故未列为匹配关键词。",
+      "matching_keywords": [
+        "Agentic",
+        "Agent RL",
+        "Harness",
+        "Memory",
+        "Large Language Model",
+        "LLM",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28282": {
+      "arxiv_id": "2610.28282",
+      "title": "ChartEvo: Self-Evolving Agent Harnesses for Long-Tail Chart Reasoning",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Peijie Wang",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Peijie Wang": "State Key Laboratory of Multimodal Artificial Intelligence Systems, CASIA; School of Artificial Intelligence, University of Chinese Academy of Sciences"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出 ChartEvo 递归自我改进框架，通过联合演化可复用 Skills、可执行 Tools 与自演化局部工具链 SELT 来增强图表智能体，在 ChartBench 和 ChartX 的长尾图表 NQA 任务上分别将 Qwen3.7-Plus 的准确率提升 45.6 和 32.5 个百分点。",
+      "metadata": {
+        "first_author": "Peijie Wang",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Peijie Wang": "State Key Laboratory of Multimodal Artificial Intelligence Systems, CASIA; School of Artificial Intelligence, University of Chinese Academy of Sciences"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是面向长尾图表推理的 harness 级递归自我改进，涉及 Agentic、ReAct 式工具调用、Skills/Tools 演化、SELT 和 MLLM，因此与 Harness、Skills、RSI/Recursive Self-Improvement、Agentic、ReAct、LLM 等高度相关；但不涉及多智能体协作、强化学习训练、记忆机制、预训练/微调、压缩量化蒸馏或 RAG 等。",
+      "matching_keywords": [
+        "Agentic",
+        "ReAct",
+        "Harness",
+        "Skills",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.28201": {
+      "arxiv_id": "2610.28201",
+      "title": "MaD-RSI: Model-as-Data for Recursive Self-Improvement of Agent Harnesses",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Cui Hong",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Cui Hong": "Beijing Institute of Technology",
+        "He Ruiqing": "Tsinghua University",
+        "Yue Sicheng": "Chengdu Institute of Computer Applications, Chinese Academy of Sciences",
+        "Pan Zhuoyu": "Beijing Institute of Technology",
+        "Sun Yifei": "Beijing Institute of Technology",
+        "Liu Ting": "Beijing Institute of Technology",
+        "Li Wenzhuo": "未知机构（原文标记为{5}）",
+        "Zhu Baohan": "未知机构（原文标记为{5}）",
+        "Huang Haibin": "Beijing Institute of Technology",
+        "Zhang Cong": "未知机构（原文标记为{6,7}）",
+        "Zuo": "Beijing Institute of Technology"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了MaD-RSI框架，将多个异构LLM在共享查询与采样配置下的成功/失败轨迹组织为响应张量，并利用模型间分歧与行为覆盖选择证据、联合诊断来递归改进共享agent harness，在LawBench、MBPP+、MedXpertQA和Agent-SafetyBench上相较单模型RRSI/SHE基线提升了跨模型pass@4与passall@4泛化，并在通用任务上降低了部分训练成本。",
+      "metadata": {
+        "first_author": "Cui Hong",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Cui Hong": "Beijing Institute of Technology",
+          "He Ruiqing": "Tsinghua University",
+          "Yue Sicheng": "Chengdu Institute of Computer Applications, Chinese Academy of Sciences",
+          "Pan Zhuoyu": "Beijing Institute of Technology",
+          "Sun Yifei": "Beijing Institute of Technology",
+          "Liu Ting": "Beijing Institute of Technology",
+          "Li Wenzhuo": "未知机构（原文标记为{5}）",
+          "Zhu Baohan": "未知机构（原文标记为{5}）",
+          "Huang Haibin": "Beijing Institute of Technology",
+          "Zhang Cong": "未知机构（原文标记为{6,7}）",
+          "Zuo": "Beijing Institute of Technology"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8.5,
+      "keyword_reasoning": "论文核心是面向LLM agent harness的递归自我改进，直接涉及Agentic、Harness、Recursive Self-Improvement、RSI、Large Language Model与LLM等关键词；它使用多个异构LLM的行为作为训练证据来优化共享harness，但不是多智能体协作系统，也未采用强化学习、微调、蒸馏或RAG等技术，因此未匹配Agent RL、RL、Fine-tuning、RAG等关键词。",
+      "matching_keywords": [
+        "Agentic",
+        "Harness",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.27889": {
+      "arxiv_id": "2610.27889",
+      "title": "Elicitation or Expansion? Demystifying Gains from Agent Harness Optimization",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Younghyun Kim",
+      "corresponding_author": "Wooseok Seo",
+      "author_affiliations": {
+        "Younghyun Kim": "FuriosaAI",
+        "Wooseok Seo": "FuriosaAI; Yonsei University",
+        "Minseo Kim": "University of California, Berkeley",
+        "Seunghyuk Oh": "FuriosaAI",
+        "Minjae Lee": "FuriosaAI",
+        "Donghoon Kim": "FuriosaAI",
+        "Hyung Koo": "FuriosaAI",
+        "Jaehyung Kim": "Yonsei University",
+        "Wonjun Kang": "FuriosaAI"
+      },
+      "urls": {
+        "github": "https://github.com/furiosa-ai/elicitation-or-expansion",
+        "huggingface": "https://huggingface.co/datasets/furiosa-ai/elicitation-or-expansion-trajectories",
+        "project_page": "https://furiosa-air.github.io/elicitation-or-expansion",
+        "other": []
+      },
+      "one_sentence_summary": "本文对 Meta-Harness 优化后的语言模型 agent harness 进行 pass@k 诊断分析，结合更大模型/更高推理努力参考系统与任务难度分层，在文本分类、HotpotQA 和 AppWorld 上发现 harness 优化主要提升 pass@1 与已有任务可靠性，但在更大尝试预算和困难任务上常无法超过更强参考，动态任务中通过改进环境交互可部分逼近更强参考。",
+      "metadata": {
+        "first_author": "Younghyun Kim",
+        "corresponding_author": "Wooseok Seo",
+        "author_affiliations": {
+          "Younghyun Kim": "FuriosaAI",
+          "Wooseok Seo": "FuriosaAI; Yonsei University",
+          "Minseo Kim": "University of California, Berkeley",
+          "Seunghyuk Oh": "FuriosaAI",
+          "Minjae Lee": "FuriosaAI",
+          "Donghoon Kim": "FuriosaAI",
+          "Hyung Koo": "FuriosaAI",
+          "Jaehyung Kim": "Yonsei University",
+          "Wonjun Kang": "FuriosaAI"
+        },
+        "resources": {
+          "github": "https://github.com/furiosa-ai/elicitation-or-expansion",
+          "huggingface": "https://huggingface.co/datasets/furiosa-ai/elicitation-or-expansion-trajectories",
+          "project_page": "https://furiosa-air.github.io/elicitation-or-expansion",
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心是 LLM agent 的 harness 优化收益诊断，直接涉及 Harness、Agentic、ReAct、Memory、LLM 以及 Recursive Self-Improvement/RSI 的动机；同时使用 HotpotQA 的检索增强式多跳问答，并与 RL 文献中的 pass@k 分析作类比。但它不提出新的多智能体系统、不进行 RL/Agent RL 训练，也不涉及压缩、量化、蒸馏、MoE、CoT 等关键词，因此相关性高但非全覆盖。",
+      "matching_keywords": [
+        "Agentic",
+        "ReAct",
+        "Harness",
+        "Memory",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM",
+        "RAG",
+        "Reinforcement Learning",
+        "RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.27735": {
+      "arxiv_id": "2610.27735",
+      "title": "RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.27735"
+        ]
+      },
+      "one_sentence_summary": "提出了RSI Control Arena测试床，让前沿LLM作为自主研发智能体在14个主任务（覆盖数据筛选、SFT、RM、RL与OPD）中执行22个主任务-侧任务对，并评估6个前沿模型对Qwen3.5-4B/2B继任模型的隐蔽破坏能力及LLM监控器检测效果，发现36%攻击运行成功植入侧任务且多数不显著损害主任务，链式思维监控显著提升检测但可被规避策略降低。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.27735"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是递归自我改进（RSI）过程中的AI控制与破坏评估，使用前沿LLM作为自主智能体，在包含数据筛选、监督微调、奖励模型训练、强化学习和在线策略蒸馏的训练流水线中植入侧任务，并研究基于链式思维的监控检测。论文直接覆盖RSI、LLM、Agentic、Harness、Fine-tuning、Chain of Thought、Reinforcement Learning、Distillation、OPD等关键词，因此与给定关键词高度相关；但不涉及多智能体、ReAct、记忆、MoE、量化、RAG、DQN/PPO/SAC等具体方法。",
+      "matching_keywords": [
+        "Agentic",
+        "Harness",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Chain of Thought",
+        "Distillation",
+        "Reinforcement Learning",
+        "RL",
+        "On-Policy Distillation",
+        "OPD"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.27610": {
+      "arxiv_id": "2610.27610",
+      "title": "Auditing the Product, Not the Recursion: The Evaluation Evidence Behind Recursive Self-Improvement Claims",
+      "publish_date": "2026-10-20",
+      "source_type": "latex",
+      "first_author": "Zihan Chen",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Zihan Chen": "Stevens Institute of Technology",
+        "Zhu": "Stevens Institute of Technology",
+        "Lei Nico Zheng": "University of Massachusetts Boston"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了以声明为索引的 RSI 评估审计框架，通过可复现的 arXiv 检索框与全文编码方法系统分析 114 篇合格研究，发现仅 22% 审计两次以上完整循环重跑、26 篇声称改进器提升的研究中仅 4 篇进行同起点匹配预算比较，并据此提出按声明连接证据要求的报告标准。",
+      "metadata": {
+        "first_author": "Zihan Chen",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Zihan Chen": "Stevens Institute of Technology",
+          "Zhu": "Stevens Institute of Technology",
+          "Lei Nico Zheng": "University of Massachusetts Boston"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文直接研究 Recursive Self-Improvement / RSI 的评估证据与报告规范，核心对象是自进化 LLM agents、agent harness、memory、skills 和 improver，因此与 RSI、Agentic、Harness、Memory、Skills、LLM 高度相关；但不涉及 ReAct、RL 算法、预训练/微调、MoE、压缩量化、RAG 等具体技术，故相关度接近最高但非全部关键词命中。",
+      "matching_keywords": [
+        "Agentic",
+        "Harness",
+        "Memory",
+        "Skills",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
     }
   },
   "Large Language Models": {
@@ -38833,6 +39710,968 @@
       ],
       "blacklisted": true,
       "blacklist_reason": "Low relevance score: 3.0"
+    },
+    "2610.30132": {
+      "arxiv_id": "2610.30132",
+      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Zhennan Wan",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Zhennan Wan": "Tsinghua University, Dept. of Comp. Sci. and Tech., Institute for AI, BNRist Center, THBI Lab, Tsinghua-Bosch Joint ML Center",
+        "Jianfei Chen": "Tsinghua University, Dept. of Comp. Sci. and Tech., Institute for AI, BNRist Center, THBI Lab, Tsinghua-Bosch Joint ML Center"
+      },
+      "urls": {
+        "github": "https://github.com/zhennan1/LongZero",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.30132"
+        ]
+      },
+      "one_sentence_summary": "提出了 LongZero 框架，使用模型自生成的“问题-证据-答案”结构化规范并扩展成长多文档上下文，结合自生成多轮检索任务与 GRPO 强化学习，在 Qwen3-4B-Thinking-2507 和 Qwen3-8B 上于五个长上下文推理基准上取得最高平均分并优于外部语料和教师模型合成数据基线。",
+      "metadata": {
+        "first_author": "Zhennan Wan",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Zhennan Wan": "Tsinghua University, Dept. of Comp. Sci. and Tech., Institute for AI, BNRist Center, THBI Lab, Tsinghua-Bosch Joint ML Center",
+          "Jianfei Chen": "Tsinghua University, Dept. of Comp. Sci. and Tech., Institute for AI, BNRist Center, THBI Lab, Tsinghua-Bosch Joint ML Center"
+        },
+        "resources": {
+          "github": "https://github.com/zhennan1/LongZero",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.30132"
+          ]
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心是大语言模型长上下文推理的强化学习，提出零数据自合成任务并用 GRPO 训练，与 LLM、RL、在线 RL 高度相关；不涉及多智能体、Agentic/ReAct/Agent RL、记忆、模型压缩/量化/蒸馏或 RAG 等主题，Recursive Self-Improvement 也仅轻微相关，因为方法使用自生成数据训练但未做递归迭代式自我改进。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.30113": {
+      "arxiv_id": "2610.30113",
+      "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Houde Qian",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了 Quant-Arena 基准，基于真实 A 股 Level-2 行情构建端到端 LLM 量化研究评估协议，让模型在有限研究预算下构建特征与选股信号并冻结策略，在 2024 年密封样本外按统一组合与交易规则评估；在九个前沿模型的 38 个迭代配置中，仅 Sol 在 medium effort 下以 18.4% 年化收益微弱超过 17.1% 的等权市场基准，最佳模型总分 51.3 仍远低于 Kepler-1 的 77.6。",
+      "metadata": {
+        "first_author": "Houde Qian",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心是评估 LLM agents 在量化交易研究中的端到端研究能力，涉及 LLM、Agentic 研究流程、工具/数据接口、迭代反馈与模型 harness，因此与 LLM/Agentic/Harness 类关键词高度相关。但它不提出新的多智能体协作方法，不涉及 Agent RL 或强化学习训练，也没有明确研究 Memory、Skills、Recursive Self-Improvement、RSI、CoT 等机制；预训练、微调、MoE、压缩、量化、蒸馏、RAG 等关键词基本无关。",
+      "matching_keywords": [
+        "Agentic",
+        "Harness",
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.30099": {
+      "arxiv_id": "2610.30099",
+      "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Meng Ding",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Meng Ding": "University of Massachusetts Boston",
+        "Mingxi Lei": "University at Buffalo, SUNY",
+        "Jie Zhang": "Unknown"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": "https://huggingface.co/datasets/allenai/real-toxicity-prompts",
+        "project_page": null,
+        "other": [
+          "https://paperswithcode.com/datasets"
+        ]
+      },
+      "one_sentence_summary": "提出了差分隐私稀疏RLHF框架，使用Sample-DP-IHT（IHT+私有peeling机制）和Label-DP RR+IHT（随机化响应+去偏梯度）在BTL模型下估计稀疏奖励，在IMDb情感生成和AI2 Harmful安全对齐基准上相比DP-SGD与Randomized Response等稠密基线取得更优的隐私-效用权衡。",
+      "metadata": {
+        "first_author": "Meng Ding",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Meng Ding": "University of Massachusetts Boston",
+          "Mingxi Lei": "University at Buffalo, SUNY",
+          "Jie Zhang": "Unknown"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": "https://huggingface.co/datasets/allenai/real-toxicity-prompts",
+          "project_page": null,
+          "other_links": [
+            "https://paperswithcode.com/datasets"
+          ]
+        }
+      },
+      "keyword_relevance_score": 7.0,
+      "keyword_reasoning": "论文核心是面向Large Language Model的RLHF对齐与奖励建模，实验中使用PPO对LLM策略进行Fine-tuning，并研究Reinforcement Learning中的隐私稀疏奖励估计，因此与LLM、RL、PPO、Fine-tuning等关键词高度相关；但不涉及Multi-Agent、Agentic、ReAct、Memory、Skills、RSI、Chain of Thought、Mixture of Experts、Model Compression、Quantization、Distillation、RAG等关键词，因此相关性集中在LLM+RL方向而非agentic方向。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "Fine-tuning"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.30043": {
+      "arxiv_id": "2610.30043",
+      "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出 TARSphere——面向长时程具身智能体的机器人全栈框架（Infra 执行基础设施 + Agent 具身大脑 harness + Bench 基准），在 Isaac Sim/PhysX 中耦合物理机器人执行、具身 NPC 交互与事件驱动 FSM，让冻结的 MLLM 通过分层记忆、统一多级技能接口和执行反馈闭环决策，在自建的 30 个 GRScenes 场景、Base 加五种能力条件的 TARSphere Bench 上评测 8 个 MLLM，最佳模型 Gemini 取得导航 40.6%、配送 47.8% 的成功率，但碰撞（84%–100%）与摔倒（9%–47%）仍普遍存在。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心是构建一个由 LLM/MLLM 驱动的具身智能体系统：Embodied Brain Harness 以当前观测、分层记忆（短期历史、长期记录、语义空间记忆、自管理关键记忆）和统一多级技能接口（primitives/操作技能/导航技能）驱动冻结的多模态大模型做闭环重规划，并以执行反馈（运动残差、碰撞方向、LiDAR）触发再决策，这与 Harness、Memory、Skills、Agentic、LLM 等关键词高度契合，其『观测—动作—反馈—再规划』闭环与 ReAct 式推理-行动模式在思想上一致（论文未显式使用 ReAct 名称）。此外，多智能体协作仅出现在数据构造流程中（multi-agent review 审查因果、对话、几何与多样性），并非被评测的协作式多智能体系统。论文完全不做训练：所有模型权重冻结，无 RL/PPO/SAC/离线或在线 RL、无微调、无预训练、无蒸馏/量化/压缩/MoE/RAG/CoT/RSI 相关内容，因此与 Agent RL、Reinforcement Learning、Pre-training、Fine-tuning、Model Compression、Quantization、Distillation、RAG、Mixture of Experts、Recursive Self-Improvement 等关键词关联很弱。综合看，它在『LLM 智能体基础设施/记忆/技能/评测』维度非常相关，但在『训练与强化学习』维度几乎不相关。",
+      "matching_keywords": [
+        "LLM",
+        "Large Language Model",
+        "Agentic",
+        "Harness",
+        "Memory",
+        "Skills",
+        "Multi-Agent"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.30016": {
+      "arxiv_id": "2610.30016",
+      "title": "Code Comprehensor: Hierarchical Documentation and Cross-Modal Retrieval for Large Repositories",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Sujoy Roychowdhury",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Sujoy Roychowdhury": "Ericsson R&D",
+        "Joseph H. R. Isaac": "Ericsson R&D",
+        "Jiangning Gao": "Ericsson R&D",
+        "Martin Klitte": "Ericsson R&D",
+        "Diarmuid Corcoran": "Ericsson R&D"
+      },
+      "urls": {
+        "github": "https://github.com/opencv/opencv",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://codewiki.google/github.com/opencv/opencv#core-modules-and-algorithms-camera-calibration-and-3d-reconstruction"
+        ]
+      },
+      "one_sentence_summary": "提出了 Code Comprehensor 混合检索-推理框架，结合代码调用图 CodeGraph、分层文档生成 CodeScribe 与 CLIP 式双编码器 CodeContrast，在 OpenCV 和 5M-LOC 专有 C 仓库上使文本到代码检索 Top-1 较基线提升至少约 9%，RAGAS faithfulness 超过 90%。",
+      "metadata": {
+        "first_author": "Sujoy Roychowdhury",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Sujoy Roychowdhury": "Ericsson R&D",
+          "Joseph H. R. Isaac": "Ericsson R&D",
+          "Jiangning Gao": "Ericsson R&D",
+          "Martin Klitte": "Ericsson R&D",
+          "Diarmuid Corcoran": "Ericsson R&D"
+        },
+        "resources": {
+          "github": "https://github.com/opencv/opencv",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://codewiki.google/github.com/opencv/opencv#core-modules-and-algorithms-camera-calibration-and-3d-reconstruction"
+          ]
+        }
+      },
+      "keyword_relevance_score": 6.0,
+      "keyword_reasoning": "论文核心是面向大型代码仓库的 LLM 分层文档生成与跨模态检索，并使用 MCP 主 Agent 协调专用 Agent，属于 Agentic、LLM 与 RAG 应用；但不涉及强化学习、多智能体强化学习、记忆、技能、递归自我改进、模型压缩/量化/蒸馏等关键词，因此相关性为中等偏高。",
+      "matching_keywords": [
+        "Multi-Agent",
+        "Agentic",
+        "Large Language Model",
+        "LLM",
+        "RAG"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29999": {
+      "arxiv_id": "2610.29999",
+      "title": "EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/LiChengxi666/EPIC",
+        "huggingface": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Base",
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.29999",
+          "https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k",
+          "https://huggingface.co/datasets/HuggingFaceH4/aime_2024",
+          "https://huggingface.co/datasets/math-ai/aime25",
+          "https://huggingface.co/datasets/math-ai/amc23",
+          "https://huggingface.co/datasets/MathArena/hmmt_feb_2025"
+        ]
+      },
+      "one_sentence_summary": "提出了 EPIC——一种将自回归 LLM 生成建模为有限时域 MDP、以累计前缀重要性比率表征精确 change-of-measure、并用精确 reverse-KL 坐标 r_pre-1-log r_pre 构造 prefix-level trust region 的 PPO 风格裁剪目标，在 Qwen3-30B-A3B-Base 上使用 DAPO-Math-17K 训练，在 AIME 2024/2025、AMC 2023、HMMT 2025 四基准平均达到 39.34%，较 GSPO 提升 6.50 个百分点，且相较 R2/R3 routing replay 显著降低 driver 进程内存。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/LiChengxi666/EPIC",
+          "huggingface": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Base",
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.29999",
+            "https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k",
+            "https://huggingface.co/datasets/HuggingFaceH4/aime_2024",
+            "https://huggingface.co/datasets/math-ai/aime25",
+            "https://huggingface.co/datasets/math-ai/amc23",
+            "https://huggingface.co/datasets/MathArena/hmmt_feb_2025"
+          ]
+        }
+      },
+      "keyword_relevance_score": 8.5,
+      "keyword_reasoning": "论文核心是 LLM 强化学习后训练中的 PPO 风格 trust-region/clipping 方法，面向 off-policy 与 MoE LLM 训练稳定性，因此与 Large Language Model、LLM、Reinforcement Learning、RL、Deep RL、PPO、Online RL、Mixture of Experts、Fine-tuning 高度相关；但不涉及 Multi-Agent、Agentic/ReAct/Agent RL、Harness、Memory、Skills、RSI、RAG、压缩/量化/蒸馏、OPD 等主题。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Mixture of Experts",
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "Online RL",
+        "Fine-tuning"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29985": {
+      "arxiv_id": "2610.29985",
+      "title": "TIDE: Tree-Induced Fine-Grained Diagnostic Evaluation from Model Behaviors",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Jiayi Chen",
+      "corresponding_author": "Maxm Pan, Tao Gui",
+      "author_affiliations": {
+        "Jiayi Chen": "Fudan University; Hunyuan",
+        "Hui Li": "Fudan University",
+        "Yujiong Shen": "Fudan University; Hunyuan",
+        "Qiyuan Peng": "Fudan University",
+        "Yanxin Li": "Fudan University",
+        "Chenhao Huang": "Fudan University; Hunyuan",
+        "Shaofan Liu": "Fudan University; Hunyuan",
+        "Guoqiang Zhang": "Fudan University",
+        "Junjie Ye": "Fudan University; Hunyuan",
+        "Shihan Dou": "Fudan University; Hunyuan",
+        "Ming Zhang": "Fudan University; Hunyuan",
+        "Maxm Pan": "Hunyuan",
+        "Tao Gui": "Fudan University",
+        "Qi Zhang": "Fudan University",
+        "Xuanjing Huang": "Fudan University"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了 TIDE 框架，将细粒度诊断评估重构为行为监督的决策树归纳，由 LLM 生成候选分裂规则并用行为信息增益选择分裂，在 MMLU-Pro、BBH、DROP、BBQ 四个基准和五个前沿模型上构建能力树，获得稳定的弱点排序、最高 37.91 的弱叶准确率下降，并揭示聚合分数掩盖的细粒度能力差异。",
+      "metadata": {
+        "first_author": "Jiayi Chen",
+        "corresponding_author": "Maxm Pan, Tao Gui",
+        "author_affiliations": {
+          "Jiayi Chen": "Fudan University; Hunyuan",
+          "Hui Li": "Fudan University",
+          "Yujiong Shen": "Fudan University; Hunyuan",
+          "Qiyuan Peng": "Fudan University",
+          "Yanxin Li": "Fudan University",
+          "Chenhao Huang": "Fudan University; Hunyuan",
+          "Shaofan Liu": "Fudan University; Hunyuan",
+          "Guoqiang Zhang": "Fudan University",
+          "Junjie Ye": "Fudan University; Hunyuan",
+          "Shihan Dou": "Fudan University; Hunyuan",
+          "Ming Zhang": "Fudan University; Hunyuan",
+          "Maxm Pan": "Hunyuan",
+          "Tao Gui": "Fudan University",
+          "Qi Zhang": "Fudan University",
+          "Xuanjing Huang": "Fudan University"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 4.5,
+      "keyword_reasoning": "论文核心是 LLM 评测与细粒度能力诊断，使用 LLM judge 生成候选分裂并用行为矩阵监督树归纳，因此与 Large Language Model/LLM 直接相关；但它不涉及多智能体、Agentic、ReAct、Agent RL、强化学习、记忆、模型压缩、量化、蒸馏、RAG 或预训练/微调等技术，故与关键词集合整体仅为部分相关。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.5"
+    },
+    "2610.29961": {
+      "arxiv_id": "2610.29961",
+      "title": "Commit or Abstain? System One Decision Models, LLMs, and Missing Legal Authority",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "M. Mikail Demir",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/mmikaildemir/commit-or-abstain",
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出并评估在缺失法律权威时System One决策模型与生成式LLM的弃权行为，通过扩展CaseHOLD构建1,670个无正确答案的弃权条件，比较4个决策模型和6个生成式LLM，发现Jev错误选择率最低且成本最低，决策模型与生成式LLM的一致性门控可将错误引用减半，并可将Jev概率蒸馏到Qwen3-8B实现本地校准部署。",
+      "metadata": {
+        "first_author": "M. Mikail Demir",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/mmikaildemir/commit-or-abstain",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 7.0,
+      "keyword_reasoning": "本文核心是法律权威核验任务中LLM与System One决策模型的弃权、校准、成本与组合策略，直接涉及Large Language Model、LLM、Jev、Fine-tuning和Distillation；但并未研究多智能体、Agentic、ReAct、Agent RL、Memory、Skills、RSI、MoE、量化或具体深度强化学习算法，仅背景性提及RAG与Jev训练中的RLCD，因此与代理/强化学习类关键词相关性有限，但与LLM评估、Jev决策模型及蒸馏高度相关。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Jev",
+        "Fine-tuning",
+        "Distillation"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29950": {
+      "arxiv_id": "2610.29950",
+      "title": "Compression Formula for Nonattacking Fillings of Non-symmetric Macdonald Polynomials",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出 restricted nonattacking fillings（受限非攻击性填充）与 mixed q,t-weight 的压缩公式框架，结合 trivial pair 概念和作用于相邻等高二列的算子 T_i^j，对弱 composition 的非对称 Macdonald 多项式 E_mu 进行组合建模，并在每个盒子至多 hit 一个盒子的 composition 类上证明该公式，且在至多 6 个部分且每部分不超过 3、以及至多 10 个部分且最大部分为 1 的情形下用 Sage 验证。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 0.0,
+      "keyword_reasoning": "该论文属于代数组合与特殊函数研究，主题是非对称 Macdonald 多项式的非攻击填充组合模型、q,t-权重压缩公式及相应算子证明，不涉及大语言模型、智能体、强化学习、模型压缩、训练或推理等人工智能关键词。",
+      "matching_keywords": [],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 0.0"
+    },
+    "2610.29934": {
+      "arxiv_id": "2610.29934",
+      "title": "ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "First Author",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/nsivaku/tom2vec",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.29934"
+        ]
+      },
+      "one_sentence_summary": "提出了 ToM2Vec 框架，使用自博弈训练 LLM 在 latent space 中生成固定预算的连续 Theory-of-Mind tokens 来抽象伙伴思维，并在 Overcooked-AI、多党谈判、Decrypto、Hanabi 和 Collab Escape/Capture 上相比 Qwen3-8B 基线与多种 ToM 提示/训练基线取得一致提升（如 Overcooked 平均提升 12.0 分、谈判成交率从 62.0% 提升到 71.0%）。",
+      "metadata": {
+        "first_author": "First Author",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/nsivaku/tom2vec",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.29934"
+          ]
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "本文核心是多智能体 LLM 智能体中的 Theory-of-Mind 建模：通过自博弈对 Qwen3-8B 进行 fine-tuning，让智能体生成连续的 latent reasoning tokens 作为伙伴心理状态的抽象表示，属于 latent Chain of Thought/连续推理 token 方向，并在多个多智能体协作、竞争和混合动机环境中验证。论文不涉及强化学习奖励优化、memory、skills、RAG、MoE、模型压缩/量化/蒸馏、RSI 等关键词，因此对 Multi-Agent、Agentic、LLM、Fine-tuning 和 Chain of Thought 高度相关，但不对应 RL 类关键词。",
+      "matching_keywords": [
+        "Multi-Agent",
+        "Agentic",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Chain of Thought"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29925": {
+      "arxiv_id": "2610.29925",
+      "title": "Privacy in Context Is Being Overlooked in the Age of General-Purpose LLMs",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://github.com/pluja/awesome-privacy",
+          "https://github.com/janhq/jan",
+          "https://github.com/ggml-org/llama.cpp",
+          "https://github.com/mudler/LocalAI",
+          "https://github.com/ollama/ollama",
+          "https://github.com/sgasser/pasteguard",
+          "https://github.com/Michael-A-Kuykendall/shimmy",
+          "https://github.com/protectai/llm-guard",
+          "https://arxiv.org/abs/2610.29925"
+        ]
+      },
+      "one_sentence_summary": "本文作为立场论文，主张通用LLM时代的提示隐私本质上是情境化的，通过系统调研31篇学术论文和11个实际工具、分析五类理想属性及四类技术路线的局限与内在张力，论证不存在能同时满足所有需求的统一提示隐私框架，并提出应用专用部署、情境化评估和提升用户隐私素养三条建议。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://github.com/pluja/awesome-privacy",
+            "https://github.com/janhq/jan",
+            "https://github.com/ggml-org/llama.cpp",
+            "https://github.com/mudler/LocalAI",
+            "https://github.com/ollama/ollama",
+            "https://github.com/sgasser/pasteguard",
+            "https://github.com/Michael-A-Kuykendall/shimmy",
+            "https://github.com/protectai/llm-guard",
+            "https://arxiv.org/abs/2610.29925"
+          ]
+        }
+      },
+      "keyword_relevance_score": 2.0,
+      "keyword_reasoning": "本文核心是LLM提示隐私与情境完整性，属于LLM安全/隐私方向的立场论文；它不研究多智能体、Agentic、ReAct、Agent RL、记忆、技能、RSI、预训练、微调、Chain of Thought、Mixture of Experts、模型压缩、量化、蒸馏、RAG或强化学习。因此仅与Large Language Model/LLM关键词直接相关，与其余搜索关键词几乎无关。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 2.0"
+    },
+    "2610.29913": {
+      "arxiv_id": "2610.29913",
+      "title": "Asking a Multimodal LLM Whether Someone Fell: Zero-Shot Screening of Low-Resolution Thermal Video in a Laboratory and an Occupied Home",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Marcos Junca",
+      "corresponding_author": "Marcos Junca",
+      "author_affiliations": {
+        "Marcos Junca": "Senecta Inc.",
+        "Mauro Junca": "Senecta Inc."
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://senecta.ai/research/thermal-fall-llm-data.zip",
+          "https://senecta.ai"
+        ]
+      },
+      "one_sentence_summary": "提出并评估将生产级多模态 LLM（Gemini 3.8/3.7 Flash）作为事件触发式热成像跌倒筛查流水线的零样本决策阶段，在 eHomeSeniors 32×24 实验室数据与 160×120 占用家庭连续录像上测试，发现部署提示词下家庭误报极低但实验室 held-out 敏感度为 69%，且提示词中一句“出视野不算跌倒”显著影响敏感度。",
+      "metadata": {
+        "first_author": "Marcos Junca",
+        "corresponding_author": "Marcos Junca",
+        "author_affiliations": {
+          "Marcos Junca": "Senecta Inc.",
+          "Mauro Junca": "Senecta Inc."
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://senecta.ai/research/thermal-fall-llm-data.zip",
+            "https://senecta.ai"
+          ]
+        }
+      },
+      "keyword_relevance_score": 4.0,
+      "keyword_reasoning": "论文核心是零样本多模态 LLM 作为热成像跌倒筛查决策器，涉及 Large Language Model/LLM 的应用与提示词、模型版本鲁棒性评估；但不涉及多智能体、Agentic、ReAct、Agent RL、Memory、Skills、Recursive Self-Improvement、RSI、Pre-training、Fine-tuning、Chain of Thought、Mixture of Experts、Model Compression、Quantization、Distillation、RAG 或任何强化学习算法。因此与关键词集合仅部分相关，主要匹配 LLM 应用评测。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.0"
+    },
+    "2610.29907": {
+      "arxiv_id": "2610.29907",
+      "title": "Benchmarking Large Language Models for Detecting Satirical Code-Mixed Sentences",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Răzvan-Alexandru Smădu",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Răzvan-Alexandru Smădu": "National University of Science and Technology POLITEHNICA Bucharest; Academy of Romanian Scientists",
+        "Ioana Buhnila": "Center for Data Science in Humanities, Chosun University",
+        "Daniela Tanase": "National University of Science and Technology POLITEHNICA Bucharest",
+        "Dumitru-Clementin Cercel": "National University of Science and Technology POLITEHNICA Bucharest; Academy of Romanian Scientists",
+        "Florin Pop": "National University of Science and Technology POLITEHNICA Bucharest; Academy of Romanian Scientists; affiliation 4 not specified in excerpt",
+        "Mihaela-Claudia Cercel": "Affiliations 5 and 6 not specified in excerpt"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://anonymous.4open.science/r/CS-SeLeRoSa-D85B/",
+          "https://github.com/vgrabovets/multi_rake",
+          "https://huggingface.co/datasets/openlanguagedata/flores_plus",
+          "https://github.com/murali1996/CodemixedNLP",
+          "https://github.com/pemistahl/lingua-py",
+          "https://github.com/vllm-project/vllm",
+          "https://huggingface.co/google-bert/bert-base-multilingual-cased"
+        ]
+      },
+      "one_sentence_summary": "提出首个大规模罗马尼亚语句级代码混合讽刺新闻数据集 CS-SeLeRoSa（含人工审核的 CS-SeLeRoSa-Gold），使用随机替换、短语翻译、依存句法和 LLM 四种生成方法构造 RO-EN/DE/FR/IT 数据，并系统评测多语言 LLM 在零样本、思维链和微调设置下的讽刺检测，最佳微调 Gemma 4 31B 在 CS-SeLeRoSa 和 Gold 上分别达到 77.5% 和 72.6% macro-F1。",
+      "metadata": {
+        "first_author": "Răzvan-Alexandru Smădu",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Răzvan-Alexandru Smădu": "National University of Science and Technology POLITEHNICA Bucharest; Academy of Romanian Scientists",
+          "Ioana Buhnila": "Center for Data Science in Humanities, Chosun University",
+          "Daniela Tanase": "National University of Science and Technology POLITEHNICA Bucharest",
+          "Dumitru-Clementin Cercel": "National University of Science and Technology POLITEHNICA Bucharest; Academy of Romanian Scientists",
+          "Florin Pop": "National University of Science and Technology POLITEHNICA Bucharest; Academy of Romanian Scientists; affiliation 4 not specified in excerpt",
+          "Mihaela-Claudia Cercel": "Affiliations 5 and 6 not specified in excerpt"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://anonymous.4open.science/r/CS-SeLeRoSa-D85B/",
+            "https://github.com/vgrabovets/multi_rake",
+            "https://huggingface.co/datasets/openlanguagedata/flores_plus",
+            "https://github.com/murali1996/CodemixedNLP",
+            "https://github.com/pemistahl/lingua-py",
+            "https://github.com/vllm-project/vllm",
+            "https://huggingface.co/google-bert/bert-base-multilingual-cased"
+          ]
+        }
+      },
+      "keyword_relevance_score": 5.0,
+      "keyword_reasoning": "该论文核心是构建代码混合讽刺检测数据集并评测多语言 LLM，涉及 LLM、零样本/Chain of Thought/微调、QLoRA 4-bit 量化以及 MoE 模型等关键词，但不涉及多智能体、Agentic、ReAct、Agent RL、记忆、技能、递归自我改进、强化学习等主题，因此属于部分相关。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Chain of Thought",
+        "Mixture of Experts",
+        "Quantization",
+        "Pre-training"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 5.0"
+    },
+    "2610.29896": {
+      "arxiv_id": "2610.29896",
+      "title": "Investigating the Impact of Learner Errors on Social Bias in Large Language Models",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Federico Marcuzzi",
+      "corresponding_author": "Martin Christoph",
+      "author_affiliations": {
+        "Federico Marcuzzi": "INSAIT, Sofia University \"St. Kliment Ohridski\", Bulgaria",
+        "Martin Christoph": "UKP Lab, Department of Computer Science, TU Darmstadt; National Research Center for Applied Cybersecurity ATHENE, Germany",
+        "Iryna Gurevych": "INSAIT, Sofia University \"St. Kliment Ohridski\", Bulgaria; UKP Lab, Department of Computer Science, TU Darmstadt; National Research Center for Applied Cybersecurity ATHENE, Germany",
+        "Alla Rozovskaya": "未在提供的源文本中明确（机构3）"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+        "project_page": "https://anonymous.4open.science/r/arr_october_l2_errors_bias/",
+        "other": [
+          "https://pypi.org/project/pyinflect/",
+          "https://github.com/uclanlp/corefBias",
+          "https://github.com/nyu-mll/BBQ",
+          "https://github.com/aisoc-lab/inference-acceleration-bias",
+          "https://huggingface.co/datasets/cais/mmlu",
+          "https://huggingface.co/datasets/allenai/winogrande",
+          "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+          "https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+          "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+          "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct",
+          "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct"
+        ]
+      },
+      "one_sentence_summary": "提出了一个受控的L2语法错误注入框架，结合基于词性与语言规则的合成错误生成和LoRA错误感知微调，在WinoBias、BBQ、DiscrimEvalGen等社会偏见基准上评估5个开源LLM，发现语法错误会随错误率上升而放大刻板印象对齐与人口偏好，且错误感知微调可缓解该偏见增加。",
+      "metadata": {
+        "first_author": "Federico Marcuzzi",
+        "corresponding_author": "Martin Christoph",
+        "author_affiliations": {
+          "Federico Marcuzzi": "INSAIT, Sofia University \"St. Kliment Ohridski\", Bulgaria",
+          "Martin Christoph": "UKP Lab, Department of Computer Science, TU Darmstadt; National Research Center for Applied Cybersecurity ATHENE, Germany",
+          "Iryna Gurevych": "INSAIT, Sofia University \"St. Kliment Ohridski\", Bulgaria; UKP Lab, Department of Computer Science, TU Darmstadt; National Research Center for Applied Cybersecurity ATHENE, Germany",
+          "Alla Rozovskaya": "未在提供的源文本中明确（机构3）"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+          "project_page": "https://anonymous.4open.science/r/arr_october_l2_errors_bias/",
+          "other_links": [
+            "https://pypi.org/project/pyinflect/",
+            "https://github.com/uclanlp/corefBias",
+            "https://github.com/nyu-mll/BBQ",
+            "https://github.com/aisoc-lab/inference-acceleration-bias",
+            "https://huggingface.co/datasets/cais/mmlu",
+            "https://huggingface.co/datasets/allenai/winogrande",
+            "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+            "https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+            "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+            "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct",
+            "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct"
+          ]
+        }
+      },
+      "keyword_relevance_score": 4.0,
+      "keyword_reasoning": "论文核心是LLM社会偏见评估与L2语法错误扰动，使用LLM推理和LoRA微调；与Large Language Model、LLM、Fine-tuning直接相关，也涉及Chain of Thought式分步推理提示，但不涉及多智能体、Agentic、ReAct、Agent RL、强化学习算法、记忆/技能、RSI、压缩/量化/蒸馏/RAG等关键词，因此仅为部分相关。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Chain of Thought"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.0"
+    },
+    "2610.29895": {
+      "arxiv_id": "2610.29895",
+      "title": "Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "系统综述了基于机器学习与大语言模型的材料数据与知识抽取方法从规则系统、NLP、BERT到LLM与agentic系统的演进，覆盖文本、表格、图像等多模态抽取以及数据库和知识图谱构建及下游材料发现应用，批判性评估了抽取精度、计算成本与关键挑战，并总结了构建可靠可扩展抽取流水线的实践指南。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "该论文是材料科学与LLM/agentic信息抽取交叉领域的综述，重点讨论了LLM、多智能体、ReAct、agent harness、memory、提示工程、RAG、预训练与微调等主题，因此与LLM和Agentic相关关键词高度相关；但论文不以强化学习、RL算法、模型压缩、量化、蒸馏、MoE或递归自我改进为核心内容，故未给满分。",
+      "matching_keywords": [
+        "Multi-Agent",
+        "Agentic",
+        "ReAct",
+        "Harness",
+        "Memory",
+        "Large Language Model",
+        "LLM",
+        "Pre-training",
+        "Fine-tuning",
+        "Chain of Thought",
+        "RAG"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29873": {
+      "arxiv_id": "2610.29873",
+      "title": "HAWK: Heterogeneity-Aware KV Cache Transfer for Efficient GPU-NPU Phase-Disaggregated LLM Inference",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Junhyeok Park",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了HAWK异构感知KV cache传输机制，使用统一RDMA路径、张量布局感知RDMA缓冲区分配和传输感知张量变换，在Llama 3.1 70B及ShareGPT/LongBench工作负载上实现GPU prefill与NPU decode的异构LLM推理，相比GPU-only系统性能差距不超过7.88%，并取得最高1.26倍能效和1.72倍成本效率。",
+      "metadata": {
+        "first_author": "Junhyeok Park",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 4.5,
+      "keyword_reasoning": "论文主题是GPU-NPU异构LLM推理服务中的KV cache跨设备传输与张量布局优化，直接涉及Large Language Model和LLM系统，因此与LLM关键词相关；但论文不涉及多智能体、Agentic、ReAct、Agent RL、强化学习、训练/微调、量化/压缩、RAG等关键词，因此对整体关键词集合仅部分相关。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.5"
+    },
+    "2610.29850": {
+      "arxiv_id": "2610.29850",
+      "title": "Automated Discovery of Physically Interpretable Subgrid Length Scales for Detached Eddy Simulation via Agentic AI",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Jiawei Chen",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/iDesign-Lab/DEScover",
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出 DEScover 多智能体框架，使用四个 LLM agents（发现、审查、代码实现、评估）与脚本化 CFD 编排器闭环自动发现物理可解释的 DES 亚网格长度尺度，在平板、后向台阶、自由剪切层和 GLC305 结冰翼型四个算例上，最佳候选 Δ_R 持续优于 Δ_max 并与专家设计的 Δ_SLA 相当或略优，单次发现平均约 25 分钟（不含 CFD 仿真）。",
+      "metadata": {
+        "first_author": "Jiawei Chen",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/iDesign-Lab/DEScover",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心是面向科学发现的多智能体 LLM 框架：四个 LLM agents 分别负责提出、审查、代码实现和评估 DES 长度尺度，并通过闭环反馈迭代，明确属于 Agentic 与 Multi-Agent 应用；同时使用 Agent Skill 指令文件约束 agent 行为，与 Skills 关键词相关。但论文未涉及 ReAct、Agent RL、Memory、Recursive Self-Improvement、预训练/微调、Chain of Thought、MoE、模型压缩/量化/蒸馏、RAG 或强化学习等关键词。",
+      "matching_keywords": [
+        "Multi-Agent",
+        "Agentic",
+        "Skills",
+        "Large Language Model",
+        "LLM"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29843": {
+      "arxiv_id": "2610.29843",
+      "title": "Every Part Has Its Role: Part-of-Speech Effects in LLM Post-Training",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Laya Iyer",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Laya Iyer": "Stanford University",
+        "Chen Shani": "Tel Aviv University"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "扩展了概念感知数据增强方法至动词、形容词及全部词性，在Llama-3-8B上基于arXiv、新闻、YouTube语料进行后训练，并用困惑度和七个下游分类任务评估，发现动词增强带来最稳定的下游收益、全词性同时增强未必优于针对性增强，且表征变化幅度与下游迁移收益并不必然一致。",
+      "metadata": {
+        "first_author": "Laya Iyer",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Laya Iyer": "Stanford University",
+          "Chen Shani": "Tel Aviv University"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 4.0,
+      "keyword_reasoning": "该论文研究LLM的概念感知后训练数据增强与LoRA下游微调，直接涉及Large Language Model、LLM和Fine-tuning；但不涉及Multi-Agent、Agentic、ReAct、Agent RL、Memory、Skills、RSI、RL/Deep RL、RAG、蒸馏、量化、MoE等关键词所代表的主题，因此与给定关键词集合仅部分相关。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.0"
+    },
+    "2610.29836": {
+      "arxiv_id": "2610.29836",
+      "title": "AT-Differ: Dataset for Audio-Text Difference Captioning",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": null,
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/sarulab-speech/AT-DIFFER",
+        "huggingface": "https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking",
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.29836"
+        ]
+      },
+      "one_sentence_summary": "提出音频–文本差异描述任务并构建AT-DIFFER数据集，采用LoRA对Qwen3-Omni-30B-A3B-Thinking进行差异检测、类型分类和差异描述联合微调，在AT-DIFFER测试集上显著提升差异描述与分类指标，且联合三任务优于仅训练差异描述。",
+      "metadata": {
+        "first_author": null,
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/sarulab-speech/AT-DIFFER",
+          "huggingface": "https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking",
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.29836"
+          ]
+        }
+      },
+      "keyword_relevance_score": 4.0,
+      "keyword_reasoning": "论文核心是音频–文本差异描述数据集与多模态大模型微调，涉及LLM、Fine-tuning和Mixture of Experts；但不涉及多智能体、Agentic、ReAct、强化学习、RAG、蒸馏或量化等主题，因此仅与关键词部分相关。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Mixture of Experts"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.0"
+    },
+    "2610.29832": {
+      "arxiv_id": "2610.29832",
+      "title": "S-EDL: Eliciting Self-Evidence from Sequence Likelihoods for Semantic Calibration of LLMs",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Yawei Li",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Yawei Li": "LMU Munich; Munich Center for Machine Learning (MCML)",
+        "Jiazheng Li": "King's College London",
+        "David Rügamer": "LMU Munich; Munich Center for Machine Learning (MCML)",
+        "Bernd Bischl": "LMU Munich; Munich Center for Machine Learning (MCML)",
+        "Yulan He": "King's College London",
+        "Mina Rezaei": "LMU Munich; Munich Center for Machine Learning (MCML)"
+      },
+      "urls": {
+        "github": "https://github.com/sandylaker/s-edl",
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了 S-EDL，一种利用 LLM 自身序列似然构造可微证据向量和 prompt-specific 语义类别 Dirichlet 先验的 evidential 语义校准方法，在 GSM8K、MATH-500、ChemistryQA、FormulaReasoning 四个开放生成基准和 Qwen3-8B-Base、Ministral3-8B-Base、MiMo-7B-Base 三个模型上同时提升准确率并显著降低语义校准误差。",
+      "metadata": {
+        "first_author": "Yawei Li",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Yawei Li": "LMU Munich; Munich Center for Machine Learning (MCML)",
+          "Jiazheng Li": "King's College London",
+          "David Rügamer": "LMU Munich; Munich Center for Machine Learning (MCML)",
+          "Bernd Bischl": "LMU Munich; Munich Center for Machine Learning (MCML)",
+          "Yulan He": "King's College London",
+          "Mina Rezaei": "LMU Munich; Munich Center for Machine Learning (MCML)"
+        },
+        "resources": {
+          "github": "https://github.com/sandylaker/s-edl",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 6.0,
+      "keyword_reasoning": "论文核心是面向开放生成的大语言模型语义校准与 evidential fine-tuning，直接涉及 LLM 和 fine-tuning，并在数学/科学推理数据上使用 chain-of-thought 训练数据，因此与 LLM、Fine-tuning、Chain of Thought 高度相关。它并非 agentic、多智能体、ReAct、记忆或工具编排类工作，也不以强化学习为核心；仅在附录中将 S-EDL 梯度解释为 GRPO-like 更新并提到可接入 PPO 实现，故与 RL/PPO 仅有间接关联。Jev 只在未来加速聚类处被一笔带过，不能视为核心关键词匹配。",
+      "matching_keywords": [
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Chain of Thought",
+        "PPO"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
     }
   },
   "Reinforcement Learning": {
@@ -53172,6 +55011,866 @@
         "Distillation",
         "On-Policy Distillation",
         "OPD"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.30116": {
+      "arxiv_id": "2610.30116",
+      "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Shibo Jin",
+      "corresponding_author": "Shibo Jin, Zhiqiu Xu",
+      "author_affiliations": {
+        "Shibo Jin": "University of Pennsylvania",
+        "Zhiqiu Xu": "University of Pennsylvania",
+        "Yiling Zou": "University of Pennsylvania",
+        "Shangyu Gong": "University of Pennsylvania",
+        "Mayur Naik": "University of Pennsylvania"
+      },
+      "urls": {
+        "github": "https://github.com/LLM-Duels/EnvDuels",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.30116"
+        ]
+      },
+      "one_sentence_summary": "提出了Environment Duels，一个让多个LLM互为出题者和解题者的动态agentic基准与RL环境生成框架，通过可执行交互环境、特权提示和反制回合在9个前沿LLM、90个环境和12,960个episode上评估解题率、环境难度与提示增益，发现出题能力与解题能力分离、较小模型能写出更难环境和更有效提示，且提示增益可预测下游GRPO训练收益。",
+      "metadata": {
+        "first_author": "Shibo Jin",
+        "corresponding_author": "Shibo Jin, Zhiqiu Xu",
+        "author_affiliations": {
+          "Shibo Jin": "University of Pennsylvania",
+          "Zhiqiu Xu": "University of Pennsylvania",
+          "Yiling Zou": "University of Pennsylvania",
+          "Shangyu Gong": "University of Pennsylvania",
+          "Mayur Naik": "University of Pennsylvania"
+        },
+        "resources": {
+          "github": "https://github.com/LLM-Duels/EnvDuels",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.30116"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是面向LLM的agentic benchmark与RL环境生成，使用多个前沿LLM在各自agent harness中相互出题、解题和反制，并用GRPO/LoRA做下游强化学习实验，直接涉及Agentic、Agent RL、Harness、LLM、RL和Fine-tuning等关键词；同时讨论模型间相互教学、挑战与共同演化，与Multi-Agent和Recursive Self-Improvement/RSI有较强关联。其重点不在ReAct、Memory、Skills库、CoT、MoE、压缩量化、蒸馏、RAG或经典DQN/PPO/SAC等算法，因此未完全覆盖所有关键词。",
+      "matching_keywords": [
+        "Multi-Agent",
+        "Agentic",
+        "Agent RL",
+        "Harness",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Reinforcement Learning",
+        "RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.30105": {
+      "arxiv_id": "2610.30105",
+      "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Sriyash Poddar",
+      "corresponding_author": "Natasha Jaques, Abhishek Gupta",
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": "https://weirdlabuw.github.io/asteroid/",
+        "other": []
+      },
+      "one_sentence_summary": "提出了 ASTEROID 非对称同策略蒸馏框架，利用学生策略在部分可观测环境中在线收集的历史作为上下文并由特权专家提供动作标签，在 11 个 POMDP 环境（网格探索、导航、Habitat、Procgen、仿真与真实机器人操作）上相比 RL 和标准蒸馏基线在固定探索预算下取得约 2 倍回报、最多约 100 倍更少交互，并在真实机器人上比标准蒸馏成功率提升 +40%。",
+      "metadata": {
+        "first_author": "Sriyash Poddar",
+        "corresponding_author": "Natasha Jaques, Abhishek Gupta",
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": "https://weirdlabuw.github.io/asteroid/",
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 7.0,
+      "keyword_reasoning": "论文核心是非对称 on-policy distillation：学生在线收集部分可观测历史，特权专家基于学生历史提供动作监督，从而学习测试时探索；同时大量使用并对比 RL/在线 RL 方法。因此与 Distillation、On-Policy Distillation、OPD、Reinforcement Learning、RL、Online RL 高度相关。但论文不涉及 LLM、Agentic、ReAct、RAG、Chain of Thought、Mixture of Experts 等大模型/智能体关键词，也不以量化、压缩或递归自我改进为主题。",
+      "matching_keywords": [
+        "Distillation",
+        "On-Policy Distillation",
+        "OPD",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL",
+        "Deep RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.30101": {
+      "arxiv_id": "2610.30101",
+      "title": "Machine Learning-Enabled Wireless Power Transfer: A Task-Oriented Review of Structural Optimization, State and Parameter Estimation, and Adaptive Control",
+      "publish_date": "2026-10-21",
+      "source_type": "pdf",
+      "first_author": "Denghao Luo",
+      "corresponding_author": "Yuan Gao; Changsong Cai",
+      "author_affiliations": {
+        "Denghao Luo": "School of Electrical Engineering and Automation, Wuhan University, Wuhan, China",
+        "Yiheng Jiang": "School of Electrical Engineering and Automation, Wuhan University, Wuhan, China",
+        "Jiaqi Zhao": "Faculty of Electrical and Control Engineering, Liaoning Technical University, Liaoning, China",
+        "Yuan Gao": "School of Engineering, University of Leicester, Leicester, UK",
+        "Changsong Cai": "School of Electrical Engineering and Automation, Wuhan University, Wuhan, China",
+        "Weiyi Huang": "Faculty of Electrical and Control Engineering, Liaoning Technical University, Liaoning, China",
+        "Yun Zhang": "School of Electrical and Information Engineering, Tianjin University, Tianjin, China"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了一个任务导向的机器学习赋能无线能量传输（WPT）综述框架，采用文献计量与分类比较方法，在约105篇相关文献上系统比较监督学习、强化学习与混合/物理信息方法在结构优化、参数与状态估计、控制与调度三类任务中的表现，归纳出监督学习占48%、强化学习占22%、混合方法占21%的分布，并总结数据稀缺、泛化、安全与嵌入式部署等瓶颈。",
+      "metadata": {
+        "first_author": "Denghao Luo",
+        "corresponding_author": "Yuan Gao; Changsong Cai",
+        "author_affiliations": {
+          "Denghao Luo": "School of Electrical Engineering and Automation, Wuhan University, Wuhan, China",
+          "Yiheng Jiang": "School of Electrical Engineering and Automation, Wuhan University, Wuhan, China",
+          "Jiaqi Zhao": "Faculty of Electrical and Control Engineering, Liaoning Technical University, Liaoning, China",
+          "Yuan Gao": "School of Engineering, University of Leicester, Leicester, UK",
+          "Changsong Cai": "School of Electrical Engineering and Automation, Wuhan University, Wuhan, China",
+          "Weiyi Huang": "Faculty of Electrical and Control Engineering, Liaoning Technical University, Liaoning, China",
+          "Yun Zhang": "School of Electrical and Information Engineering, Tianjin University, Tianjin, China"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 4.0,
+      "keyword_reasoning": "该文是面向无线能量传输的机器学习综述，重点比较监督学习、强化学习以及混合/物理信息方法，文中涉及DQN、PPO、SAC、DDPG、TD3等深度强化学习算法，并在未来方向中讨论多智能体强化学习、模型压缩/量化/蒸馏、预训练/微调等内容；但论文核心并非LLM、Agentic、ReAct、CoT、RAG等大模型或智能体主题，因此与给定关键词仅部分相关。",
+      "matching_keywords": [
+        "Multi-Agent",
+        "Pre-training",
+        "Fine-tuning",
+        "Model Compression",
+        "Quantization",
+        "Distillation",
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "DQN",
+        "PPO",
+        "SAC"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.0"
+    },
+    "2610.30097": {
+      "arxiv_id": "2610.30097",
+      "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Likui Zhang",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Likui Zhang": "Sun Yat-sen University",
+        "Zhe Zhu": "Sun Yat-sen University",
+        "Zhihao Zhan": "Sun Yat-sen University",
+        "Yibo Bai": "Sun Yat-sen University",
+        "Hanlin Wang": "Sun Yat-sen University",
+        "Dongwei Li": "Sun Yat-sen University",
+        "Bin Wang": "JD Explore",
+        "Tianle Zhang": "The Hong Kong Polytechnic University",
+        "Xiaodan Liang": "Sun Yat-sen University",
+        "Liang Lin": "Sun Yat-sen University"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.30097"
+        ]
+      },
+      "one_sentence_summary": "提出了AtomicRL这一基于原子子任务结构的VLA强化学习后训练框架，结合语义感知策略优化SAPO、瓶颈自适应目标探索BATE和Real2Sim2Real管线，在LIBERO-LONG上比PPO提升3.6%/4.0%，在CALVIN ABC-D五任务链上提升9.5%，真实机器人任务平均比SFT提升21.3%。",
+      "metadata": {
+        "first_author": "Likui Zhang",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Likui Zhang": "Sun Yat-sen University",
+          "Zhe Zhu": "Sun Yat-sen University",
+          "Zhihao Zhan": "Sun Yat-sen University",
+          "Yibo Bai": "Sun Yat-sen University",
+          "Hanlin Wang": "Sun Yat-sen University",
+          "Dongwei Li": "Sun Yat-sen University",
+          "Bin Wang": "JD Explore",
+          "Tianle Zhang": "The Hong Kong Polytechnic University",
+          "Xiaodan Liang": "Sun Yat-sen University",
+          "Liang Lin": "Sun Yat-sen University"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.30097"
+          ]
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心是面向VLA策略的在线强化学习后训练，使用PPO/GAE改进和探索调度，因此与Reinforcement Learning、RL、Deep RL、PPO、Online RL、Fine-tuning高度相关；其原子子任务结构可部分对应Skills，但不属于LLM Agent、Agentic、ReAct、Memory、RAG等关键词所指向的工作。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "Online RL",
+        "Fine-tuning",
+        "Skills"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.30033": {
+      "arxiv_id": "2610.30033",
+      "title": "RLMuscle: Muscle-Driven Character Animation via Reinforcement Learning",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Chunlei Li",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": "https://chunleili.github.io/project-page-rlmuscle/",
+        "other": []
+      },
+      "one_sentence_summary": "提出了RLMuscle框架，使用强化学习在1D Hill型肌肉代理上协同训练policy与muscle network，并结合EMG先验和基于几何多重网格的GPU XPBD体积肌肉模拟，在走路、踢腿、游泳、深蹲等参考动作及Moreira sEMG验证上实现了194肌肉全身模拟，单张RTX 4090上达到18 ms/frame，并将EMG平均相关性从-0.04提升到0.97。",
+      "metadata": {
+        "first_author": "Chunlei Li",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": "https://chunleili.github.io/project-page-rlmuscle/",
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 4.0,
+      "keyword_reasoning": "论文核心使用强化学习（PPO）解决肌肉激活逆问题，因此与Reinforcement Learning、RL、Deep RL、PPO等关键词直接相关；但它面向角色动画与生物力学肌肉模拟，不涉及Multi-Agent、Agentic、LLM、RAG、Memory、Skills等大模型/智能体关键词，也未提出通用RL算法，因此在给定关键词集合中属于部分相关。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.0"
+    },
+    "2610.29965": {
+      "arxiv_id": "2610.29965",
+      "title": "CORD: Conflict-Aware Optimization for Joint RL and Distillation in Agents",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Wenhao Yu",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Wenhao Yu": "The Chinese University of Hong Kong",
+        "Zhengcheng Wang": "Tencent",
+        "Jiahong Liu": "The Chinese University of Hong Kong",
+        "Zexuan Qiu": "The Chinese University of Hong Kong",
+        "Minda Hu": "The Chinese University of Hong Kong",
+        "Shaohang Wei": "Peking University",
+        "Jiafei Lyu": "Tencent",
+        "Junyan Lyu": "Tencent",
+        "Haobo Fu": "Tencent",
+        "Irwin King": "The Chinese University of Hong Kong"
+      },
+      "urls": {
+        "github": "https://github.com/LvAoAo/CORD-release",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://github.com/langfengQ/verl-agent/issues/246#issuecomment-4641967418"
+        ]
+      },
+      "one_sentence_summary": "提出 CORD 冲突感知联合优化框架，通过选择保护目标并仅在梯度冲突时对另一目标梯度进行最小正交投影，将强化学习与 on-policy 蒸馏结合用于 LLM agent 训练，在 ALFWorld 和 WebShop 上使 Skill-SD、GRPO+OPSD、SDAR 等配方取得提升（ALFWorld 成功率提升 1.5–15.9 个百分点，WebShop 上 SDAR 成功率从 60.7% 升至 64.6%）。",
+      "metadata": {
+        "first_author": "Wenhao Yu",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Wenhao Yu": "The Chinese University of Hong Kong",
+          "Zhengcheng Wang": "Tencent",
+          "Jiahong Liu": "The Chinese University of Hong Kong",
+          "Zexuan Qiu": "The Chinese University of Hong Kong",
+          "Minda Hu": "The Chinese University of Hong Kong",
+          "Shaohang Wei": "Peking University",
+          "Jiafei Lyu": "Tencent",
+          "Junyan Lyu": "Tencent",
+          "Haobo Fu": "Tencent",
+          "Irwin King": "The Chinese University of Hong Kong"
+        },
+        "resources": {
+          "github": "https://github.com/LvAoAo/CORD-release",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://github.com/langfengQ/verl-agent/issues/246#issuecomment-4641967418"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是 LLM agent 训练中的强化学习与 on-policy 蒸馏联合优化，提出冲突感知的梯度投影方法来组合 RL 与蒸馏目标；使用 GRPO/PPO 风格策略优化、skill-conditioned 自蒸馏和在线策略蒸馏，并在 ALFWorld、WebShop 等 agent benchmark 上验证。与 Agent RL、RL、On-Policy Distillation、OPD、Distillation、LLM、PPO、Skills 等关键词高度相关；不涉及 Multi-Agent、Memory、ReAct、RAG、模型压缩/量化、MoE、离线 RL 等。",
+      "matching_keywords": [
+        "Agentic",
+        "Agent RL",
+        "Skills",
+        "Large Language Model",
+        "LLM",
+        "Distillation",
+        "Reinforcement Learning",
+        "RL",
+        "PPO",
+        "Online RL",
+        "On-Policy Distillation",
+        "OPD"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29906": {
+      "arxiv_id": "2610.29906",
+      "title": "Reinforcement Learning for Global-Local Control of Dynamic Networks with Applications to Systemic Risk",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Nils Detering",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Nils Detering": "Heinrich Heine University Düsseldorf, Mathematics Institute",
+        "Florian Grell": "Heinrich Heine University Düsseldorf, Mathematics Institute"
+      },
+      "urls": {
+        "github": "https://github.com/flknm/global-local-rl-dynamic-networks",
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了一种面向动态网络全局-局部控制的强化学习框架，使用带全局策略头与共享局部策略头的消息传递神经网络及投影REINFORCE算法，在金融网络系统性风险管理的基准网络和随机核心-边缘网络上取得了优于前馈网络等标准架构的策略表现，并能扩展到200节点网络。",
+      "metadata": {
+        "first_author": "Nils Detering",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Nils Detering": "Heinrich Heine University Düsseldorf, Mathematics Institute",
+          "Florian Grell": "Heinrich Heine University Düsseldorf, Mathematics Institute"
+        },
+        "resources": {
+          "github": "https://github.com/flknm/global-local-rl-dynamic-networks",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 5.0,
+      "keyword_reasoning": "论文核心是动态图上的单智能体（中央监管者）策略梯度强化学习，涉及MPNN策略架构、Lipschitz鲁棒性分析和投影REINFORCE收敛保证，因此与Reinforcement Learning、RL、Deep RL、Online RL直接相关；但它不涉及Multi-Agent、Agentic、ReAct、Harness、Memory、Skills、RSI、LLM、预训练/微调、Chain of Thought、Mixture of Experts、模型压缩/量化/蒸馏、RAG等关键词。PPO仅在数值实验中作为初步对比被提及，并非本文方法核心。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "Online RL"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 5.0"
+    },
+    "2610.29845": {
+      "arxiv_id": "2610.29845",
+      "title": "RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Samuel Foo",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了RangeNav框架，面向机器人导航采用任务对齐的LiDAR距离图像预训练方法，但所给LaTeX源未包含摘要、实验数据集与结果信息，无法确认具体性能。",
+      "metadata": {
+        "first_author": "Samuel Foo",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 2,
+      "keyword_reasoning": "论文标题和主题表明其核心是LiDAR距离图像预训练与机器人导航，因此仅与Pre-training关键词部分相关；未涉及Multi-Agent、Agentic、ReAct、Agent RL、LLM、强化学习等关键词，且所给信息缺少摘要和实验细节，相关性较低。",
+      "matching_keywords": [
+        "Pre-training"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 2"
+    },
+    "2610.29676": {
+      "arxiv_id": "2610.29676",
+      "title": "DriveMLP: When Training Strategy Outperforms Model Complexity in Autonomous Driving",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Alessandro Canevaro",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/alessandro-canevaro/DriveMLP",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.29676"
+        ]
+      },
+      "one_sentence_summary": "提出了DriveMLP轻量级MLP自动驾驶规划器，并采用以专家轨迹距离奖励驱动的Expert-Guided RL（EGRL）闭环训练策略，在nuPlan Val14 Reactive、Test14-Hard和Test14等基准上取得领先的IL规划性能，其中Val14 Reactive得分86.51、较Flow Planner提升3.2分且推理速度超过15倍。",
+      "metadata": {
+        "first_author": "Alessandro Canevaro",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/alessandro-canevaro/DriveMLP",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.29676"
+          ]
+        }
+      },
+      "keyword_relevance_score": 6.0,
+      "keyword_reasoning": "论文核心是自动驾驶运动规划的强化学习训练策略，使用PPO/SAC等深度RL算法进行闭环在线训练，因此与Reinforcement Learning、RL、Deep RL、PPO、SAC、Online RL高度相关；但它不是LLM/Agentic/工具调用/记忆/多智能体协作类工作，也不涉及ReAct、RAG、MoE、量化、蒸馏、RSI等，故整体为中等偏上相关。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "SAC",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29671": {
+      "arxiv_id": "2610.29671",
+      "title": "Uni-Mem: Learning a Long-Horizon Agentic Memory Manager with Unified Online Policy Optimization",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Zhiqian Xia",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Zhiqian Xia": "Southeast University; Huawei",
+        "Jielong Tang": "Sun Yat-sen University; Huawei",
+        "Ling-An Zeng": "Huawei",
+        "Shixiong Kai": "Huawei",
+        "Rong Yao": "Huawei",
+        "Hao Kong": "Huawei",
+        "Xiao Dong": "未知（标记为4，原文未提供机构名）",
+        "Wei Wang": "Sun Yat-sen University",
+        "Mingxuan Yuan": "Huawei",
+        "Siyu Xia": "Southeast University",
+        "Haifeng Xia": "Sun Yat-sen University"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.29671"
+        ]
+      },
+      "one_sentence_summary": "提出了Uni-Mem统一记忆管理器，采用端到端在线强化学习、Stage-Decoupled GRPO和Event-Wise Credit Assignment联合学习长期记忆构建与检索，在LoCoMo和LongMemEval上总体LLM-as-a-Judge得分为88.80%并优于最强RL记忆基线。",
+      "metadata": {
+        "first_author": "Zhiqian Xia",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Zhiqian Xia": "Southeast University; Huawei",
+          "Jielong Tang": "Sun Yat-sen University; Huawei",
+          "Ling-An Zeng": "Huawei",
+          "Shixiong Kai": "Huawei",
+          "Rong Yao": "Huawei",
+          "Hao Kong": "Huawei",
+          "Xiao Dong": "未知（标记为4，原文未提供机构名）",
+          "Wei Wang": "Sun Yat-sen University",
+          "Mingxuan Yuan": "Huawei",
+          "Siyu Xia": "Southeast University",
+          "Haifeng Xia": "Sun Yat-sen University"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.29671"
+          ]
+        }
+      },
+      "keyword_relevance_score": 9.0,
+      "keyword_reasoning": "论文核心是LLM智能体的长期记忆管理，使用多轮工具交互和端到端在线强化学习联合优化记忆构建与检索，涉及Agentic、Agent RL、Memory、LLM、Online RL、Fine-tuning等关键词；同时与RAG检索增强和ReAct式多轮工具调用相关。论文不涉及多智能体协作、递归自改进、模型压缩/量化/蒸馏等方向，因此未覆盖这些关键词。",
+      "matching_keywords": [
+        "Agentic",
+        "ReAct",
+        "Agent RL",
+        "Harness",
+        "Memory",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "RAG",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29595": {
+      "arxiv_id": "2610.29595",
+      "title": "Near Minimax Rate for Quantile Distributional Reinforcement Learning",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Zijie Cheng",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "在表格型 MDP 的生成模型设定下，提出基于经验联合奖励-下一状态分布的 quantile fixed point estimator，使用分位数 Bellman 不动点与经验 MDP 的 certainty-equivalence 方法，在 Wasserstein 距离下建立非渐近误差界并刻画局部渐近极小极大风险，证明正奖励密度下可达到与分位数分辨率无关的 root-n 速率，而在端点密度消失时 W2 仍保持 root-n、p>2 阶出现 m^{1/2-1/p} 依赖且该依赖在构造实例上不可改进。",
+      "metadata": {
+        "first_author": "Zijie Cheng",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 5,
+      "keyword_reasoning": "该论文研究分布强化学习中的分位数策略评估的统计误差与极小极大下界，属于强化学习理论，因此与 Reinforcement Learning 和 RL 直接相关；但它面向表格型 MDP 的理论分析，不涉及 Multi-Agent、Agentic、LLM、ReAct、Memory、Skills、RSI、Fine-tuning、MoE、压缩、RAG 等关键词，也不是 Deep RL 算法或 DQN/PPO/SAC 的实证工作，因此相关性为中等。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 5"
+    },
+    "2610.29590": {
+      "arxiv_id": "2610.29590",
+      "title": "CineEvolve: An Agentic Self-Evolution Framework for Cinematic Multi-Shot Video Generation",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Jingzhe Zhang",
+      "corresponding_author": "Si Li",
+      "author_affiliations": {
+        "Jingzhe Zhang": "Beijing University of Posts and Telecommunications, School of Artificial Intelligence",
+        "Peixuan Zhang": "Beijing University of Posts and Telecommunications, School of Artificial Intelligence; affiliation 5 (not specified in excerpt)",
+        "Genying Li": "Beijing University of Posts and Telecommunications, School of Artificial Intelligence",
+        "Bing Ma": "affiliation 5 (not specified in excerpt)",
+        "Shuchen Weng": "State Key Laboratory of Multimedia Information Processing (affiliation 2); affiliation 4 (not specified in excerpt)",
+        "Si Li": "Beijing University of Posts and Telecommunications, School of Artificial Intelligence; affiliation 6 (not specified in excerpt)",
+        "Boxin Shi": "State Key Laboratory of Multimedia Information Processing (affiliation 2); affiliation 3 (not specified in excerpt)"
+      },
+      "urls": {
+        "github": "https://github.com/JingZhe-8/CineEvolve",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.29590"
+        ]
+      },
+      "one_sentence_summary": "面向电影化多镜头视频生成，提出了CineEvolve框架，将Director和Critic统一在单一视觉语言策略中，通过交替强化学习与E-GRPO进行自演化，并在CineTraj（40K轨迹）上训练，在100条人工验证电影序列基准上于8项自动指标和4项人类偏好维度上优于现有方法。",
+      "metadata": {
+        "first_author": "Jingzhe Zhang",
+        "corresponding_author": "Si Li",
+        "author_affiliations": {
+          "Jingzhe Zhang": "Beijing University of Posts and Telecommunications, School of Artificial Intelligence",
+          "Peixuan Zhang": "Beijing University of Posts and Telecommunications, School of Artificial Intelligence; affiliation 5 (not specified in excerpt)",
+          "Genying Li": "Beijing University of Posts and Telecommunications, School of Artificial Intelligence",
+          "Bing Ma": "affiliation 5 (not specified in excerpt)",
+          "Shuchen Weng": "State Key Laboratory of Multimedia Information Processing (affiliation 2); affiliation 4 (not specified in excerpt)",
+          "Si Li": "Beijing University of Posts and Telecommunications, School of Artificial Intelligence; affiliation 6 (not specified in excerpt)",
+          "Boxin Shi": "State Key Laboratory of Multimedia Information Processing (affiliation 2); affiliation 3 (not specified in excerpt)"
+        },
+        "resources": {
+          "github": "https://github.com/JingZhe-8/CineEvolve",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.29590"
+          ]
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "该论文将导演与评论家统一为单一视觉语言策略，通过交替强化学习和E-GRPO进行自演化，涉及Agentic、Agent RL、LLM/VLM微调与在线RL；但它不是多智能体系统，也未涉及ReAct、Memory、Skills、RAG、MoE、模型压缩/量化/蒸馏等，因此与关键词高度相关但非全部覆盖。",
+      "matching_keywords": [
+        "Agentic",
+        "Agent RL",
+        "Recursive Self-Improvement",
+        "RSI",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Reinforcement Learning",
+        "RL",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29586": {
+      "arxiv_id": "2610.29586",
+      "title": "End-to-End Reinforcement Learning for Quadrupedal Jumping in Lunar Gravity",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Levin Müller",
+      "corresponding_author": null,
+      "author_affiliations": {},
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了一种面向月面重力的多阶段强化学习点到点跳跃框架，采用PPO训练单一端到端MLP策略，在IsaacLab仿真与Magnecko四足机器人重力卸载硬件上验证，在10,000条随机指令下实现着陆误差小于机器人尺寸的跳跃并证明扭矩/功率满足硬件限制。",
+      "metadata": {
+        "first_author": "Levin Müller",
+        "corresponding_author": null,
+        "author_affiliations": {},
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 4.0,
+      "keyword_reasoning": "该论文是四足机器人月面重力跳跃的深度强化学习工作，使用PPO训练端到端控制策略，因此与Reinforcement Learning、RL、Deep RL、PPO等关键词直接相关。但论文不涉及LLM、Agentic、ReAct、Memory、RAG、多智能体、模型压缩或在线/离线RL等主题，与关键词集合中的大部分概念关联较弱，整体属于部分相关。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 4.0"
+    },
+    "2610.29552": {
+      "arxiv_id": "2610.29552",
+      "title": "Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Xin Zhang",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Xin Zhang": "National University of Singapore",
+        "Haochen Wang": "University of Chinese Academy of Sciences",
+        "Beibei Lin": "National University of Singapore",
+        "Zhaoxiang Zhang": "University of Chinese Academy of Sciences",
+        "Robby T. Tan": "National University of Singapore",
+        "Jason Li": "Nanyang Technological University",
+        "Dacheng Tao": "Nanyang Technological University"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出Generalized CycleGRPO框架，使用区域—文本—区域闭环的自重构奖励与GRPO强化学习，将CycleGRPO从图像区域扩展到时间区间和时空轨迹，在DLC-Bench、GroundingSuite、Charades-STA、ActivityNet、QVHighlights、V-STaR、TVGBench和DOVE等基准上提升细粒度多模态理解与定位性能。",
+      "metadata": {
+        "first_author": "Xin Zhang",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Xin Zhang": "National University of Singapore",
+          "Haochen Wang": "University of Chinese Academy of Sciences",
+          "Beibei Lin": "National University of Singapore",
+          "Zhaoxiang Zhang": "University of Chinese Academy of Sciences",
+          "Robby T. Tan": "National University of Singapore",
+          "Jason Li": "Nanyang Technological University",
+          "Dacheng Tao": "Nanyang Technological University"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 8.0,
+      "keyword_reasoning": "论文核心是使用GRPO强化学习对多模态大语言模型进行微调，属于Reinforcement Learning、RL、Large Language Model、LLM、Fine-tuning和Online RL范畴；但研究重点是视觉区域理解与定位，不涉及多智能体、Agentic、ReAct、Memory、Skills、Recursive Self-Improvement、Chain of Thought、Mixture of Experts、模型压缩/量化/蒸馏、RAG、离线RL等关键词。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Large Language Model",
+        "LLM",
+        "Fine-tuning",
+        "Online RL"
+      ],
+      "blacklisted": false,
+      "blacklist_reason": ""
+    },
+    "2610.29534": {
+      "arxiv_id": "2610.29534",
+      "title": "Safe World Model for Joint Trajectory and Beamforming Design of Mobile Base Stations",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Abdolrasoul Sakhaei Gharagezlou",
+      "corresponding_author": "Mehdi Rasti",
+      "author_affiliations": {
+        "Abdolrasoul Sakhaei Gharagezlou": "University of Oulu（推测，基于作者团队与通讯邮箱）",
+        "Zeinab Askari Donbeh": "University of Oulu（推测，基于作者团队与通讯邮箱）",
+        "Mehdi Monemi": "University of Oulu（推测，基于作者团队与通讯邮箱）",
+        "Matti Latva-aho": "University of Oulu",
+        "Mehdi Rasti": "University of Oulu（通讯邮箱 @oulu.fi）"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": []
+      },
+      "one_sentence_summary": "提出了SafeDreamer-based WMBRL框架，使用约束马尔可夫决策过程、潜在世界模型和想象轨迹联合优化移动基站轨迹与数字波束成形，在MBS辅助无线通信仿真中相比PPO和DQN将时间平均和SINR分别提升约7%和9%，并提高样本效率与约束满足可靠性。",
+      "metadata": {
+        "first_author": "Abdolrasoul Sakhaei Gharagezlou",
+        "corresponding_author": "Mehdi Rasti",
+        "author_affiliations": {
+          "Abdolrasoul Sakhaei Gharagezlou": "University of Oulu（推测，基于作者团队与通讯邮箱）",
+          "Zeinab Askari Donbeh": "University of Oulu（推测，基于作者团队与通讯邮箱）",
+          "Mehdi Monemi": "University of Oulu（推测，基于作者团队与通讯邮箱）",
+          "Matti Latva-aho": "University of Oulu",
+          "Mehdi Rasti": "University of Oulu（通讯邮箱 @oulu.fi）"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": []
+        }
+      },
+      "keyword_relevance_score": 5.5,
+      "keyword_reasoning": "论文核心是基于SafeDreamer的世界模型强化学习，涉及Reinforcement Learning、Deep RL、DQN、PPO以及在线经验交互等关键词；但其应用场景是移动基站轨迹与波束成形优化，不涉及LLM、Agentic、ReAct、Memory、Multi-Agent、RAG、模型压缩或蒸馏等主题，因此与给定关键词集合的相关性为中等。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "DQN",
+        "PPO",
+        "Online RL"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 5.5"
+    },
+    "2610.29511": {
+      "arxiv_id": "2610.29511",
+      "title": "Deep Reinforcement Learning Assistance for Resilient Haptic Teleoperation over a 5G Network",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Georgios Kokkinis",
+      "corresponding_author": null,
+      "author_affiliations": {
+        "Georgios Kokkinis": "Aarhus University, Denmark",
+        "Aitor Hernandez Herranz": "Ericsson Research",
+        "Qi Zhang": "Aarhus University, Denmark"
+      },
+      "urls": {
+        "github": null,
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.29511"
+        ]
+      },
+      "one_sentence_summary": "提出了面向触觉遥操作的DRL辅助框架，使用基于触觉观测预训练的PPO策略与操作员命令固定权重融合，并在Ericsson 5G SA testbed的Uncongested、Congested和Prioritised条件下通过104次会话评估，使平均任务完成时间降低15.5%–20.6%、水区时间降低约40%，且拥塞条件下收益最大。",
+      "metadata": {
+        "first_author": "Georgios Kokkinis",
+        "corresponding_author": null,
+        "author_affiliations": {
+          "Georgios Kokkinis": "Aarhus University, Denmark",
+          "Aitor Hernandez Herranz": "Ericsson Research",
+          "Qi Zhang": "Aarhus University, Denmark"
+        },
+        "resources": {
+          "github": null,
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.29511"
+          ]
+        }
+      },
+      "keyword_relevance_score": 5.0,
+      "keyword_reasoning": "论文核心是深度强化学习辅助的触觉遥操作，使用PPO在虚拟环境中预训练策略并与人类操作员共享控制，因此与Reinforcement Learning、Deep RL、PPO、Pre-training等关键词直接相关；但论文不涉及LLM、Agentic、ReAct、Memory、RAG、多智能体或自改进等关键词，整体属于传统DRL应用而非LLM智能体研究，故相关性为中等。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL",
+        "PPO",
+        "Pre-training",
+        "Online RL"
+      ],
+      "blacklisted": true,
+      "blacklist_reason": "Low relevance score: 5.0"
+    },
+    "2610.29503": {
+      "arxiv_id": "2610.29503",
+      "title": "Hard and Soft Real-Time DNN Inference Scheduling on Heterogeneous Multi-Accelerator Systems via Reinforcement Learning",
+      "publish_date": "2026-10-21",
+      "source_type": "latex",
+      "first_author": "Francesco Giulio Blanco",
+      "corresponding_author": "Francesco Giulio Blanco",
+      "author_affiliations": {},
+      "urls": {
+        "github": "https://github.com/BlancoFrancescoGiulio/retnas",
+        "huggingface": null,
+        "project_page": null,
+        "other": [
+          "https://arxiv.org/abs/2610.29503"
+        ]
+      },
+      "one_sentence_summary": "提出了面向异构多加速器系统的混合硬/软实时DNN推理调度框架，使用DDPG强化学习在线生成候选调度前缀，并用基于机器切分的前缀替换运行时认证保证HRT可调度性，在六加速器异构平台及AlexNet、InceptionV3、ResNet50、YOLO-v2和Google-like SRT负载上于高压力场景取得81.41%的SRT命中率与62.05%的最差客户端SLO。",
+      "metadata": {
+        "first_author": "Francesco Giulio Blanco",
+        "corresponding_author": "Francesco Giulio Blanco",
+        "author_affiliations": {},
+        "resources": {
+          "github": "https://github.com/BlancoFrancescoGiulio/retnas",
+          "huggingface": null,
+          "project_page": null,
+          "other_links": [
+            "https://arxiv.org/abs/2610.29503"
+          ]
+        }
+      },
+      "keyword_relevance_score": 6,
+      "keyword_reasoning": "论文核心是异构多加速器上的实时DNN推理调度，使用DDPG这一深度强化学习方法生成在线调度策略，因此与Reinforcement Learning、RL、Deep RL高度相关；但它不涉及LLM、Agentic、ReAct、多智能体、记忆/技能、RAG、模型压缩/量化/蒸馏等关键词，整体只覆盖强化学习相关子集，故评为中等偏上相关。",
+      "matching_keywords": [
+        "Reinforcement Learning",
+        "RL",
+        "Deep RL"
       ],
       "blacklisted": false,
       "blacklist_reason": ""
