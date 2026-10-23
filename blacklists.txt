@@ -183,3 +183,16 @@ Near Minimax Rate for Quantile Distributional Reinforcement Learning
 End-to-End Reinforcement Learning for Quadrupedal Jumping in Lunar Gravity
 Safe World Model for Joint Trajectory and Beamforming Design of Mobile Base Stations
 Deep Reinforcement Learning Assistance for Resilient Haptic Teleoperation over a 5G Network
+Reliable AI-Assisted Decisions via Selective Auditing
+Cost-Aware Abstention for LLM-Based IT Ticket Classification
+F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation
+SympFormer: Inertial Attention Blocks from Damped Hamiltonian Dynamics on Spaces of Probability Measures
+VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act
+Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration
+Rethinking Sequence Compression with Test-time Regression
+An Empirical Study of Recent Large Language Models for Knowledge Graph to Text Generation on Standard Benchmarks
+The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models
+From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries
+Humanoid Mobility via Attention-based Contacts
+Ask About the Right Moment: Training-Free Object Identity Reasoning for Video-Language Models
+Reinforcing intra-operative tumour localisation with weak supervision from pre-operative appearances
