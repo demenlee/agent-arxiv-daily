@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.10.23
+### Automatically Updated on 2026.10.24
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -5531,23 +5531,13 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-22**|**Reliable AI-Assisted Decisions via Selective Auditing**|Isaac Gibbs et.al.|[2610.31662](http://arxiv.org/abs/2610.31662)|null|
-|**2026-10-22**|**Cost-Aware Abstention for LLM-Based IT Ticket Classification**|Sachin Gupta et.al.|[2610.31657](http://arxiv.org/abs/2610.31657)|null|
 |**2026-10-22**|**Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation**|Gabriele Dominici et.al.|[2610.31639](http://arxiv.org/abs/2610.31639)|null|
-|**2026-10-22**|**F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation**|Jinyu Zhang et.al.|[2610.31623](http://arxiv.org/abs/2610.31623)|null|
-|**2026-10-22**|**SympFormer: Inertial Attention Blocks from Damped Hamiltonian Dynamics on Spaces of Probability Measures**|Viktor Stein et.al.|[2610.31600](http://arxiv.org/abs/2610.31600)|null|
-|**2026-10-22**|**VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act**|Robin Quériaux et.al.|[2610.31588](http://arxiv.org/abs/2610.31588)|null|
-|**2026-10-22**|**Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration**|Deepthika S et.al.|[2610.31579](http://arxiv.org/abs/2610.31579)|null|
-|**2026-10-22**|**Rethinking Sequence Compression with Test-time Regression**|Sihan Yang et.al.|[2610.31574](http://arxiv.org/abs/2610.31574)|null|
 |**2026-10-22**|**Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure**|Pellegrino Casoria et.al.|[2610.31573](http://arxiv.org/abs/2610.31573)|null|
 |**2026-10-22**|**CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models**|Ilan Theodoro et.al.|[2610.31566](http://arxiv.org/abs/2610.31566)|null|
 |**2026-10-22**|**Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems**|Humza Akhtar et.al.|[2610.31553](http://arxiv.org/abs/2610.31553)|null|
 |**2026-10-22**|**CAMGen: A Core Change-Aware Multi-View Framework for Commit Message Generation**|Bo Xiong et.al.|[2610.31552](http://arxiv.org/abs/2610.31552)|null|
-|**2026-10-22**|**An Empirical Study of Recent Large Language Models for Knowledge Graph to Text Generation on Standard Benchmarks**| Priyanka et.al.|[2610.31529](http://arxiv.org/abs/2610.31529)|null|
-|**2026-10-22**|**The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models**|Shihui Li et.al.|[2610.31520](http://arxiv.org/abs/2610.31520)|null|
 |**2026-10-22**|**From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims**|Suyash Mishra et.al.|[2610.31519](http://arxiv.org/abs/2610.31519)|null|
 |**2026-10-22**|**SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets**|Chaoyue Li et.al.|[2610.31518](http://arxiv.org/abs/2610.31518)|null|
-|**2026-10-22**|**From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries**|Bayram Ayadi et.al.|[2610.31467](http://arxiv.org/abs/2610.31467)|null|
 |**2026-10-22**|**Adaptive Skill Granularity for Coding Agents: Runtime Routing and Macro-to-Micro Recovery**|Dingxuan Zhang et.al.|[2610.31461](http://arxiv.org/abs/2610.31461)|null|
 |**2026-10-22**|**Predictable performance is suboptimal, and what it means for model routing**|Guanhua Zhang et.al.|[2610.31428](http://arxiv.org/abs/2610.31428)|null|
 |**2026-10-22**|**SQuAT: Spherical Lattice Vector Quantization-Aware Training**|Sebastian Loeschcke et.al.|[2610.31412](http://arxiv.org/abs/2610.31412)|null|
@@ -10913,16 +10903,13 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-10-22**|**Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3**|Barış Alparslan et.al.|[2610.31624](http://arxiv.org/abs/2610.31624)|null|
 |**2026-10-22**|**DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control**|Fanxing Li et.al.|[2610.31617](http://arxiv.org/abs/2610.31617)|null|
 |**2026-10-22**|**OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation**|Qi Li et.al.|[2610.31616](http://arxiv.org/abs/2610.31616)|null|
-|**2026-10-22**|**Humanoid Mobility via Attention-based Contacts**|Junzhe He et.al.|[2610.31608](http://arxiv.org/abs/2610.31608)|null|
 |**2026-10-22**|**When to Follow the Teacher: Advantage-Based On-Policy Distillation**|Mahdi Sabbaghi et.al.|[2610.31563](http://arxiv.org/abs/2610.31563)|null|
 |**2026-10-22**|**Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning**|Zeropy Surio et.al.|[2610.31544](http://arxiv.org/abs/2610.31544)|null|
 |**2026-10-22**|**Towards User Simulators That Stay On Task And Still Sound Natural**|Mustafa Omer Gul et.al.|[2610.31512](http://arxiv.org/abs/2610.31512)|null|
 |**2026-10-22**|**Training Small Language Models for Transferable Tool Selection**|Zhaoyi Zhou et.al.|[2610.31483](http://arxiv.org/abs/2610.31483)|null|
-|**2026-10-22**|**Ask About the Right Moment: Training-Free Object Identity Reasoning for Video-Language Models**|Di Yang et.al.|[2610.31471](http://arxiv.org/abs/2610.31471)|null|
 |**2026-10-22**|**DIAL: Steerable Language Models with Distilled Instruction-Adherence Levels**|Thanh Q. Tran et.al.|[2610.31438](http://arxiv.org/abs/2610.31438)|null|
 |**2026-10-22**|**Spark-Audio 1.0 Technical Report**|Chenyue Zhang et.al.|[2610.31292](http://arxiv.org/abs/2610.31292)|null|
 |**2026-10-22**|**RIPPLE: Recovery Internalization through Process-Level Policy Learning and Effect-Aware Credit for Long-Horizon Agentic Coding**|Jingxuan Xu et.al.|[2610.31276](http://arxiv.org/abs/2610.31276)|null|
-|**2026-10-22**|**Reinforcing intra-operative tumour localisation with weak supervision from pre-operative appearances**|Sidhart Sami et.al.|[2610.31253](http://arxiv.org/abs/2610.31253)|null|
 |**2026-10-22**|**Reward-Weighted Preference Optimization for Selective Combinatorial Optimization Problems**|Haohui Zhang et.al.|[2610.31239](http://arxiv.org/abs/2610.31239)|null|
 |**2026-10-22**|**HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games**|Zecong Tang et.al.|[2610.31162](http://arxiv.org/abs/2610.31162)|null|
 |**2026-10-22**|**Where Do Long Captions Fail? Position-Aware Diagnosis and Reinforcement Learning for Detailed Image Captioning**|Yuanze Hu et.al.|[2610.31111](http://arxiv.org/abs/2610.31111)|null|
