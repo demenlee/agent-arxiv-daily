@@ -196,3 +196,14 @@ From Structured Records to Patient Narratives: Preserving Clinical Alignment in 
 Humanoid Mobility via Attention-based Contacts
 Ask About the Right Moment: Training-Free Object Identity Reasoning for Video-Language Models
 Reinforcing intra-operative tumour localisation with weak supervision from pre-operative appearances
+Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms
+Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations
+Generalization properties of the token perceptron: the role of embedding and vocabulary
+AI Alignment for Digital Democracy: Fairer Voters Representation against LLM Biases
+Foundation Models Meet Power Grid Topology for Cascade Prediction
+Do Language Models Trust Their Own Justifications? A Study on Functional Consistency
+The Answer Knows Where to Look: Zooming before MLLMs Answer under Visual-Token Budgets
+LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs
+LLaCO: Continuous Diffusion for Large Language Models with Competition-Aware Semantic Scheduling
+Predictive Long-Horizon Progress Modeling with Action-Aware Quantification
+Continuous-Time Mean-Variance Portfolio Selection Reinforcement Learning Problems for a Markov Regime-Switching System with No-Shorting Constraints
