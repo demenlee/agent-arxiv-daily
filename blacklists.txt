@@ -207,3 +207,17 @@ LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs
 LLaCO: Continuous Diffusion for Large Language Models with Competition-Aware Semantic Scheduling
 Predictive Long-Horizon Progress Modeling with Action-Aware Quantification
 Continuous-Time Mean-Variance Portfolio Selection Reinforcement Learning Problems for a Markov Regime-Switching System with No-Shorting Constraints
+Patient-specific rubric-based evaluation of large language models across longitudinal cancer care
+Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR
+Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models
+Selective Tie Learning: Mitigating Spurious Correlations in Preference Optimization
+From Self-Confidence to Statistical Accuracy: Scaling Human-in-the-Loop Evaluation with Direct and LLM-Assisted Auditing
+Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews
+A Hybrid Framework for Explainable Aviation Risk: Causal Chain Extraction from Safety Reports with Physics-Based Failure Quantification and Interventional Analysis
+FLOWSTEP: A Framework for Learning to Predict GitHub Actions Workflow STEPs
+Investigating Forecasting Capabilities of Narrative Networks on Emerging Stories
+EXCISE: Locating and Excising Distracting Sentences in Medical Question Answering
+CANS: Capability-Preserving Neuron Steering for Large Language Models
+Toward fully stabilized flow control using deep reinforcement learning
+Graph-Convolutional Reinforcement Learning for Finite-Time Stabilization of a Chaotic Chua Circuit via Unified Flexible Terminal Sliding-Mode Control
+S$^2$-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation
