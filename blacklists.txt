@@ -221,3 +221,8 @@ CANS: Capability-Preserving Neuron Steering for Large Language Models
 Toward fully stabilized flow control using deep reinforcement learning
 Graph-Convolutional Reinforcement Learning for Finite-Time Stabilization of a Chaotic Chua Circuit via Unified Flexible Terminal Sliding-Mode Control
 S$^2$-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation
+VideoLVR: Latent Visual Reasoning over Grounded Video Evidence
+When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Internal Activations Shape Refusal in Multimodal Language Models
+PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations
+Predict the Swing, Match the Speed: Robotic Pipe Stabbing With Learned Stereo Vision and Residual Reinforcement Learning
+Strategyproof Deep Reinforcement Learning for Online Resource Allocation

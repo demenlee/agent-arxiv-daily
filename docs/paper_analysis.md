@@ -1,19 +1,19 @@
 # Agent ArXiv Daily - Paper Analysis
 
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 
 This page contains AI-generated analysis of recent papers. The analysis is generated using Claude AI via OpenAI-compatible API.
 
 **Note**: The generated contents are not guaranteed to be 100% accurate.
 
-**Total Papers Analyzed**: 1308
+**Total Papers Analyzed**: 1350
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#agent">Agent</a> (600 papers)</li>
-    <li><a href="#large-language-models">Large Language Models</a> (359 papers)</li>
-    <li><a href="#reinforcement-learning">Reinforcement Learning</a> (349 papers)</li>
+    <li><a href="#agent">Agent</a> (604 papers)</li>
+    <li><a href="#large-language-models">Large Language Models</a> (378 papers)</li>
+    <li><a href="#reinforcement-learning">Reinforcement Learning</a> (368 papers)</li>
   </ol>
 </details>
 
@@ -27,6 +27,24 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 ---
+
+<details>
+<summary><b>2026-10-27</b> PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions (Unknown Author) <a href="http://arxiv.org/abs/2610.37471">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37471.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> AudioRSI: Recursively Self-Improving Audio Reasoners (Unknown Author) <a href="http://arxiv.org/abs/2610.36578">arXiv</a> | <a href="http://arxiv.org/pdf/2610.36578.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
 
 <details>
 <summary><b>2026-10-26</b> RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies (Unknown Author) <a href="http://arxiv.org/abs/2610.35604">arXiv</a> | <a href="http://arxiv.org/pdf/2610.35604.pdf">PDF</a></summary>
@@ -87,6 +105,24 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 <p>
 
 <strong>Resources</strong>: <a href="https://github.com/AetherLabsAI/RobotAgentBench">GitHub</a> | <a href="https://huggingface.co/AetherLabs-AI/InternVLA-A1.5-RAB">HuggingFace</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-26</b> The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents (Unknown Author) <a href="http://arxiv.org/abs/2610.36077">arXiv</a> | <a href="http://arxiv.org/pdf/2610.36077.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/InfRec-Cardinal/The-Trinity">GitHub</a> | <a href="https://trinity-rsi.github.io/">Project Page</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-26</b> OmniBrain-0: A Unified Agentic Model for Embodied Intelligence (Unknown Author) <a href="http://arxiv.org/abs/2610.36013">arXiv</a> | <a href="http://arxiv.org/pdf/2610.36013.pdf">PDF</a></summary>
+<p>
+
+
 
 </p>
 </details>
@@ -5429,7 +5465,7 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 
-<p align="right">(<a href="#updated-on-20261027">back to top</a>)</p>
+<p align="right">(<a href="#updated-on-20261028">back to top</a>)</p>
 
 ## Large Language Models
 
@@ -5441,6 +5477,177 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 ---
+
+<details>
+<summary><b>2026-10-27</b> GEPA-Curator: Curated Learning for Self Improving Agents (Unknown Author) <a href="http://arxiv.org/abs/2610.37651">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37651.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Can LLMs Uncover Hidden Physical Laws through Free Exploration? (Unknown Author) <a href="http://arxiv.org/abs/2610.37649">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37649.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/EnVision-Research/LongChang">GitHub</a> | <a href="https://zhenyangcs.github.io/LongChang-website/">Project Page</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis (Unknown Author) <a href="http://arxiv.org/abs/2610.37648">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37648.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Multi-State Linear Attention with Generalized Second-Order Routing (Unknown Author) <a href="http://arxiv.org/abs/2610.37645">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37645.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> VideoLVR: Latent Visual Reasoning over Grounded Video Evidence (Unknown Author) <a href="http://arxiv.org/abs/2610.37613">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37613.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> As the Story Unfolds: Watching a Film and Identifying Characters as a Human Does (Unknown Author) <a href="http://arxiv.org/abs/2610.37579">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37579.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://www.robots.ox.ac.uk/~vgg/research/StreamCast/">Project Page</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Teach reality, not ethics: a drop-in continued-pretraining corpus installs coupled human-biosphere-AI welfare dispositions across model families (Unknown Author) <a href="http://arxiv.org/abs/2610.37484">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37484.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/Bioaligned/coupled_welfare_project">GitHub</a> | <a href="https://huggingface.co/datasets/Bioaligned/coupled-welfare-corpus">HuggingFace</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Follow the Gradient: Tracing Safety Degradation Back to Training Data (Unknown Author) <a href="http://arxiv.org/abs/2610.37481">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37481.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://huggingface.co/datasets/DatologyAI/SafeTulu">HuggingFace</a> | <a href="https://huggingface.co/spaces/DatologyAI/SafeTulu-Space">Project Page</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Concordat: Typed Sessions for LLM Agents (Unknown Author) <a href="http://arxiv.org/abs/2610.37461">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37461.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/miladsikaroudi/concordat">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents (Unknown Author) <a href="http://arxiv.org/abs/2610.37443">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37443.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> CRISP: Co-designing Pruning and Scheduling for Efficient MoE Inference on Edge Servers (Unknown Author) <a href="http://arxiv.org/abs/2610.37442">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37442.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> FeatureArc: Benchmarking Coding Agents on Evolving Features (Unknown Author) <a href="http://arxiv.org/abs/2610.37434">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37434.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Request-Adaptive Execution for Efficient Hybrid LLM Inference (Unknown Author) <a href="http://arxiv.org/abs/2610.37432">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37432.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Internal Activations Shape Refusal in Multimodal Language Models (Unknown Author) <a href="http://arxiv.org/abs/2610.37430">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37430.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Clearing the FoG: Training KG Agents to Retrieve the Evidence Behind Their Answers (Unknown Author) <a href="http://arxiv.org/abs/2610.37405">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37405.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data (Unknown Author) <a href="http://arxiv.org/abs/2610.37386">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37386.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/AidenGeunGeun/calibration-free-moe">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations (Unknown Author) <a href="http://arxiv.org/abs/2610.37381">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37381.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Agent-Conditioned Routing: Diverse Reasoning Paths Within One Frozen Model (Unknown Author) <a href="http://arxiv.org/abs/2610.37375">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37375.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories (Unknown Author) <a href="http://arxiv.org/abs/2610.37369">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37369.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
 
 <details>
 <summary><b>2026-10-26</b> Patient-specific rubric-based evaluation of large language models across longitudinal cancer care (Unknown Author) <a href="http://arxiv.org/abs/2610.35847">arXiv</a> | <a href="http://arxiv.org/pdf/2610.35847.pdf">PDF</a></summary>
@@ -8702,7 +8909,7 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 
-<p align="right">(<a href="#updated-on-20261027">back to top</a>)</p>
+<p align="right">(<a href="#updated-on-20261028">back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -8714,6 +8921,177 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 ---
+
+<details>
+<summary><b>2026-10-27</b> ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning (Unknown Author) <a href="http://arxiv.org/abs/2610.37666">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37666.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://thinkworld-project.github.io/">Project Page</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning (Unknown Author) <a href="http://arxiv.org/abs/2610.37609">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37609.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/Hhankyangg/envsched">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> TANDEM: Balancing Centralized and Decentralized Critics to Address the Information Gap in Complex Multi-Agent Environments (Unknown Author) <a href="http://arxiv.org/abs/2610.37592">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37592.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information (Unknown Author) <a href="http://arxiv.org/abs/2610.37571">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37571.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Collective Dynamics of Self-Reinforcement: How Cross-Task Coupling Drives Policy Collapse in Unsupervised RLVR (Unknown Author) <a href="http://arxiv.org/abs/2610.37553">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37553.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/pd2714/RLVR_instability">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies (Unknown Author) <a href="http://arxiv.org/abs/2610.37547">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37547.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://anonymous.4open.science/w/arc-6DD5/">Project Page</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Rendering-Free Event Frame Simulation for Fast Reinforcement Learning of Autonomous Robot Navigation (Unknown Author) <a href="http://arxiv.org/abs/2610.37543">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37543.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/tudelft/rendering-free-event-nav">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Predict the Swing, Match the Speed: Robotic Pipe Stabbing With Learned Stereo Vision and Residual Reinforcement Learning (Unknown Author) <a href="http://arxiv.org/abs/2610.37535">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37535.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Strategyproof Deep Reinforcement Learning for Online Resource Allocation (Unknown Author) <a href="http://arxiv.org/abs/2610.37504">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37504.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Autonomous fixed-wing interception using reinforcement learning (Unknown Author) <a href="http://arxiv.org/abs/2610.37470">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37470.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Interpretable Meta-Policies for Neural Decision Making (Unknown Author) <a href="http://arxiv.org/abs/2610.37451">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37451.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://github.com/remunds/symbolic_options">GitHub</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Multi-Agent Reinforcement Learning of Co-Adaptive Hip Exoskeleton Control (MARL-Exo) for Metabolic Energy Reduction (Unknown Author) <a href="http://arxiv.org/abs/2610.37441">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37441.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> VLA-Stem: A Lightweight Safety Mechanism for Vision-Language-Action Models via Reinforcement Learning (Unknown Author) <a href="http://arxiv.org/abs/2610.37378">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37378.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> UCVE: Graph Structured Retrieval for Compliance Validation (Unknown Author) <a href="http://arxiv.org/abs/2610.37323">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37323.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> RPSD: Retrieval-Privileged On-Policy Self-Distillation with Optimal Transport (Unknown Author) <a href="http://arxiv.org/abs/2610.37281">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37281.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Watermark Basins: Black-Box Detection of Distilled LLMs (Unknown Author) <a href="http://arxiv.org/abs/2610.37266">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37266.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Uncovering Shortcut Amplification in Video RLVR through the Lens of Perceptual Uncertainty Collapse (Unknown Author) <a href="http://arxiv.org/abs/2610.37211">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37211.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Remember Where You Walk: Learning Spatial Memory for End-to-End Legged Robot Exploration (Unknown Author) <a href="http://arxiv.org/abs/2610.37203">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37203.pdf">PDF</a></summary>
+<p>
+
+<strong>Resources</strong>: <a href="https://leonmgns.github.io/RememberWhereYouWalkWebiste/">Project Page</a><br>
+
+</p>
+</details>
+
+<details>
+<summary><b>2026-10-27</b> Action-Value Calibration via Continuation Sharing for Long-Horizon Agentic Reinforcement Learning (Unknown Author) <a href="http://arxiv.org/abs/2610.37195">arXiv</a> | <a href="http://arxiv.org/pdf/2610.37195.pdf">PDF</a></summary>
+<p>
+
+
+
+</p>
+</details>
 
 <details>
 <summary><b>2026-10-26</b> World Model for Energy Efficiency Maximization in Dynamic Metasurface Antennas (Unknown Author) <a href="http://arxiv.org/abs/2610.35813">arXiv</a> | <a href="http://arxiv.org/pdf/2610.35813.pdf">PDF</a></summary>
@@ -11857,5 +12235,5 @@ Top 5 Research Trends in Agent-Based Systems<br><br>1. <strong>Reinforcement Lea
 </details>
 
 
-<p align="right">(<a href="#updated-on-20261027">back to top</a>)</p>
+<p align="right">(<a href="#updated-on-20261028">back to top</a>)</p>
 
