@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.10.28
+> Updated on 2026.10.29
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -5548,7 +5548,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-28, **"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts**, Shenao Wang et.al., Paper: [http://arxiv.org/abs/2603.27204](http://arxiv.org/abs/2603.27204)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -5685,7 +5685,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-04, **When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought**, Yiyang Zhou et.al., Paper: [http://arxiv.org/abs/2511.02779](http://arxiv.org/abs/2511.02779)
 - 2026-08-11, **When Visual Signals Mislead: A Mechanistic Study of Attribute Hallucination in Vision-Language Models**, Yufei Zhang et.al., Paper: [http://arxiv.org/abs/2608.11024](http://arxiv.org/abs/2608.11024)
 - 2026-03-14, **When Visual Privacy Protection Meets Multimodal Large Language Models**, Xiaofei Hui et.al., Paper: [http://arxiv.org/abs/2603.13978](http://arxiv.org/abs/2603.13978)
-- 2026-10-27, **When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Internal Activations Shape Refusal in Multimodal Language Models**, Ananth K Suresh et.al., Paper: [http://arxiv.org/abs/2610.37430](http://arxiv.org/abs/2610.37430)
 - 2026-07-23, **When Trivia Is Not Trivial: Everyday Knowledge Failures in Multilingual LLMs**, Anna Mosolova et.al., Paper: [http://arxiv.org/abs/2607.21445](http://arxiv.org/abs/2607.21445)
 - 2026-08-04, **When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation**, Yinuo Jiang et.al., Paper: [http://arxiv.org/abs/2608.03632](http://arxiv.org/abs/2608.03632)
 - 2025-12-09, **When Tables Leak: Attacking String Memorization in LLM-Based Tabular Data Generation**, Joshua Ward et.al., Paper: [http://arxiv.org/abs/2512.08875](http://arxiv.org/abs/2512.08875)
@@ -5843,7 +5842,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-07-14, **VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression**, Yupeng Zheng et.al., Paper: [http://arxiv.org/abs/2607.12756](http://arxiv.org/abs/2607.12756)
 - 2026-02-17, **VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**, Hui Ren et.al., Paper: [http://arxiv.org/abs/2602.15819](http://arxiv.org/abs/2602.15819)
 - 2026-05-28, **VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion**, Hidir Yesiltepe et.al., Paper: [http://arxiv.org/abs/2605.30351](http://arxiv.org/abs/2605.30351)
-- 2026-10-27, **VideoLVR: Latent Visual Reasoning over Grounded Video Evidence**, Shilong Li et.al., Paper: [http://arxiv.org/abs/2610.37613](http://arxiv.org/abs/2610.37613)
 - 2026-03-23, **VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding**, Ruoliu Yang et.al., Paper: [http://arxiv.org/abs/2603.22285](http://arxiv.org/abs/2603.22285)
 - 2026-01-08, **VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice**, Shuming Liu et.al., Paper: [http://arxiv.org/abs/2601.05175](http://arxiv.org/abs/2601.05175)
 - 2026-03-18, **VideoAtlas: Navigating Long-Form Video in Logarithmic Compute**, Mohamed Eltahir et.al., Paper: [http://arxiv.org/abs/2603.17948](http://arxiv.org/abs/2603.17948)
@@ -7629,7 +7627,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-10-31, **PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting**, Danyal Maqbool et.al., Paper: [http://arxiv.org/abs/2510.27680](http://arxiv.org/abs/2510.27680)
 - 2026-01-06, **PET-TURTLE: Deep Unsupervised Support Vector Machines for Imbalanced Data Clusters**, Javier Salazar Cavazos et.al., Paper: [http://arxiv.org/abs/2601.03237](http://arxiv.org/abs/2601.03237)
 - 2026-09-22, **PERSONAWEAVER: Controllable Diversity Beyond Conventional Archetypes in Procedural Character Generation**, Maan Qraitem et.al., Paper: [http://arxiv.org/abs/2609.26629](http://arxiv.org/abs/2609.26629)
-- 2026-10-27, **PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations**, Hanqing Wang et.al., Paper: [http://arxiv.org/abs/2610.37381](http://arxiv.org/abs/2610.37381)
 - 2025-12-12, **PD-Swap: Prefill-Decode Logic Swapping for End-to-End LLM Inference on Edge FPGAs via Dynamic Partial Reconfiguration**, Yifan Zhang et.al., Paper: [http://arxiv.org/abs/2512.11550](http://arxiv.org/abs/2512.11550)
 - 2026-03-18, **PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation**, Jianjian Yin et.al., Paper: [http://arxiv.org/abs/2603.17520](http://arxiv.org/abs/2603.17520)
 - 2023-11-09, **PB-LLM: Partially Binarized Large Language Models**, Yuzhang Shang et.al., Paper: [http://arxiv.org/abs/2310.00034](http://arxiv.org/abs/2310.00034)
@@ -10956,7 +10953,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-20, **"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**, Alexandra Neagu et.al., Paper: [http://arxiv.org/abs/2602.18372](http://arxiv.org/abs/2602.18372)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -11147,7 +11144,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-09, **VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning**, Hao Tan et.al., Paper: [http://arxiv.org/abs/2602.08828](http://arxiv.org/abs/2602.08828)
 - 2026-02-08, **VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos**, Wenqi Liu et.al., Paper: [http://arxiv.org/abs/2602.07801](http://arxiv.org/abs/2602.07801)
 - 2025-10-27, **VideoTG-R1: Boosting Video Temporal Grounding via Curriculum Reinforcement Learning on Reflected Boundary Annotations**, Lu Dong et.al., Paper: [http://arxiv.org/abs/2510.23397](http://arxiv.org/abs/2510.23397)
-- 2026-10-27, **VideoLVR: Latent Visual Reasoning over Grounded Video Evidence**, Shilong Li et.al., Paper: [http://arxiv.org/abs/2610.37613](http://arxiv.org/abs/2610.37613)
 - 2026-09-21, **VideoGen-Agent: Reinforcing Video Generation Agents**, Binxu Li et.al., Paper: [http://arxiv.org/abs/2609.24997](http://arxiv.org/abs/2609.24997)
 - 2026-10-07, **VideoEvolve: Co-Evolving Memory and Retrieval for Long Video Understanding**, Yongchao Xu et.al., Paper: [http://arxiv.org/abs/2610.10183](http://arxiv.org/abs/2610.10183)
 - 2026-01-30, **Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**, Xiangyu Zeng et.al., Paper: [http://arxiv.org/abs/2601.23224](http://arxiv.org/abs/2601.23224)
@@ -11779,7 +11775,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-09-22, **Strong Selective and List-Decoding Direct Product Theorems for Quantum Query Complexity**, Paul Beame et.al., Paper: [http://arxiv.org/abs/2609.26678](http://arxiv.org/abs/2609.26678)
 - 2026-09-08, **Strong Polarization Signatures from Magnetically Stabilized Luminous Thin Accretion Disks**, P. Chris Fragile et.al., Paper: [http://arxiv.org/abs/2609.08895](http://arxiv.org/abs/2609.08895)
 - 2026-05-05, **Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation**, Bin Wu et.al., Paper: [http://arxiv.org/abs/2605.03849](http://arxiv.org/abs/2605.03849)
-- 2026-10-27, **Strategyproof Deep Reinforcement Learning for Online Resource Allocation**, Fariba Dehghan et.al., Paper: [http://arxiv.org/abs/2610.37504](http://arxiv.org/abs/2610.37504)
 - 2026-04-08, **Strategic Persuasion with Trait-Conditioned Multi-Agent Systems for Iterative Legal Argumentation**, Philipp D. Siedler et.al., Paper: [http://arxiv.org/abs/2604.07028](http://arxiv.org/abs/2604.07028)
 - 2025-11-13, **Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling**, Georgios Chalkiadakis et.al., Paper: [http://arxiv.org/abs/2511.10501](http://arxiv.org/abs/2511.10501)
 - 2026-10-05, **Strategic Multi-Agent Learning for Interpretable Action Valuation of All Players in Football**, Kenjiro Ide et.al., Paper: [http://arxiv.org/abs/2610.05961](http://arxiv.org/abs/2610.05961)
@@ -12790,7 +12785,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-04-22, **Predicting co-segregation in multicomponent alloys with solute-solute interactions**, Zuoyong Zhang et.al., Paper: [http://arxiv.org/abs/2604.20593](http://arxiv.org/abs/2604.20593)
 - 2025-10-24, **Predicted observational effects of rapid rotation for Be stars**, Rina G. Rast et.al., Paper: [http://arxiv.org/abs/2510.21640](http://arxiv.org/abs/2510.21640)
 - 2026-04-05, **Predict, Don't React: Value-Based Safety Forecasting for LLM Streaming**, Pride Kavumba et.al., Paper: [http://arxiv.org/abs/2604.03962](http://arxiv.org/abs/2604.03962)
-- 2026-10-27, **Predict the Swing, Match the Speed: Robotic Pipe Stabbing With Learned Stereo Vision and Residual Reinforcement Learning**, Mohamed Ashraf Mostafa et.al., Paper: [http://arxiv.org/abs/2610.37535](http://arxiv.org/abs/2610.37535)
 - 2026-09-10, **Predefined-Time Resilient Integral Reinforcement Learning for Input-Constrained Unknown Nonlinear Systems Under FDI Attacks and Disturbances: A Fully Data-Driven Approach**, Tien Dat Vu et.al., Paper: [http://arxiv.org/abs/2609.11815](http://arxiv.org/abs/2609.11815)
 - 2026-03-19, **Preconditioning Hamiltonian Monte Carlo by minimizing Fisher Divergence**, Adrian Seyboldt et.al., Paper: [http://arxiv.org/abs/2603.18845](http://arxiv.org/abs/2603.18845)
 - 2025-11-25, **Precision thermodynamics of the strongly interacting Fermi gas in two dimensions**, S. Ramachandran et.al., Paper: [http://arxiv.org/abs/2511.20599](http://arxiv.org/abs/2511.20599)
@@ -16376,7 +16370,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 - 2026-04-17, **$G_2$ -structures as Octonion Algebras**, Isak Sundelius et.al., Paper: [http://arxiv.org/abs/2604.15966](http://arxiv.org/abs/2604.15966)
 
-<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
 
 Notes: 
 

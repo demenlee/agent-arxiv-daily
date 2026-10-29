@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.10.28
+### Automatically Updated on 2026.10.29
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -5553,7 +5553,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-10-27**|**Can LLMs Uncover Hidden Physical Laws through Free Exploration?**|Zhen Yang et.al.|[2610.37649](http://arxiv.org/abs/2610.37649)|null|
 |**2026-10-27**|**Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis**|Andrew Szot et.al.|[2610.37648](http://arxiv.org/abs/2610.37648)|null|
 |**2026-10-27**|**Multi-State Linear Attention with Generalized Second-Order Routing**|Hee Seung Hwang et.al.|[2610.37645](http://arxiv.org/abs/2610.37645)|null|
-|**2026-10-27**|**VideoLVR: Latent Visual Reasoning over Grounded Video Evidence**|Shilong Li et.al.|[2610.37613](http://arxiv.org/abs/2610.37613)|null|
 |**2026-10-27**|**As the Story Unfolds: Watching a Film and Identifying Characters as a Human Does**|Zhongrui Gui et.al.|[2610.37579](http://arxiv.org/abs/2610.37579)|null|
 |**2026-10-27**|**Teach reality, not ethics: a drop-in continued-pretraining corpus installs coupled human-biosphere-AI welfare dispositions across model families**|Trent R. Northen et.al.|[2610.37484](http://arxiv.org/abs/2610.37484)|null|
 |**2026-10-27**|**Follow the Gradient: Tracing Safety Degradation Back to Training Data**|Saket Reddy et.al.|[2610.37481](http://arxiv.org/abs/2610.37481)|null|
@@ -5563,10 +5562,8 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-10-27**|**CRISP: Co-designing Pruning and Scheduling for Efficient MoE Inference on Edge Servers**|Congwei Zhang et.al.|[2610.37442](http://arxiv.org/abs/2610.37442)|null|
 |**2026-10-27**|**FeatureArc: Benchmarking Coding Agents on Evolving Features**|Yunlong Wang et.al.|[2610.37434](http://arxiv.org/abs/2610.37434)|null|
 |**2026-10-27**|**Request-Adaptive Execution for Efficient Hybrid LLM Inference**|Fahao Chen et.al.|[2610.37432](http://arxiv.org/abs/2610.37432)|null|
-|**2026-10-27**|**When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Internal Activations Shape Refusal in Multimodal Language Models**|Ananth K Suresh et.al.|[2610.37430](http://arxiv.org/abs/2610.37430)|null|
 |**2026-10-27**|**Clearing the FoG: Training KG Agents to Retrieve the Evidence Behind Their Answers**|Zongyuan Sun et.al.|[2610.37405](http://arxiv.org/abs/2610.37405)|null|
 |**2026-10-27**|**Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data**|Geunhyoung Kim et.al.|[2610.37386](http://arxiv.org/abs/2610.37386)|null|
-|**2026-10-27**|**PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations**|Hanqing Wang et.al.|[2610.37381](http://arxiv.org/abs/2610.37381)|null|
 |**2026-10-27**|**Agent-Conditioned Routing: Diverse Reasoning Paths Within One Frozen Model**|Ananth Kalyanasundaram et.al.|[2610.37375](http://arxiv.org/abs/2610.37375)|null|
 |**2026-10-27**|**Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories**|Zirui Ding et.al.|[2610.37369](http://arxiv.org/abs/2610.37369)|null|
 |**2026-10-26**|**Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy**|Yifei Yao et.al.|[2610.35832](http://arxiv.org/abs/2610.35832)|null|
@@ -10958,15 +10955,12 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Chaehyun Kim et.al.|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
-|**2026-10-27**|**VideoLVR: Latent Visual Reasoning over Grounded Video Evidence**|Shilong Li et.al.|[2610.37613](http://arxiv.org/abs/2610.37613)|null|
 |**2026-10-27**|**EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning**|Sihan Yang et.al.|[2610.37609](http://arxiv.org/abs/2610.37609)|null|
 |**2026-10-27**|**TANDEM: Balancing Centralized and Decentralized Critics to Address the Information Gap in Complex Multi-Agent Environments**|Alireza Saleh Abadi et.al.|[2610.37592](http://arxiv.org/abs/2610.37592)|null|
 |**2026-10-27**|**TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information**|Chanwoo Park et.al.|[2610.37571](http://arxiv.org/abs/2610.37571)|null|
 |**2026-10-27**|**Collective Dynamics of Self-Reinforcement: How Cross-Task Coupling Drives Policy Collapse in Unsupervised RLVR**|Peize Ding et.al.|[2610.37553](http://arxiv.org/abs/2610.37553)|null|
 |**2026-10-27**|**When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies**|Anukriti Singh et.al.|[2610.37547](http://arxiv.org/abs/2610.37547)|null|
 |**2026-10-27**|**Rendering-Free Event Frame Simulation for Fast Reinforcement Learning of Autonomous Robot Navigation**|Dequan Ou et.al.|[2610.37543](http://arxiv.org/abs/2610.37543)|null|
-|**2026-10-27**|**Predict the Swing, Match the Speed: Robotic Pipe Stabbing With Learned Stereo Vision and Residual Reinforcement Learning**|Mohamed Ashraf Mostafa et.al.|[2610.37535](http://arxiv.org/abs/2610.37535)|null|
-|**2026-10-27**|**Strategyproof Deep Reinforcement Learning for Online Resource Allocation**|Fariba Dehghan et.al.|[2610.37504](http://arxiv.org/abs/2610.37504)|null|
 |**2026-10-27**|**Autonomous fixed-wing interception using reinforcement learning**|Daan van Hamersveld et.al.|[2610.37470](http://arxiv.org/abs/2610.37470)|null|
 |**2026-10-27**|**Interpretable Meta-Policies for Neural Decision Making**|Raban Emunds et.al.|[2610.37451](http://arxiv.org/abs/2610.37451)|null|
 |**2026-10-27**|**Multi-Agent Reinforcement Learning of Co-Adaptive Hip Exoskeleton Control (MARL-Exo) for Metabolic Energy Reduction**|Yifei Yuan et.al.|[2610.37441](http://arxiv.org/abs/2610.37441)|null|
