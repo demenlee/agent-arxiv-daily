@@ -226,3 +226,9 @@ When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Inter
 PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations
 Predict the Swing, Match the Speed: Robotic Pipe Stabbing With Learned Stereo Vision and Residual Reinforcement Learning
 Strategyproof Deep Reinforcement Learning for Online Resource Allocation
+TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races
+PhysCount: Do MLLMs Count Visual Appearances or Physical Entities?
+A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During Naturalistic Language Listening
+Radiology Guideline-derived Decision Graph for Efficient Clinical Decision Support
+Uncertainty-aware Feedback Loop Diagnosis: integrating reinforcement learning and conformal prediction for reliable wafer defect classification
+Learned Terminal Costs for Short-Horizon Model Predictive Control of Autonomous Trucks in Interactive Highway Traffic
