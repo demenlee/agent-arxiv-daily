@@ -232,3 +232,15 @@ A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity
 Radiology Guideline-derived Decision Graph for Efficient Clinical Decision Support
 Uncertainty-aware Feedback Loop Diagnosis: integrating reinforcement learning and conformal prediction for reliable wafer defect classification
 Learned Terminal Costs for Short-Horizon Model Predictive Control of Autonomous Trucks in Interactive Highway Traffic
+Latent Reasoning in Continuous Space for Unified Multimodal Models
+Where ADS Crashes Differ: A Harmonized Comparison Against Human Baselines
+Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice
+Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under Extrapolation
+Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions
+ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation
+Automated Keyword Generation Using LLMs in a High-Volume Data Virtualization Service
+Unifying Data-Adaptive Longitudinal Treatment-Effect Subgroup Discovery and Pretreatment Membership Prediction
+AI evaluators favor job applications written by certain AI models, independent of candidate quality
+LLM Recommenders Produce Demographic Inequality Through Content Preferences
+Dynamical Memory Transformer: Selective Recurrent Memories with Constant Cost Attention
+Open-Weight MLLMs Cannot Compare What They Cannot Name
