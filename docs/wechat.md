@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.11.01
+> Updated on 2026.11.02
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -2057,7 +2057,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-07-09, **OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice**, Qian Jiang et.al., Paper: [http://arxiv.org/abs/2607.08423](http://arxiv.org/abs/2607.08423)
 - 2025-08-08, **OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks**, Zixuan Wang et.al., Paper: [http://arxiv.org/abs/2508.05614](http://arxiv.org/abs/2508.05614)
 - 2026-02-02, **OmniCode: A Benchmark for Evaluating Software Engineering Agents**, Atharv Sonwane et.al., Paper: [http://arxiv.org/abs/2602.02262](http://arxiv.org/abs/2602.02262)
-- 2026-10-26, **OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**,  Xiaomi Embodied Intelligence Team et.al., Paper: [http://arxiv.org/abs/2610.36013](http://arxiv.org/abs/2610.36013)
+- 2026-10-26, **OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**, Xiaomi Embodied Intelligence Team et.al., Paper: [http://arxiv.org/abs/2610.36013](http://arxiv.org/abs/2610.36013)
 - 2025-11-17, **Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents**, Piaohong Wang et.al., Paper: [http://arxiv.org/abs/2511.13593](http://arxiv.org/abs/2511.13593)
 - 2026-01-28, **OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution**, Le Zhang et.al., Paper: [http://arxiv.org/abs/2601.20380](http://arxiv.org/abs/2601.20380)
 - 2026-07-29, **OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding**, Jingbo Zhou et.al., Paper: [http://arxiv.org/abs/2607.27155](http://arxiv.org/abs/2607.27155)
@@ -5558,7 +5558,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-28, **"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts**, Shenao Wang et.al., Paper: [http://arxiv.org/abs/2603.27204](http://arxiv.org/abs/2603.27204)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -10979,7 +10979,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-20, **"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**, Alexandra Neagu et.al., Paper: [http://arxiv.org/abs/2602.18372](http://arxiv.org/abs/2602.18372)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -16414,7 +16414,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 - 2026-04-17, **$G_2$ -structures as Octonion Algebras**, Isak Sundelius et.al., Paper: [http://arxiv.org/abs/2604.15966](http://arxiv.org/abs/2604.15966)
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 Notes: 
 

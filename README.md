@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.11.01
+### Automatically Updated on 2026.11.02
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -34,7 +34,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-10-27**|**PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions**|Tongkun Guan et.al.|[2610.37471](http://arxiv.org/abs/2610.37471)|null|
 |**2026-10-27**|**AudioRSI: Recursively Self-Improving Audio Reasoners**|Jiajun Fan et.al.|[2610.36578](http://arxiv.org/abs/2610.36578)|null|
 |**2026-10-26**|**The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents**|Weidong Tang et.al.|[2610.36077](http://arxiv.org/abs/2610.36077)|null|
-|**2026-10-26**|**OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**| Xiaomi Embodied Intelligence Team et.al.|[2610.36013](http://arxiv.org/abs/2610.36013)|null|
+|**2026-10-26**|**OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**|Xiaomi Embodied Intelligence Team et.al.|[2610.36013](http://arxiv.org/abs/2610.36013)|null|
 |**2026-10-26**|**RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies**|Heyang Yu et.al.|[2610.35604](http://arxiv.org/abs/2610.35604)|null|
 |**2026-10-26**|**Test-Time Confidence Adaptation under RL-Induced Trajectory Shift**|Zhenzhen Ren et.al.|[2610.35500](http://arxiv.org/abs/2610.35500)|null|
 |**2026-10-26**|**Skill $^{\infty}$ : Recursive Self-Improvement for Agent Skill Optimization**|Wangcheng Tao et.al.|[2610.35434](http://arxiv.org/abs/2610.35434)|null|
@@ -5560,7 +5560,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -10983,7 +10983,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -16420,7 +16420,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 Notes: 
 

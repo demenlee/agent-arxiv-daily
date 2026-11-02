@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.11.01
+### Automatically Updated on 2026.11.02
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -29,7 +29,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-10-27**|**PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions**|Tongkun Guan et.al.|[2610.37471](http://arxiv.org/abs/2610.37471)|null|
 |**2026-10-27**|**AudioRSI: Recursively Self-Improving Audio Reasoners**|Jiajun Fan et.al.|[2610.36578](http://arxiv.org/abs/2610.36578)|null|
 |**2026-10-26**|**The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents**|Weidong Tang et.al.|[2610.36077](http://arxiv.org/abs/2610.36077)|null|
-|**2026-10-26**|**OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**| Xiaomi Embodied Intelligence Team et.al.|[2610.36013](http://arxiv.org/abs/2610.36013)|null|
+|**2026-10-26**|**OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**|Xiaomi Embodied Intelligence Team et.al.|[2610.36013](http://arxiv.org/abs/2610.36013)|null|
 |**2026-10-26**|**RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies**|Heyang Yu et.al.|[2610.35604](http://arxiv.org/abs/2610.35604)|null|
 |**2026-10-26**|**Test-Time Confidence Adaptation under RL-Induced Trajectory Shift**|Zhenzhen Ren et.al.|[2610.35500](http://arxiv.org/abs/2610.35500)|null|
 |**2026-10-26**|**Skill $^{\infty}$ : Recursive Self-Improvement for Agent Skill Optimization**|Wangcheng Tao et.al.|[2610.35434](http://arxiv.org/abs/2610.35434)|null|
