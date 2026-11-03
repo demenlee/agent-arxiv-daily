@@ -244,3 +244,18 @@ AI evaluators favor job applications written by certain AI models, independent o
 LLM Recommenders Produce Demographic Inequality Through Content Preferences
 Dynamical Memory Transformer: Selective Recurrent Memories with Constant Cost Attention
 Open-Weight MLLMs Cannot Compare What They Cannot Name
+From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles
+Tracing the Scientific Discovery Capacity of LLMs to Their Training Data
+VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations
+RASP: Read-All, Sparse-Plasticity Continual Learning in a Stationary-Size LoRA
+LODox: A Web-Based Platform for Cultural Heritage Linked Data Discovery
+NormMoX: A Normative Mixture of Experts for Explainable Autism Classification from Structural and Functional MRI
+MultiInpaintCOCO: Fine-Grained Visual Understanding in Multiple Languages
+Specificity Bias and the Wikipedia Paradox: An xAI Analysis of AI Text Detectors under Domain Shift
+Cold-Start Pricing of LLM Services under Two-Sided Learning
+Spacetime Emergence in the Memory of a Learning Agent
+SNAP: Semantic Navigation Among Pedestrians
+Policy Iteration over Terminal Cost Functions: From LQR to MPC
+Inferring Transferable Rewards via Active Inverse Reinforcement Learning
+DeepWaveRL: Self-Supervised Full Waveform Inversion via Reinforcement Learning
+From PID to Reinforcement Learning in Building HVAC Control: A Control-Architecture Review of Tuning Strategies, Formulations, and Deployment Trade-offs
