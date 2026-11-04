@@ -259,3 +259,15 @@ Policy Iteration over Terminal Cost Functions: From LQR to MPC
 Inferring Transferable Rewards via Active Inverse Reinforcement Learning
 DeepWaveRL: Self-Supervised Full Waveform Inversion via Reinforcement Learning
 From PID to Reinforcement Learning in Building HVAC Control: A Control-Architecture Review of Tuning Strategies, Formulations, and Deployment Trade-offs
+CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting
+Noisy Issues, Noisy Results: Mislabeling in Information Retrieval-based Bug Localization
+Wonder 4: A Mixture-of-Experts Recipe for Image Quality Enhancement
+The Geometry of Ignorance: Detecting Suppressed Knowledge in LLMs through Activation Fragmentation
+Factorized MLLM Embeddings for Composed Image Retrieval
+What Does the Model See? Representation Validity in Multimodal LLM-Based Video Analysis
+DSL-Bench: Evaluating and Explaining LLM Code Generation Across Domain-Specific Languages
+Creating Power Flexibility in Datacenters via Query Routing
+From Opinions to Commitments: Unstable Assignments and Silent Choices in AI-Mediated Proposals
+WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation
+Found by Search, Broken by a Shortcut: Transfer and Tampering of Searched Intrinsic Rewards
+Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional Sampling
