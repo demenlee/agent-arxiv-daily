@@ -271,3 +271,16 @@ From Opinions to Commitments: Unstable Assignments and Silent Choices in AI-Medi
 WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation
 Found by Search, Broken by a Shortcut: Transfer and Tampering of Searched Intrinsic Rewards
 Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional Sampling
+A Framework for Context Enrichment and Selective Robustness in LLM Social Agents
+BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories
+Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure
+Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs
+Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers
+SAUCE: Summary Analysis Using Conversation Entailment
+LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting
+Measuring Risk, Not Harm: Detecting Psychological Harm Risk Factors in LLM Conversations
+Benchmarking Fine-Grained Visual Reasoning for Remote Sensing in Urban Management
+Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation
+Dynamic Shape Control of Soft Trunk Robots
+Neural Network-based Control Systems with Application to Flight Control, From Classical Neural Control to Reinforcement Learning
+Beyond Terminal Constraints: Reliable Robot Control with Learned Safe Sets
