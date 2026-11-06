@@ -284,3 +284,10 @@ Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Es
 Dynamic Shape Control of Soft Trunk Robots
 Neural Network-based Control Systems with Application to Flight Control, From Classical Neural Control to Reinforcement Learning
 Beyond Terminal Constraints: Reliable Robot Control with Learned Safe Sets
+CascadeFilter: Cost-Efficient Semantic Filtering with Joint Threshold Selection
+Information Elicitation by Ordinal Agreement
+Should You Split Decode? Disaggregation Across Future Models and Accelerators
+Signals, Evidence, and Context: User Scrutiny in Real-World LLM Conversations
+Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling
+Describe Your Facial Expressions by Linking Image Encoders and Large Language Models
+Value-oriented policy distillation for interpretable wind farm power control
