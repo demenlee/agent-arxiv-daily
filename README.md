@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.11.06
+### Automatically Updated on 2026.11.07
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -5591,7 +5591,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -5602,21 +5602,15 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
 |**2026-11-05**|**StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning**|Yang Ouyang et.al.|[2611.08403](http://arxiv.org/abs/2611.08403)|null|
 |**2026-11-05**|**FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning**|Ali Mohammadi Ruzbahani et.al.|[2611.08383](http://arxiv.org/abs/2611.08383)|null|
-|**2026-11-05**|**CascadeFilter: Cost-Efficient Semantic Filtering with Joint Threshold Selection**|Yanji He et.al.|[2611.08367](http://arxiv.org/abs/2611.08367)|null|
-|**2026-11-05**|**Information Elicitation by Ordinal Agreement**|Yiling Chen et.al.|[2611.08366](http://arxiv.org/abs/2611.08366)|null|
 |**2026-11-05**|**StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference**|Jake Hyun et.al.|[2611.08363](http://arxiv.org/abs/2611.08363)|null|
 |**2026-11-05**|**Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation**|Ali Sarabadani et.al.|[2611.08315](http://arxiv.org/abs/2611.08315)|null|
 |**2026-11-05**|**RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines**|Roko Parac et.al.|[2611.08308](http://arxiv.org/abs/2611.08308)|null|
-|**2026-11-05**|**Should You Split Decode? Disaggregation Across Future Models and Accelerators**|Ramyad Hadidi et.al.|[2611.08299](http://arxiv.org/abs/2611.08299)|null|
 |**2026-11-05**|**AutoCompress: Automated Hardware-Guided Model Compression**|Sheldon Liang et.al.|[2611.08290](http://arxiv.org/abs/2611.08290)|null|
 |**2026-11-05**|**A Generative Model of Contextual Integrity: Appropriate vs. Inappropriate Information Sharing**|Omer Ebead et.al.|[2611.08284](http://arxiv.org/abs/2611.08284)|null|
-|**2026-11-05**|**Signals, Evidence, and Context: User Scrutiny in Real-World LLM Conversations**|Ahana Biswas et.al.|[2611.08232](http://arxiv.org/abs/2611.08232)|null|
 |**2026-11-05**|**From Twisted Facts to Rogue Agents: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?**|Hanyu Qiu et.al.|[2611.08231](http://arxiv.org/abs/2611.08231)|null|
 |**2026-11-05**|**Agent-R $^2$ : Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis**|Teng Pan et.al.|[2611.08219](http://arxiv.org/abs/2611.08219)|null|
 |**2026-11-05**|**Building Barricades: Red-Teaming Agentic Biosynthesis Planning**|Nicholas Roehner et.al.|[2611.08218](http://arxiv.org/abs/2611.08218)|null|
 |**2026-11-05**|**ProQuant: Progressive Quantization-aware Training for Edge MLLMs**|Yufei Xue et.al.|[2611.08216](http://arxiv.org/abs/2611.08216)|null|
-|**2026-11-05**|**Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling**|Gizem Mert et.al.|[2611.08185](http://arxiv.org/abs/2611.08185)|null|
-|**2026-11-05**|**Describe Your Facial Expressions by Linking Image Encoders and Large Language Models**|Yujian Yuan et.al.|[2611.08138](http://arxiv.org/abs/2611.08138)|null|
 |**2026-11-04**|**On Turn-Level Best-of-N Sampling for Scaling LLM Agents**|Jalaj Bhandari et.al.|[2611.06868](http://arxiv.org/abs/2611.06868)|null|
 |**2026-11-04**|**CompressionBench: How can your coding agents compress LLMs?**|Xinrui Zhong et.al.|[2611.06858](http://arxiv.org/abs/2611.06858)|null|
 |**2026-11-04**|**ServerBench: How can your coding agents design specialized LLM serving systems?**|Xinrui Zhong et.al.|[2611.06841](http://arxiv.org/abs/2611.06841)|null|
@@ -11074,7 +11068,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -11083,13 +11077,11 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-05**|**Latent RL Priors for Data-Efficient Dexterous Manipulation**|Yixiao Wang et.al.|[2611.08458](http://arxiv.org/abs/2611.08458)|null|
 |**2026-11-05**|**Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO**|Zeyu Leo Liu et.al.|[2611.08453](http://arxiv.org/abs/2611.08453)|null|
 |**2026-11-05**|**Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning**|Chenruo Liu et.al.|[2611.08414](http://arxiv.org/abs/2611.08414)|null|
-|**2026-11-05**|**Information Elicitation by Ordinal Agreement**|Yiling Chen et.al.|[2611.08366](http://arxiv.org/abs/2611.08366)|null|
 |**2026-11-05**|**SHORE: Stability-Hybrid On-Policy Reinforcement Learning for Online Bin Packing**|Chang Shi et.al.|[2611.08364](http://arxiv.org/abs/2611.08364)|null|
 |**2026-11-05**|**Discovering Learning Rules that Shape Others**|Hong Jun Lee et.al.|[2611.08335](http://arxiv.org/abs/2611.08335)|null|
 |**2026-11-05**|**RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines**|Roko Parac et.al.|[2611.08308](http://arxiv.org/abs/2611.08308)|null|
 |**2026-11-05**|**ManimCode: Learning Visual Self-Correction for Educational Animation**|Zhengyang Liang et.al.|[2611.08294](http://arxiv.org/abs/2611.08294)|null|
 |**2026-11-05**|**Accelerating Safe Reinforcement Learning with Massive Parallelism**|Joonyoung Lim et.al.|[2611.08273](http://arxiv.org/abs/2611.08273)|null|
-|**2026-11-05**|**Value-oriented policy distillation for interpretable wind farm power control**|Max Bruninx et.al.|[2611.08245](http://arxiv.org/abs/2611.08245)|null|
 |**2026-11-05**|**FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning**|Haitao Lin et.al.|[2611.08240](http://arxiv.org/abs/2611.08240)|null|
 |**2026-11-05**|**Agent-R $^2$ : Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis**|Teng Pan et.al.|[2611.08219](http://arxiv.org/abs/2611.08219)|null|
 |**2026-11-05**|**Detecting Silent Faults at the Environment-Trainer Boundary in Reinforcement Learning**|Zuo Gou et.al.|[2611.08144](http://arxiv.org/abs/2611.08144)|null|
@@ -16598,7 +16590,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
 
 Notes: 
 
