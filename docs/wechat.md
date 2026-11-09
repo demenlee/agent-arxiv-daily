@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.11.08
+> Updated on 2026.11.09
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -2072,7 +2072,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-07-09, **OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice**, Qian Jiang et.al., Paper: [http://arxiv.org/abs/2607.08423](http://arxiv.org/abs/2607.08423)
 - 2025-08-08, **OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks**, Zixuan Wang et.al., Paper: [http://arxiv.org/abs/2508.05614](http://arxiv.org/abs/2508.05614)
 - 2026-02-02, **OmniCode: A Benchmark for Evaluating Software Engineering Agents**, Atharv Sonwane et.al., Paper: [http://arxiv.org/abs/2602.02262](http://arxiv.org/abs/2602.02262)
-- 2026-10-26, **OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**,  Xiaomi Embodied Intelligence Team et.al., Paper: [http://arxiv.org/abs/2610.36013](http://arxiv.org/abs/2610.36013)
+- 2026-10-26, **OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**, Xiaomi Embodied Intelligence Team et.al., Paper: [http://arxiv.org/abs/2610.36013](http://arxiv.org/abs/2610.36013)
 - 2025-11-17, **Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents**, Piaohong Wang et.al., Paper: [http://arxiv.org/abs/2511.13593](http://arxiv.org/abs/2511.13593)
 - 2026-01-28, **OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution**, Le Zhang et.al., Paper: [http://arxiv.org/abs/2601.20380](http://arxiv.org/abs/2601.20380)
 - 2026-07-29, **OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding**, Jingbo Zhou et.al., Paper: [http://arxiv.org/abs/2607.27155](http://arxiv.org/abs/2607.27155)
@@ -3678,7 +3678,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-12-11, **EpiPlanAgent: Agentic Automated Epidemic Response Planning**, Kangkun Mao et.al., Paper: [http://arxiv.org/abs/2512.10313](http://arxiv.org/abs/2512.10313)
 - 2026-06-11, **EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis**, Harihara Muralidharan et.al., Paper: [http://arxiv.org/abs/2606.13602](http://arxiv.org/abs/2606.13602)
 - 2026-09-21, **Epi-Logic: A Conceptual Framework for Epistemic Runtime Control, Schema Validity Checking, and Controlled Accommodation in Autonomous AI Agents**, Boris Wetzk et.al., Paper: [http://arxiv.org/abs/2609.24755](http://arxiv.org/abs/2609.24755)
-- 2026-11-04, **EnzymeRSI: A dual-loop recursive self-improvement system for enzyme design**,  Genoria AI Team et.al., Paper: [http://arxiv.org/abs/2611.06321](http://arxiv.org/abs/2611.06321)
+- 2026-11-04, **EnzymeRSI: A dual-loop recursive self-improvement system for enzyme design**, Genoria AI Team et.al., Paper: [http://arxiv.org/abs/2611.06321](http://arxiv.org/abs/2611.06321)
 - 2026-08-14, **Envs-FORGE: Frontier-Optimized Reward-Grounded Environment Synthesis for Agent RL**, Xiaojun Wu et.al., Paper: [http://arxiv.org/abs/2608.14312](http://arxiv.org/abs/2608.14312)
 - 2026-03-25, **Environment-Grounded Multi-Agent Workflow for Autonomous Penetration Testing**, Michael Somma et.al., Paper: [http://arxiv.org/abs/2603.24221](http://arxiv.org/abs/2603.24221)
 - 2026-06-16, **Environment-Grounded Automated Prompt Optimization for LLM Game Agents**, Rean Clive Fernandes et.al., Paper: [http://arxiv.org/abs/2606.17838](http://arxiv.org/abs/2606.17838)
@@ -5589,7 +5589,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-28, **"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts**, Shenao Wang et.al., Paper: [http://arxiv.org/abs/2603.27204](http://arxiv.org/abs/2603.27204)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -11064,7 +11064,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-20, **"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**, Alexandra Neagu et.al., Paper: [http://arxiv.org/abs/2602.18372](http://arxiv.org/abs/2602.18372)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -15949,7 +15949,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-08-25, **Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning**, Lars van der Laan et.al., Paper: [http://arxiv.org/abs/2608.24858](http://arxiv.org/abs/2608.24858)
 - 2026-07-29, **Belief-Guided Decision Making with Uncertainty Gating in the Game of Go**, Mehrad Yaghoubi et.al., Paper: [http://arxiv.org/abs/2607.26946](http://arxiv.org/abs/2607.26946)
 - 2026-10-26, **Belief-Conditioned Multi-Agent Actor Critic for Decentralized LLM Collaboration**, Tianle Chen et.al., Paper: [http://arxiv.org/abs/2610.35398](http://arxiv.org/abs/2610.35398)
-- 2026-11-03, **Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling**,  Kling Team et.al., Paper: [http://arxiv.org/abs/2611.04916](http://arxiv.org/abs/2611.04916)
+- 2026-11-03, **Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling**, Kling Team et.al., Paper: [http://arxiv.org/abs/2611.04916](http://arxiv.org/abs/2611.04916)
 - 2026-09-28, **Behavioral Foundation Models for Quality Diversity**, Nazim Bendib et.al., Paper: [http://arxiv.org/abs/2609.35615](http://arxiv.org/abs/2609.35615)
 - 2026-04-03, **Behavior-Constrained Reinforcement Learning with Receding-Horizon Credit Assignment for High-Performance Control**, Siwei Ju et.al., Paper: [http://arxiv.org/abs/2604.03023](http://arxiv.org/abs/2604.03023)
 - 2026-05-20, **Behavior-Consistent Deep Reinforcement Learning**, Marcel Hussing et.al., Paper: [http://arxiv.org/abs/2605.21214](http://arxiv.org/abs/2605.21214)
@@ -16584,7 +16584,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 - 2026-04-17, **$G_2$ -structures as Octonion Algebras**, Isak Sundelius et.al., Paper: [http://arxiv.org/abs/2604.15966](http://arxiv.org/abs/2604.15966)
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 Notes: 
 
