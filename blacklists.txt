@@ -306,3 +306,20 @@ Multimodal Training with Knowledge Traction for Video Anomaly Detection
 Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning
 Safety-Focused Reinforcement Learning Using Risk-Sensitive Coupled Control
 Safe Reinforcement Learning via Probabilistic Option Shielding
+Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs
+Simulating Vein Compressibility for Ultrasound-Guided Femoral Access: Speed, Accuracy, and Phantom Validation
+Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients
+Input and Horizon Dependent Structural Fidelity in Chunk Coupled Spiking Networks
+PORT: Preference Optimization via Robust Token-Level Reweighting
+The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?
+Inference Validation for Regulated AI: Building a Decision Pipeline on NVIDIA AIPerf
+Will AI mess my RTL? A snapshot-based approach to verifying AI-written RTL
+A local language model layered with rule-based and neural detectors for clinical text de-identification: an open-source toolkit and evaluation
+Beyond Sunny Skies: Using Large Language Models to Predict Urban Traffic in Adverse Weather
+Reshaping Checkpoint-Induced Power Variations Through Inference Workload Scheduling
+Fairness in Explainable AI Narratives: Decomposing Social Disparities in LLM-Generated Explanations
+Textraction: Unified Text-Guided Speaker Extraction and Enhancement for Single- and Multi-Channel Audio
+To SIMD or Not to SIMD: Comparing RVV vs. CGRA SoCs for Non-Linear Functions in AI
+Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels
+VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess
+K-prop: Deep Online Learning by Backpropagating Temporal Kernels
