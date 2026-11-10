@@ -291,3 +291,18 @@ Signals, Evidence, and Context: User Scrutiny in Real-World LLM Conversations
 Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling
 Describe Your Facial Expressions by Linking Image Encoders and Large Language Models
 Value-oriented policy distillation for interpretable wind farm power control
+GroundWork: Bridging Human and LLM Reasoning Through a Structured Argumentation Model
+Are These Programmers Ripe Enough to Eat? Evaluating How LLMs Handle Lexical Knowledge Conflicts in Translation
+Strategic Competition and Convergence in LLM Leaderboards
+ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models
+AnimWeb-Bench: Benchmarking Animated Webpage Code Generation from Videos
+Zero-Shot Benchmarking of Unified Multimodal Models for Shallow-Water UAV Image Distortion Assessment and Restoration
+One Run Is Not Enough: A Monte Carlo Protocol for Evaluating LLM Reliability on Data Science Tasks
+Attend at the Right Resolution: Head-Adaptive Sparse Attention via Query-Key Interaction Structure
+Hostages
+Can a Language Model Write the Weights? An Empirical Study of LLM-Written Scoring Networks for Column Generation and MILP Branching, with a Bus-Driver Scheduling Application
+CID: Measuring Cognitive Work Through Semantic State Change
+Multimodal Training with Knowledge Traction for Video Anomaly Detection
+Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning
+Safety-Focused Reinforcement Learning Using Risk-Sensitive Coupled Control
+Safe Reinforcement Learning via Probabilistic Option Shielding
