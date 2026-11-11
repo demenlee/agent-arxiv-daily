@@ -323,3 +323,16 @@ To SIMD or Not to SIMD: Comparing RVV vs. CGRA SoCs for Non-Linear Functions in 
 Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels
 VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess
 K-prop: Deep Online Learning by Backpropagating Temporal Kernels
+WAM is capable in BEHAVIOR-1K: the 2nd-place solution to the 2026 BEHAVIOR Challenge
+AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models
+Can AI be a 'Researcher Without Borders'? Auditing Bias in AI-Assisted Social Science Research about China and the US
+LM-SimBench: A Unified Framework, Dataset, and Benchmark for Large Language Model Training Simulation
+The zero-sum constant $\mathsf{s}_p^*$ and inverse problem
+Model-Based Authoring of SOC Simulation Exercises for Cybersecurity Education
+Benchmarking large language models for parameter-level structural identifiability classification in epidemic ODE models
+BARS: Budget-Aware Sequential Sampling with Refusal for Majority Identification under Unknown Distributions
+Model-Free Runtime Measurement of Task-Relevant Information
+Resilient Integrated Access and Backhaul Network Planning via Graph Neural Network Curriculum Learning
+Integrating Action Prefix Prediction and Alignment Across Modalities for Multimodal Reinforcement Learning
+Omni-JEV: Text and Dual-Stream Speech Decisions
+Quantum-Assisted Generative Anomaly Detection: A Dimension-Controlled Study of Latent Refinement
