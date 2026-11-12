@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.11.11
+### Automatically Updated on 2026.11.12
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -17,7 +17,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-11-10**|**Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation**|Lirui Luo et.al.|[2611.14009](http://arxiv.org/abs/2611.14009)|null|
-|**2026-11-10**|**WAM is capable in BEHAVIOR-1K: the 2nd-place solution to the 2026 BEHAVIOR Challenge**|Yelin He et.al.|[2611.13818](http://arxiv.org/abs/2611.13818)|null|
 |**2026-11-10**|**The RSI Tax: When Recursive Self-Improvement Is Not Worth the Cost**|Yitong Zhang et.al.|[2611.13524](http://arxiv.org/abs/2611.13524)|null|
 |**2026-11-09**|**NCP: Verifier-Guided Optimization of Weight-Space Control Policies**|Ekrem Aksoy et.al.|[2611.13236](http://arxiv.org/abs/2611.13236)|null|
 |**2026-11-09**|**SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery**|Weimin Wu et.al.|[2611.12552](http://arxiv.org/abs/2611.12552)|null|
@@ -5612,18 +5611,11 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-11-10**|**ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows**|Kaiyuan Hou et.al.|[2611.14492](http://arxiv.org/abs/2611.14492)|null|
 |**2026-11-10**|**Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models**|Dong Han et.al.|[2611.14382](http://arxiv.org/abs/2611.14382)|null|
-|**2026-11-10**|**AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models**|Zihan Chen et.al.|[2611.14333](http://arxiv.org/abs/2611.14333)|null|
-|**2026-11-10**|**Can AI be a 'Researcher Without Borders'? Auditing Bias in AI-Assisted Social Science Research about China and the US**|Yuan Zhang et.al.|[2611.14288](http://arxiv.org/abs/2611.14288)|null|
-|**2026-11-10**|**LM-SimBench: A Unified Framework, Dataset, and Benchmark for Large Language Model Training Simulation**|Yu Dong et.al.|[2611.14285](http://arxiv.org/abs/2611.14285)|null|
 |**2026-11-10**|**Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning**|Wenqi Zhou et.al.|[2611.14263](http://arxiv.org/abs/2611.14263)|null|
-|**2026-11-10**|**The zero-sum constant $\mathsf{s}_p^*$ and inverse problem**|Cong Lin et.al.|[2611.14248](http://arxiv.org/abs/2611.14248)|null|
 |**2026-11-10**|**PARLEY: Evaluating LLM Collaboration Through Cooperative Asymmetric Puzzles**|Javier Hernandez et.al.|[2611.14242](http://arxiv.org/abs/2611.14242)|null|
-|**2026-11-10**|**Model-Based Authoring of SOC Simulation Exercises for Cybersecurity Education**|Felix Härer et.al.|[2611.14227](http://arxiv.org/abs/2611.14227)|null|
 |**2026-11-10**|**SHARP: Semantic Hierarchical Agentic Reasoning for Next POI Prediction with Dynamic Memory**|Yuhang Zhan et.al.|[2611.14220](http://arxiv.org/abs/2611.14220)|null|
 |**2026-11-10**|**Verifiable Agentic Traffic Class: A Policed Quality-of-Service Mechanism for Agentic AI Traffic, Evaluated from Simulation to Real-Kernel Adversarial Testing**|Naveen Babu Narayanan Nair et.al.|[2611.14211](http://arxiv.org/abs/2611.14211)|null|
 |**2026-11-10**|**Breakdown of Autoregressive Multi-Step Reasoning Under Concentrated vs. Diffuse Attention Head Dropout**|Karol Struniawski et.al.|[2611.14209](http://arxiv.org/abs/2611.14209)|null|
-|**2026-11-10**|**Benchmarking large language models for parameter-level structural identifiability classification in epidemic ODE models**|Geunsoo Jang et.al.|[2611.14184](http://arxiv.org/abs/2611.14184)|null|
-|**2026-11-10**|**BARS: Budget-Aware Sequential Sampling with Refusal for Majority Identification under Unknown Distributions**|Shenxi Liu et.al.|[2611.14171](http://arxiv.org/abs/2611.14171)|null|
 |**2026-11-10**|**From Search to Decision: How Post-Training Shapes Information-Seeking Capabilities in Large Language Models**|Haohang Huang et.al.|[2611.14149](http://arxiv.org/abs/2611.14149)|null|
 |**2026-11-10**|**Hx2Dx: From Anamnesis to Diagnosis - A Multimodal Arena for Conversational Clinical Reasoning in LLMs**|Federico Ravenda et.al.|[2611.14122](http://arxiv.org/abs/2611.14122)|null|
 |**2026-11-10**|**TAMEing the Open-World Personalization: Towards Open-Set Personalized MLLM Assistant**|Rongpei Hong et.al.|[2611.14118](http://arxiv.org/abs/2611.14118)|null|
@@ -11125,20 +11117,15 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-10**|**Recurrent Modular Structure in Spiking Neural Network Reinforcement Learning**|Vikram Ramavarapu et.al.|[2611.14262](http://arxiv.org/abs/2611.14262)|null|
 |**2026-11-10**|**Koopman Model-Based Reinforcement Learning**|Wenjian Hao et.al.|[2611.14186](http://arxiv.org/abs/2611.14186)|null|
 |**2026-11-10**|**An Augmented Lagrangian Approach to Lifted Bellman Linear Programming**|Jongchan Park et.al.|[2611.14183](http://arxiv.org/abs/2611.14183)|null|
-|**2026-11-10**|**Model-Free Runtime Measurement of Task-Relevant Information**|Dimitris Panagopoulos et.al.|[2611.14111](http://arxiv.org/abs/2611.14111)|null|
 |**2026-11-10**|**Opportunity-Cost Option-Critic: Adaptive Switching Costs for Robust Hierarchical Reinforcement Learning**|Khaled Ammoura et.al.|[2611.14099](http://arxiv.org/abs/2611.14099)|null|
-|**2026-11-10**|**Resilient Integrated Access and Backhaul Network Planning via Graph Neural Network Curriculum Learning**|Jie Zhang et.al.|[2611.14042](http://arxiv.org/abs/2611.14042)|null|
 |**2026-11-10**|**Margin-Guided Token Credit for Reinforcement Learning with Verifiable Rewards**|Chi Liu et.al.|[2611.14015](http://arxiv.org/abs/2611.14015)|null|
 |**2026-11-10**|**Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation**|Lirui Luo et.al.|[2611.14009](http://arxiv.org/abs/2611.14009)|null|
 |**2026-11-10**|**DynamAuction: A Reinforcement Learning Environment for Repeated Auctions with Dynamic Value**|Eugénie Patard et.al.|[2611.14000](http://arxiv.org/abs/2611.14000)|null|
 |**2026-11-10**|**Temporal Behavior Trees for Reinforcement Learning: Specifications as Rewards, Curricula, and Diagnostics**|Vladimir Krsmanovic et.al.|[2611.13993](http://arxiv.org/abs/2611.13993)|null|
 |**2026-11-10**|**EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding**|Changti Wu et.al.|[2611.13907](http://arxiv.org/abs/2611.13907)|null|
-|**2026-11-10**|**Integrating Action Prefix Prediction and Alignment Across Modalities for Multimodal Reinforcement Learning**|Sijie Xu et.al.|[2611.13782](http://arxiv.org/abs/2611.13782)|null|
-|**2026-11-10**|**Omni-JEV: Text and Dual-Stream Speech Decisions**|Shengzhou Kong et.al.|[2611.13777](http://arxiv.org/abs/2611.13777)|null|
 |**2026-11-10**|**TRUER: Test-Time Reward Correction Using an Error-Aware Rectifier for Reinforcement Learning**|Mingxiang Shen et.al.|[2611.13714](http://arxiv.org/abs/2611.13714)|null|
 |**2026-11-10**|**Broad-Persistent Advising in Interactive Reinforcement Learning via Latent State Encoding**|Zhuoran Liang et.al.|[2611.13712](http://arxiv.org/abs/2611.13712)|null|
 |**2026-11-10**|**Bootstrapped On-Policy Distillation**|Yue Wu et.al.|[2611.13680](http://arxiv.org/abs/2611.13680)|null|
-|**2026-11-10**|**Quantum-Assisted Generative Anomaly Detection: A Dimension-Controlled Study of Latent Refinement**|Thesath Wijayasiri et.al.|[2611.13671](http://arxiv.org/abs/2611.13671)|null|
 |**2026-11-09**|**Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning**|Haozhi Yuan et.al.|[2611.12886](http://arxiv.org/abs/2611.12886)|null|
 |**2026-11-09**|**Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning**|Xinjie Shen et.al.|[2611.12865](http://arxiv.org/abs/2611.12865)|null|
 |**2026-11-09**|**MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning**|Jihwan Jeong et.al.|[2611.12825](http://arxiv.org/abs/2611.12825)|null|

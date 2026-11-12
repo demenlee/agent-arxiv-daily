@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.11.11
+> Updated on 2026.11.12
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -261,7 +261,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-07-25, **WCM: World-Cognition Model for Generalizable Human-Robot Interaction**, Yuzhen Chen et.al., Paper: [http://arxiv.org/abs/2607.22999](http://arxiv.org/abs/2607.22999)
 - 2025-09-28, **WAREX: Web Agent Reliability Evaluation on Existing Benchmarks**, Su Kara et.al., Paper: [http://arxiv.org/abs/2510.03285](http://arxiv.org/abs/2510.03285)
 - 2026-05-14, **WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections**, Tri Cao et.al., Paper: [http://arxiv.org/abs/2605.15030](http://arxiv.org/abs/2605.15030)
-- 2026-11-10, **WAM is capable in BEHAVIOR-1K: the 2nd-place solution to the 2026 BEHAVIOR Challenge**, Yelin He et.al., Paper: [http://arxiv.org/abs/2611.13818](http://arxiv.org/abs/2611.13818)
 - 2026-01-20, **VulnResolver: A Hybrid Agent Framework for LLM-Based Automated Vulnerability Issue Resolution**, Mingming Zhang et.al., Paper: [http://arxiv.org/abs/2601.13933](http://arxiv.org/abs/2601.13933)
 - 2025-12-08, **VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection**, Yuzhou Nie et.al., Paper: [http://arxiv.org/abs/2512.07533](http://arxiv.org/abs/2512.07533)
 - 2026-04-17, **VoxMind: An End-to-End Agentic Spoken Dialogue System**, Tianle Liang et.al., Paper: [http://arxiv.org/abs/2604.15710](http://arxiv.org/abs/2604.15710)
@@ -5609,7 +5608,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-28, **"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts**, Shenao Wang et.al., Paper: [http://arxiv.org/abs/2603.27204](http://arxiv.org/abs/2603.27204)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -6346,7 +6345,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-06-30, **Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action**, Ben Slater et.al., Paper: [http://arxiv.org/abs/2606.31916](http://arxiv.org/abs/2606.31916)
 - 2026-03-04, **Theory Discovery in Social Networks: Automating ERGM Specification with Large Language Models**, Yidan Sun et.al., Paper: [http://arxiv.org/abs/2603.04306](http://arxiv.org/abs/2603.04306)
 - 2026-05-01, **Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring**, Indraneil Paul et.al., Paper: [http://arxiv.org/abs/2605.00754](http://arxiv.org/abs/2605.00754)
-- 2026-11-10, **The zero-sum constant $\mathsf{s}_p^*$ and inverse problem**, Cong Lin et.al., Paper: [http://arxiv.org/abs/2611.14248](http://arxiv.org/abs/2611.14248)
 - 2026-09-10, **The widening evaluation gap in medical large language model research 2023 to 2026**, Raad Bin Tareaf et.al., Paper: [http://arxiv.org/abs/2609.11770](http://arxiv.org/abs/2609.11770)
 - 2026-01-16, **The unreasonable effectiveness of pattern matching**, Gary Lupyan et.al., Paper: [http://arxiv.org/abs/2601.11432](http://arxiv.org/abs/2601.11432)
 - 2026-08-17, **The ultimate carbon cost of a ChatGPT query**, Paul Kron et.al., Paper: [http://arxiv.org/abs/2608.16657](http://arxiv.org/abs/2608.16657)
@@ -8064,7 +8062,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-06-09, **Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models**, Peiqi Jia et.al., Paper: [http://arxiv.org/abs/2606.11074](http://arxiv.org/abs/2606.11074)
 - 2025-11-06, **Modeling Clinical Uncertainty in Radiology Reports: from Explicit Uncertainty Markers to Implicit Reasoning Pathways**, Paloma Rabaey et.al., Paper: [http://arxiv.org/abs/2511.04506](http://arxiv.org/abs/2511.04506)
 - 2026-07-31, **ModelEquivBench: Certifying Multi-Relational Evaluation of LLM-Generated Optimization Models**, Penglin Zhu et.al., Paper: [http://arxiv.org/abs/2607.29431](http://arxiv.org/abs/2607.29431)
-- 2026-11-10, **Model-Based Authoring of SOC Simulation Exercises for Cybersecurity Education**, Felix Härer et.al., Paper: [http://arxiv.org/abs/2611.14227](http://arxiv.org/abs/2611.14227)
 - 2026-03-10, **Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions**, Mingyang Song et.al., Paper: [http://arxiv.org/abs/2603.09938](http://arxiv.org/abs/2603.09938)
 - 2026-06-24, **Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment**, Aditya Singh et.al., Paper: [http://arxiv.org/abs/2606.26071](http://arxiv.org/abs/2606.26071)
 - 2026-08-24, **Modalities Should Talk to Each Other: Dual-Stream Multimodal Learning for Long-Horizon Influenza Forecasting**, Seyed Mohammad Hossein Hashemi et.al., Paper: [http://arxiv.org/abs/2608.23373](http://arxiv.org/abs/2608.23373)
@@ -8562,7 +8559,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-10-07, **LOCAA: An Agentic System for Automated Lossy Compressor Tuning**, Khondoker Mirazul Mumenin et.al., Paper: [http://arxiv.org/abs/2610.10487](http://arxiv.org/abs/2610.10487)
 - 2026-06-25, **LMs as Task-Specific Knowledge Bases: An Interpretability Analysis**, Amit Elhelo et.al., Paper: [http://arxiv.org/abs/2606.27237](http://arxiv.org/abs/2606.27237)
 - 2026-05-13, **LMPath: Language-Mediated Priors and Path Generation for Aerial Exploration**, Jonathan A. Diller et.al., Paper: [http://arxiv.org/abs/2605.13782](http://arxiv.org/abs/2605.13782)
-- 2026-11-10, **LM-SimBench: A Unified Framework, Dataset, and Benchmark for Large Language Model Training Simulation**, Yu Dong et.al., Paper: [http://arxiv.org/abs/2611.14285](http://arxiv.org/abs/2611.14285)
 - 2026-06-26, **LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior**, Qinhong Zhou et.al., Paper: [http://arxiv.org/abs/2606.28182](http://arxiv.org/abs/2606.28182)
 - 2026-04-22, **LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model**, Inclusion AI et.al., Paper: [http://arxiv.org/abs/2604.20796](http://arxiv.org/abs/2604.20796)
 - 2026-05-28, **LLUMI: Improving LLM Writing Assistance for Mental Health Support with Online Community Feedback**, Jiwon Kim et.al., Paper: [http://arxiv.org/abs/2605.30273](http://arxiv.org/abs/2605.30273)
@@ -10303,7 +10299,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-05-01, **Can Coding Agents Reproduce Findings in Computational Materials Science?**, Ziyang Huang et.al., Paper: [http://arxiv.org/abs/2605.00803](http://arxiv.org/abs/2605.00803)
 - 2026-07-01, **Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use**, Song-Lin Lv et.al., Paper: [http://arxiv.org/abs/2607.01084](http://arxiv.org/abs/2607.01084)
 - 2026-01-09, **Can AI mediation improve democratic deliberation?**, Michael Henry Tessler et.al., Paper: [http://arxiv.org/abs/2601.05904](http://arxiv.org/abs/2601.05904)
-- 2026-11-10, **Can AI be a 'Researcher Without Borders'? Auditing Bias in AI-Assisted Social Science Research about China and the US**, Yuan Zhang et.al., Paper: [http://arxiv.org/abs/2611.14288](http://arxiv.org/abs/2611.14288)
 - 2025-12-29, **Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education**, Christopher Burger et.al., Paper: [http://arxiv.org/abs/2512.23587](http://arxiv.org/abs/2512.23587)
 - 2026-04-22, **Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs**, Mariano Barone et.al., Paper: [http://arxiv.org/abs/2604.20791](http://arxiv.org/abs/2604.20791)
 - 2026-08-02, **CallScreenBench: Benchmarking On-Device Models as Phone Secretaries**, Simiao Ren et.al., Paper: [http://arxiv.org/abs/2608.01033](http://arxiv.org/abs/2608.01033)
@@ -10528,7 +10523,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-24, **Between Rules and Reality: On the Context Sensitivity of LLM Moral Judgment**, Adrian Sauter et.al., Paper: [http://arxiv.org/abs/2603.23114](http://arxiv.org/abs/2603.23114)
 - 2026-03-31, **Bethe Ansatz with a Large Language Model**, Balázs Pozsgay et.al., Paper: [http://arxiv.org/abs/2603.29932](http://arxiv.org/abs/2603.29932)
 - 2026-09-18, **Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition**, Laurent Colbois et.al., Paper: [http://arxiv.org/abs/2609.21879](http://arxiv.org/abs/2609.21879)
-- 2026-11-10, **Benchmarking large language models for parameter-level structural identifiability classification in epidemic ODE models**, Geunsoo Jang et.al., Paper: [http://arxiv.org/abs/2611.14184](http://arxiv.org/abs/2611.14184)
 - 2026-04-01, **Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment**, Zhuchenyang Liu et.al., Paper: [http://arxiv.org/abs/2604.00913](http://arxiv.org/abs/2604.00913)
 - 2026-08-06, **Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents**, Tao Wang et.al., Paper: [http://arxiv.org/abs/2608.06312](http://arxiv.org/abs/2608.06312)
 - 2026-06-21, **Benchmarking Vision-Language Models for Microscopic Plant Image Understanding**, Tianqi Wei et.al., Paper: [http://arxiv.org/abs/2606.22497](http://arxiv.org/abs/2606.22497)
@@ -10599,7 +10593,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-04-24, **BERAG: Bayesian Ensemble Retrieval-Augmented Generation for Knowledge-based Visual Question Answering**, Jinghong Chen et.al., Paper: [http://arxiv.org/abs/2604.22678](http://arxiv.org/abs/2604.22678)
 - 2026-03-10, **BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2603.09961](http://arxiv.org/abs/2603.09961)
 - 2026-04-03, **BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**, Sean Wu et.al., Paper: [http://arxiv.org/abs/2604.03216](http://arxiv.org/abs/2604.03216)
-- 2026-11-10, **BARS: Budget-Aware Sequential Sampling with Refusal for Majority Identification under Unknown Distributions**, Shenxi Liu et.al., Paper: [http://arxiv.org/abs/2611.14171](http://arxiv.org/abs/2611.14171)
 - 2026-04-17, **BAGEL: Benchmarking Animal Knowledge Expertise in Language Models**, Jiacheng Shen et.al., Paper: [http://arxiv.org/abs/2604.16241](http://arxiv.org/abs/2604.16241)
 - 2026-03-25, **B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition**, Nishit Poddar et.al., Paper: [http://arxiv.org/abs/2603.24245](http://arxiv.org/abs/2603.24245)
 - 2026-05-21, **AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation**, Wenxuan Guo et.al., Paper: [http://arxiv.org/abs/2605.22816](http://arxiv.org/abs/2605.22816)
@@ -10963,7 +10956,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-07-30, **AI systems and the reproduction of (standard) language ideologies in World Englishes**, Kingsley Ugwuanyi et.al., Paper: [http://arxiv.org/abs/2607.28528](http://arxiv.org/abs/2607.28528)
 - 2026-04-09, **AI generates well-liked but templatic empathic responses**, Emma Gueorguieva et.al., Paper: [http://arxiv.org/abs/2604.08479](http://arxiv.org/abs/2604.08479)
 - 2026-06-29, **AI Premium**, Nicola Borri et.al., Paper: [http://arxiv.org/abs/2606.30583](http://arxiv.org/abs/2606.30583)
-- 2026-11-10, **AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models**, Zihan Chen et.al., Paper: [http://arxiv.org/abs/2611.14333](http://arxiv.org/abs/2611.14333)
 - 2026-02-19, **AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games**, Lance Ying et.al., Paper: [http://arxiv.org/abs/2602.17594](http://arxiv.org/abs/2602.17594)
 - 2026-06-22, **AI Exposure Scores: what they measure, what they miss, and what comes next**, Campbell Lund et.al., Paper: [http://arxiv.org/abs/2606.23633](http://arxiv.org/abs/2606.23633)
 - 2025-11-04, **AI Diffusion in Low Resource Language Countries**, Amit Misra et.al., Paper: [http://arxiv.org/abs/2511.02752](http://arxiv.org/abs/2511.02752)
@@ -11118,7 +11110,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-20, **"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**, Alexandra Neagu et.al., Paper: [http://arxiv.org/abs/2602.18372](http://arxiv.org/abs/2602.18372)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -12570,7 +12562,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-03, **Resolving Quantum Criticality in the Honeycomb Hubbard Model**, Fo-Hong Wang et.al., Paper: [http://arxiv.org/abs/2602.03656](http://arxiv.org/abs/2602.03656)
 - 2026-02-10, **Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure**, Chuan-Chi Lai et.al., Paper: [http://arxiv.org/abs/2602.10029](http://arxiv.org/abs/2602.10029)
 - 2025-12-23, **Resilient Packet Forwarding: A Reinforcement Learning Approach to Routing in Gaussian Interconnected Networks with Clustered Faults**, Mohammad Walid Charrwi et.al., Paper: [http://arxiv.org/abs/2512.20394](http://arxiv.org/abs/2512.20394)
-- 2026-11-10, **Resilient Integrated Access and Backhaul Network Planning via Graph Neural Network Curriculum Learning**, Jie Zhang et.al., Paper: [http://arxiv.org/abs/2611.14042](http://arxiv.org/abs/2611.14042)
 - 2025-11-17, **Resilient Distribution Network Planning against Dynamic Malicious Power Injection Attacks**, Hampei Sasahara et.al., Paper: [http://arxiv.org/abs/2511.13698](http://arxiv.org/abs/2511.13698)
 - 2026-02-05, **Residual Reinforcement Learning for Waste-Container Lifting Using Large-Scale Cranes with Underactuated Tools**, Qi Li et.al., Paper: [http://arxiv.org/abs/2602.05895](http://arxiv.org/abs/2602.05895)
 - 2026-08-07, **ResidencyRL: Reinforcement Learning in Simulated Clinical Environments**, Valentin Liévin et.al., Paper: [http://arxiv.org/abs/2608.07418](http://arxiv.org/abs/2608.07418)
@@ -12875,7 +12866,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-18, **Quantum-classical correspondence for spins at finite temperatures with application to Monte Carlo simulations**, A. El Mendili et.al., Paper: [http://arxiv.org/abs/2602.16501](http://arxiv.org/abs/2602.16501)
 - 2026-05-14, **Quantum-Secure Physical Unclonable Function enabled by Silicon Photonics Integrated Circuits**, G. Sarantoglou et.al., Paper: [http://arxiv.org/abs/2605.14959](http://arxiv.org/abs/2605.14959)
 - 2026-06-17, **Quantum-Classical Auxiliary-Field Quantum Monte Carlo at the Edge of Practicability**, Francesco Nappi et.al., Paper: [http://arxiv.org/abs/2606.19239](http://arxiv.org/abs/2606.19239)
-- 2026-11-10, **Quantum-Assisted Generative Anomaly Detection: A Dimension-Controlled Study of Latent Refinement**, Thesath Wijayasiri et.al., Paper: [http://arxiv.org/abs/2611.13671](http://arxiv.org/abs/2611.13671)
 - 2026-07-01, **Quantum vs. Classical Machine Learning: A Unified Empirical Comparison**, Chuanming Yu et.al., Paper: [http://arxiv.org/abs/2607.01197](http://arxiv.org/abs/2607.01197)
 - 2025-12-23, **Quantum vs thermal fluctuations in phase transitions of two-dimensional superconductors**, Andrea Ponticelli et.al., Paper: [http://arxiv.org/abs/2512.20476](http://arxiv.org/abs/2512.20476)
 - 2026-03-10, **Quantum spin ladder with ferromagnetic rungs in Bi $_2$CuO$_3$(SO$_4$ )**, Rodolfo A. Rangel Hernandez et.al., Paper: [http://arxiv.org/abs/2603.09442](http://arxiv.org/abs/2603.09442)
@@ -13400,7 +13390,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-04-09, **OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering**, Yiduo Jia et.al., Paper: [http://arxiv.org/abs/2604.08209](http://arxiv.org/abs/2604.08209)
 - 2026-04-07, **OmniDiagram: Advancing Unified Diagram Code Generation via Visual Interrogation Reward**, Haoyue Yang et.al., Paper: [http://arxiv.org/abs/2604.05514](http://arxiv.org/abs/2604.05514)
 - 2025-10-27, **Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences**, Zhuoran Jin et.al., Paper: [http://arxiv.org/abs/2510.23451](http://arxiv.org/abs/2510.23451)
-- 2026-11-10, **Omni-JEV: Text and Dual-Stream Speech Decisions**, Shengzhou Kong et.al., Paper: [http://arxiv.org/abs/2611.13777](http://arxiv.org/abs/2611.13777)
 - 2025-12-18, **Olaf: Bringing an Animated Character to Life in the Physical World**, David Müller et.al., Paper: [http://arxiv.org/abs/2512.16705](http://arxiv.org/abs/2512.16705)
 - 2026-07-26, **Offline-Online Curriculum RL for Multimodal Reasoning**, Wendi Deng et.al., Paper: [http://arxiv.org/abs/2607.23700](http://arxiv.org/abs/2607.23700)
 - 2024-05-30, **Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL**, Yu Luo et.al., Paper: [http://arxiv.org/abs/2405.18520](http://arxiv.org/abs/2405.18520)
@@ -13653,7 +13642,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-05-29, **Model-free LQG Control with Chance Constraints**, Arunava Naha et.al., Paper: [http://arxiv.org/abs/2605.31310](http://arxiv.org/abs/2605.31310)
 - 2022-11-22, **Model-based Trajectory Stitching for Improved Offline Reinforcement Learning**, Charles A. Hepburn et.al., Paper: [http://arxiv.org/abs/2211.11603](http://arxiv.org/abs/2211.11603)
 - 2026-05-12, **Model-based Bootstrap of Controlled Markov Chains**, Ziwei Su et.al., Paper: [http://arxiv.org/abs/2605.12410](http://arxiv.org/abs/2605.12410)
-- 2026-11-10, **Model-Free Runtime Measurement of Task-Relevant Information**, Dimitris Panagopoulos et.al., Paper: [http://arxiv.org/abs/2611.14111](http://arxiv.org/abs/2611.14111)
 - 2026-06-17, **Model-Free Reinforcement Learning Control for Resilient Cyber-Physical Systems**, Hugo O. Garcés et.al., Paper: [http://arxiv.org/abs/2606.19069](http://arxiv.org/abs/2606.19069)
 - 2025-12-04, **Model-Free Assessment of Simulator Fidelity via Quantile Curves**, Garud Iyengar et.al., Paper: [http://arxiv.org/abs/2512.05024](http://arxiv.org/abs/2512.05024)
 - 2025-12-16, **Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes**, Alessandro Trapasso et.al., Paper: [http://arxiv.org/abs/2512.14617](http://arxiv.org/abs/2512.14617)
@@ -14312,7 +14300,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-09, **Integrating Lagrangian Neural Networks into the Dyna Framework for Reinforcement Learning**, Shreya Das et.al., Paper: [http://arxiv.org/abs/2603.08468](http://arxiv.org/abs/2603.08468)
 - 2025-12-03, **Integrating High Performance In-Memory Data Streaming and In-Situ Visualization in Hybrid MPI+OpenMP PIC MC Simulations Towards Exascale**, Jeremy J. Williams et.al., Paper: [http://arxiv.org/abs/2512.03914](http://arxiv.org/abs/2512.03914)
 - 2026-03-26, **Integrating Deep RL and Bayesian Inference for ObjectNav in Mobile Robotics**, João Castelo-Branco et.al., Paper: [http://arxiv.org/abs/2603.25366](http://arxiv.org/abs/2603.25366)
-- 2026-11-10, **Integrating Action Prefix Prediction and Alignment Across Modalities for Multimodal Reinforcement Learning**, Sijie Xu et.al., Paper: [http://arxiv.org/abs/2611.13782](http://arxiv.org/abs/2611.13782)
 - 2026-07-24, **Integrated Order Dispatching and Routing for Last-Mile Pickup via Deep Reinforcement Learning**, Yida Xu et.al., Paper: [http://arxiv.org/abs/2607.22356](http://arxiv.org/abs/2607.22356)
 - 2026-03-12, **Integrated Online Monitoring and Adaption of Process Model Predictive Controllers**, Samuel Mallick et.al., Paper: [http://arxiv.org/abs/2603.12187](http://arxiv.org/abs/2603.12187)
 - 2026-05-22, **Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion**, Remko Proesmans et.al., Paper: [http://arxiv.org/abs/2605.23847](http://arxiv.org/abs/2605.23847)
@@ -16691,7 +16678,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 - 2026-04-17, **$G_2$ -structures as Octonion Algebras**, Isak Sundelius et.al., Paper: [http://arxiv.org/abs/2604.15966](http://arxiv.org/abs/2604.15966)
 
-<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
 
 Notes: 
 
