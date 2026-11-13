@@ -336,3 +336,16 @@ Resilient Integrated Access and Backhaul Network Planning via Graph Neural Netwo
 Integrating Action Prefix Prediction and Alignment Across Modalities for Multimodal Reinforcement Learning
 Omni-JEV: Text and Dual-Stream Speech Decisions
 Quantum-Assisted Generative Anomaly Detection: A Dimension-Controlled Study of Latent Refinement
+Programming Quantum Circuit Parameters with Large Language Models
+Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models
+PACER: GPU Excursion Management for ML Workloads
+Preserve the Vulnerability, Break the Alert: Testing the Robustness of CodeQL Taint Tracking with Natural Rewrites
+[Experiment, Analysis, and Benchmark] How well do LLMs comprehend and design relational database schemata?
+Infrastructure for Verifiable AI: Where Proof Costs Go and How Hardware Can Help
+SPADE: Soft Prompts for Ai-text DEtection
+Non-Functional Requirements to Hyperparameter Translation for Quantum Software via LLMs
+Sustainable Federated Fine-Tuning with LoRA: Environmental Impact and Performance Footprint
+Media Trading with Censored Auction Prices: A Stochastic Control and Reinforcement Learning Approach
+Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph
+VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation
+No Convergence in Learned Eavesdropping-Detection Dynamics for BB84 Quantum Key Distribution
