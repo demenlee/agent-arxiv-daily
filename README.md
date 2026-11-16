@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.11.15
+### Automatically Updated on 2026.11.16
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -33,7 +33,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-09**|**SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery**|Weimin Wu et.al.|[2611.12552](http://arxiv.org/abs/2611.12552)|null|
 |**2026-11-09**|**ForgeSystem: An Architecture for Demand-Specific Artefact Production with AI Agents**|Qingfeng He et.al.|[2611.12288](http://arxiv.org/abs/2611.12288)|null|
 |**2026-11-08**|**Third Eye: Beyond Immediate Gains in Recursive Self-Improvement**|Sujato Dutta et.al.|[2611.12988](http://arxiv.org/abs/2611.12988)|null|
-|**2026-11-08**|**InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**| InfraRSI Team et.al.|[2611.11558](http://arxiv.org/abs/2611.11558)|null|
+|**2026-11-08**|**InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**|InfraRSI Team et.al.|[2611.11558](http://arxiv.org/abs/2611.11558)|null|
 |**2026-11-08**|**Review the Episodes, Refine the Lessons: Simple Memory Evolution for Embodied Agents**|Yifei Yao et.al.|[2611.11509](http://arxiv.org/abs/2611.11509)|null|
 |**2026-11-08**|**JoMoHa: Joint Model--Harness Optimization with Reinforcement Learning**|Xudong Wu et.al.|[2611.11499](http://arxiv.org/abs/2611.11499)|null|
 |**2026-11-08**|**Task-adaptive anonymisation enables privacy-preserving sharing of clinical speech data**|Ziyun Cui et.al.|[2611.11273](http://arxiv.org/abs/2611.11273)|null|
@@ -5614,7 +5614,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -5627,7 +5627,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-12**|**Maximizing LLM Utility While Managing LLM Fallibility**|Ekta U. Samani et.al.|[2611.17020](http://arxiv.org/abs/2611.17020)|null|
 |**2026-11-12**|**AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems**|Tian Cai et.al.|[2611.17015](http://arxiv.org/abs/2611.17015)|null|
 |**2026-11-12**|**Skill Adapter: Personalized Modification and Online Routing of General-Purpose Skills**|Qijia Zhuang et.al.|[2611.17007](http://arxiv.org/abs/2611.17007)|null|
-|**2026-11-12**|**Lara Mini Base: Language Diversity as a Resource, Not a Trade-off**| Translated et.al.|[2611.16956](http://arxiv.org/abs/2611.16956)|null|
+|**2026-11-12**|**Lara Mini Base: Language Diversity as a Resource, Not a Trade-off**|Translated et.al.|[2611.16956](http://arxiv.org/abs/2611.16956)|null|
 |**2026-11-12**|**Factored One-sided Adam-Moment for Practical and Scalable SOAP**|Jaemyung Yu et.al.|[2611.16905](http://arxiv.org/abs/2611.16905)|null|
 |**2026-11-12**|**Human or Synthetic? What a Fixed Budget Buys for Post-Training**|Shourik Banerjee et.al.|[2611.16895](http://arxiv.org/abs/2611.16895)|null|
 |**2026-11-12**|**LLM-Assisted Verification in Dafny**|Wieger Wesselink et.al.|[2611.16886](http://arxiv.org/abs/2611.16886)|null|
@@ -11129,7 +11129,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -11178,7 +11178,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-09**|**AgentOPSD: Turn-Level Credit Assignment via Recursive Belief Revision**|Yizhuo Li et.al.|[2611.12587](http://arxiv.org/abs/2611.12587)|null|
 |**2026-11-09**|**PhysOPSD: Code as Privilege for Physically Plausible Video Generation**|Harold Haodong Chen et.al.|[2611.12411](http://arxiv.org/abs/2611.12411)|null|
 |**2026-11-09**|**A Modular Perspective for Modeling MARL Systems**|Tiziano Maisonhaute et.al.|[2611.12314](http://arxiv.org/abs/2611.12314)|null|
-|**2026-11-09**|**MNN-Pocket-0.3B Technical Report**| MNN Team et.al.|[2611.12311](http://arxiv.org/abs/2611.12311)|null|
+|**2026-11-09**|**MNN-Pocket-0.3B Technical Report**|MNN Team et.al.|[2611.12311](http://arxiv.org/abs/2611.12311)|null|
 |**2026-11-09**|**VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation**|Yongxuan Lv et.al.|[2611.12286](http://arxiv.org/abs/2611.12286)|null|
 |**2026-11-09**|**Learning Evidence-Grounded Reasoning for Context-Aware Time Series Forecasting**|Xingpeng Gao et.al.|[2611.12285](http://arxiv.org/abs/2611.12285)|null|
 |**2026-11-09**|**Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading**|Guangyan Gan et.al.|[2611.12269](http://arxiv.org/abs/2611.12269)|null|
@@ -16715,7 +16715,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 Notes: 
 

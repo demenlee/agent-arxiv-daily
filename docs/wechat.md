@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.11.15
+> Updated on 2026.11.16
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -2919,7 +2919,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-08-24, **InjecMEM: Memory Injection Attack on LLM Agent Memory Systems**, Hanling Tian et.al., Paper: [http://arxiv.org/abs/2608.23471](http://arxiv.org/abs/2608.23471)
 - 2025-09-26, **Infusing Theory of Mind into Socially Intelligent LLM Agents**, EunJeong Hwang et.al., Paper: [http://arxiv.org/abs/2509.22887](http://arxiv.org/abs/2509.22887)
 - 2026-03-25, **Infrastructure for Valuable, Tradable, and Verifiable Agent Memory**, Mengyuan Li et.al., Paper: [http://arxiv.org/abs/2603.24564](http://arxiv.org/abs/2603.24564)
-- 2026-11-08, **InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**,  InfraRSI Team et.al., Paper: [http://arxiv.org/abs/2611.11558](http://arxiv.org/abs/2611.11558)
+- 2026-11-08, **InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**, InfraRSI Team et.al., Paper: [http://arxiv.org/abs/2611.11558](http://arxiv.org/abs/2611.11558)
 - 2026-07-07, **Information Gain-based Rollout Policy Optimization: An Adaptive Tree-Structured Rollout Approach for Multi-Turn LLM Agents**, Yijun Zhang et.al., Paper: [http://arxiv.org/abs/2607.06223](http://arxiv.org/abs/2607.06223)
 - 2025-10-16, **Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents**, Guoqing Wang et.al., Paper: [http://arxiv.org/abs/2510.14967](http://arxiv.org/abs/2510.14967)
 - 2026-04-03, **InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking**, Ka Yiu Lee et.al., Paper: [http://arxiv.org/abs/2604.02971](http://arxiv.org/abs/2604.02971)
@@ -5612,7 +5612,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-28, **"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts**, Shenao Wang et.al., Paper: [http://arxiv.org/abs/2603.27204](http://arxiv.org/abs/2603.27204)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -8528,7 +8528,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-25, **Large Language Model Guided Incentive Aware Reward Design for Cooperative Multi-Agent Reinforcement Learning**, Dogan Urgun et.al., Paper: [http://arxiv.org/abs/2603.24324](http://arxiv.org/abs/2603.24324)
 - 2026-04-07, **Large Language Model Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb $_3$ Based Skutterudites**, Yagnik Bandyopadhyay et.al., Paper: [http://arxiv.org/abs/2604.06048](http://arxiv.org/abs/2604.06048)
 - 2025-12-08, **Large Causal Models from Large Language Models**, Sridhar Mahadevan et.al., Paper: [http://arxiv.org/abs/2512.07796](http://arxiv.org/abs/2512.07796)
-- 2026-11-12, **Lara Mini Base: Language Diversity as a Resource, Not a Trade-off**,  Translated et.al., Paper: [http://arxiv.org/abs/2611.16956](http://arxiv.org/abs/2611.16956)
+- 2026-11-12, **Lara Mini Base: Language Diversity as a Resource, Not a Trade-off**, Translated et.al., Paper: [http://arxiv.org/abs/2611.16956](http://arxiv.org/abs/2611.16956)
 - 2026-05-18, **Language-Switching Triggers Take a Latent Detour Through Language Models**, Francis Kulumba et.al., Paper: [http://arxiv.org/abs/2605.18646](http://arxiv.org/abs/2605.18646)
 - 2026-06-25, **Language-Based Digital Twins for Elderly Cognitive Assistance**, Mohammad Mehdi Hosseini et.al., Paper: [http://arxiv.org/abs/2606.27334](http://arxiv.org/abs/2606.27334)
 - 2026-03-25, **Language-Assisted Image Clustering Guided by Discriminative Relational Signals and Adaptive Semantic Centers**, Jun Ma et.al., Paper: [http://arxiv.org/abs/2603.24275](http://arxiv.org/abs/2603.24275)
@@ -11125,7 +11125,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-20, **"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**, Alexandra Neagu et.al., Paper: [http://arxiv.org/abs/2602.18372](http://arxiv.org/abs/2602.18372)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -13829,7 +13829,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-06-29, **MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training**, Wenhan Ma et.al., Paper: [http://arxiv.org/abs/2606.30406](http://arxiv.org/abs/2606.30406)
 - 2026-09-15, **MOCC-R1: Reinforcing Reasoning-Response Consistency for Multimodal Counselor Response Generation**, Wenjie Zheng et.al., Paper: [http://arxiv.org/abs/2609.17180](http://arxiv.org/abs/2609.17180)
 - 2025-12-10, **MOA: Multi-Objective Alignment for Role-Playing Agents**, Chonghua Liao et.al., Paper: [http://arxiv.org/abs/2512.09756](http://arxiv.org/abs/2512.09756)
-- 2026-11-09, **MNN-Pocket-0.3B Technical Report**,  MNN Team et.al., Paper: [http://arxiv.org/abs/2611.12311](http://arxiv.org/abs/2611.12311)
+- 2026-11-09, **MNN-Pocket-0.3B Technical Report**, MNN Team et.al., Paper: [http://arxiv.org/abs/2611.12311](http://arxiv.org/abs/2611.12311)
 - 2025-12-15, **MMhops-R1: Multimodal Multi-hop Reasoning**, Tao Zhang et.al., Paper: [http://arxiv.org/abs/2512.13573](http://arxiv.org/abs/2512.13573)
 - 2026-10-15, **MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents**, Huanyao Zhang et.al., Paper: [http://arxiv.org/abs/2610.22240](http://arxiv.org/abs/2610.22240)
 - 2026-04-07, **MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control**, Yuchi Wang et.al., Paper: [http://arxiv.org/abs/2604.06156](http://arxiv.org/abs/2604.06156)
@@ -16709,7 +16709,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 - 2026-04-17, **$G_2$ -structures as Octonion Algebras**, Isak Sundelius et.al., Paper: [http://arxiv.org/abs/2604.15966](http://arxiv.org/abs/2604.15966)
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 Notes: 
 
