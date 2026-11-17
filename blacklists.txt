@@ -349,3 +349,17 @@ Media Trading with Censored Auction Prices: A Stochastic Control and Reinforceme
 Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph
 VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation
 No Convergence in Learned Eavesdropping-Detection Dynamics for BB84 Quantum Key Distribution
+RecurIR: Learning When and How to Revise Restoration Policies via Recursive Self-Improvement
+Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles
+Evaluating Human Sensitivity to Gender Biased AI-Generated Content through Human Assessment of Google's Autocomplete Function
+f-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models
+Right Token, Right Time: From Per-Token Gating to Trajectory-Aware Activation Steering
+From Bytes to Behavior: Request-Level Attribution from Live GPU Hidden States
+RACE: Ranking-Uncertainty Aware Capacity-Adaptive Customization for Efficient Sequential Recommendation
+Personalization of Basic and Moral Values Guiding LLM-Controlled Assistant Robots
+Large language models put existential risk from artificial intelligence at 10%
+Reinforcement Learning for Null-Space Exploitation in Pseudo-Inverse Control Allocation
+A Reinforcement Learning Approach to Space-Filling Input Design for Nonlinear System Identification
+Enrichment-Oriented Virtual Screening of Perovskite Solar Cells through Reinforcement Learning
+Reusing Locomotion Training Recipes Across Humanoids via Body-Aligned Virtual Joints
+Mobile Edge Deployment and Resource Management for Maritime Wireless Networks
