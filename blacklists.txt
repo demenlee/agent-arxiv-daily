@@ -363,3 +363,14 @@ A Reinforcement Learning Approach to Space-Filling Input Design for Nonlinear Sy
 Enrichment-Oriented Virtual Screening of Perovskite Solar Cells through Reinforcement Learning
 Reusing Locomotion Training Recipes Across Humanoids via Body-Aligned Virtual Joints
 Mobile Edge Deployment and Resource Management for Maritime Wireless Networks
+Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse
+Generative AI and the Crisis of Higher Education Assessments: Examining 'AI-Proofing' Strategies for College-Level Assessments
+Rubric-Based AES with LLM Ensembles: Scoring of Student Responses in Critical Online Reasoning Using Ensembles of LLMs
+Beyond Bilingual: Studying Quadrilingual Code-Switching with Conversational AI
+Stability-Compensated Threshold Calibration for Selection-Conditioned Risk Control in Large Language Models
+A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents
+Warm Starting Neural Dynamics Models From Few Jacobian Samples
+Reinforcement Learning designs Quantum Repeater Protocols on Networks beyond the Chain Scenario
+Federated TD Learning in Heterogeneous Environments with Average Rewards: A Two-timescale Approach with Polyak-Ruppert Averaging
+Certified Nash Equilibrium Learning for Nonzero-Sum Jump-Diffusion Games: Policy Iteration and Off-Policy Q-Learning
+WinDEX: Metric 3D Hand Motion Reconstruction in the Wild for Dexterous Teleoperation and Policy Learning
