@@ -374,3 +374,16 @@ Reinforcement Learning designs Quantum Repeater Protocols on Networks beyond the
 Federated TD Learning in Heterogeneous Environments with Average Rewards: A Two-timescale Approach with Polyak-Ruppert Averaging
 Certified Nash Equilibrium Learning for Nonzero-Sum Jump-Diffusion Games: Policy Iteration and Off-Policy Q-Learning
 WinDEX: Metric 3D Hand Motion Reconstruction in the Wild for Dexterous Teleoperation and Policy Learning
+What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution
+MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study
+Natural Language Programming: Rethinking Language, Memory, and Cognition in the Era of Generative AI
+BugGen 2.0: Rethinking the Roles of LLMs for Scalable RTL Bug Synthesis
+Large Language Models Have Not Yet Transformed Science
+Beyond Attribute-Centric Fairness: Modelling and Mitigating Unified Bias Representation in Omni-modal Large Language Models
+Compact and Decodable Electrocardiogram Text for Large Language Models
+Network-Exposed Configuration Attacks on LLM-Controlled Social Robots
+Learning Grounded Reasoning from Human Gaze
+CADENCE: Learning Acyclic Gaits for Model-Based Quadruped Locomotion
+Residual-Guided Lightweight Reinforcement Learning for Risk-Aware Trajectory Selection with a Frozen World Model
+TRAIL-IRL: Crossed Reward-Temperature Mixtures for Unlabeled Trajectory Clustering
+Learning Accurate End-Effector Trajectory Tracking with Inertial Feedback for a Quadruped Manipulator
