@@ -387,3 +387,20 @@ CADENCE: Learning Acyclic Gaits for Model-Based Quadruped Locomotion
 Residual-Guided Lightweight Reinforcement Learning for Risk-Aware Trajectory Selection with a Frozen World Model
 TRAIL-IRL: Crossed Reward-Temperature Mixtures for Unlabeled Trajectory Clustering
 Learning Accurate End-Effector Trajectory Tracking with Inertial Feedback for a Quadruped Manipulator
+Unified Law for Visual Tasks (The Four Laws of Computer Vision)
+Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling
+A Foundation Model to Measure and Predict Human Behaviour
+Ultimate3D: Teaching Multimodal LLMs 3D Camera-Object Relations by Large-Scale Visual Instruction Data
+LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids
+A$^3$Bench: Compositional Reasoning over Aggressive Interactions in Videos
+Can Omni-modal LLMs Understand Spoken Intentions?
+Hi Gemini, Who Should I Vote For? The Benefits (and Problems) of Using LLMs As Voting Advice Applications
+CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning
+GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits
+Data-driven simulation of the brain's response to stimulation: a system identification approach for closed-loop neuromodulation, piloted in adaptive deep brain stimulation
+Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning
+DrawScore: Evaluating Generated CAD Models against Engineering Drawings
+Can Bandits Learn to Share a Channel? Distributed Multi-Armed Bandits for Slotted ALOHA
+PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents
+Worth Another Look:Constrained World-Model Planning for Visual Inspection
+Semi-Supervised GAN-Based Segmentation of CTPA Scans for Pulmonary Emboli Boundary Extraction
