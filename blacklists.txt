@@ -404,3 +404,14 @@ Can Bandits Learn to Share a Channel? Distributed Multi-Armed Bandits for Slotte
 PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents
 Worth Another Look:Constrained World-Model Planning for Visual Inspection
 Semi-Supervised GAN-Based Segmentation of CTPA Scans for Pulmonary Emboli Boundary Extraction
+Multimodal Error Detection in Chest X-ray Reports: A Large Language Model Reading Image Evidence
+Client Exits - A Way to Increase LLM Transparency on the Client Side
+DailySafe: Benchmarking Dynamic Safety Awareness in Everyday Multi-Turn Multimodal Interactions
+Sightline: Calibrated Data-Flow Summaries for LLM-Integrated Applications
+MultiBinder: Preventing Multi-Subject Identity Leakage in Personalized Video Generation
+ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement
+How to Effectively Manage the Energy in Residential Systems: Development and Comparison of Methods
+Exposure-Aware Informative Path Planning Using Deep Reinforcement Learning
+LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control
+Adaptive Hamiltonian Identification via Quantum Reinforcement Learning under Non-Stationary Dynamics
+Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network
