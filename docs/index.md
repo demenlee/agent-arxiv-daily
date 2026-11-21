@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.11.20
+### Automatically Updated on 2026.11.21
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -5644,7 +5644,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-19**|**Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)**|Mengxiao Wang et.al.|[2611.26553](http://arxiv.org/abs/2611.26553)|null|
 |**2026-11-19**|**The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language Models**|Md. Abdullah Al Zami et.al.|[2611.26545](http://arxiv.org/abs/2611.26545)|null|
 |**2026-11-19**|**From Seed to BLOOM: Autonomously Growing a Better Out-of-Order Core**|Angela Cui et.al.|[2611.26517](http://arxiv.org/abs/2611.26517)|null|
-|**2026-11-19**|**Multimodal Error Detection in Chest X-ray Reports: A Large Language Model Reading Image Evidence**|Yanda Cheng et.al.|[2611.26492](http://arxiv.org/abs/2611.26492)|null|
 |**2026-11-19**|**Reasoning-Trace Analysis Using Large Language Models for Interpretable Q-Matrix Construction**|Jihong Zhang et.al.|[2611.26422](http://arxiv.org/abs/2611.26422)|null|
 |**2026-11-19**|**Training Vision Models for LLM-Driven Weight-Space Programming**|Timo Ropinski et.al.|[2611.26408](http://arxiv.org/abs/2611.26408)|null|
 |**2026-11-19**|**EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning**|Yuqi Tang et.al.|[2611.26380](http://arxiv.org/abs/2611.26380)|null|
@@ -5654,13 +5653,9 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-19**|**Training LLMs to Follow Reasoning Instructions with Minimal Edits**|Alexandra Yakovleva et.al.|[2611.26342](http://arxiv.org/abs/2611.26342)|null|
 |**2026-11-19**|**ClosureBench: A Benchmark for Reasoning under Closure Assumptions**|Francesco Belardinelli et.al.|[2611.26335](http://arxiv.org/abs/2611.26335)|null|
 |**2026-11-19**|**OceanCoder: A Verification-Guided Large Language Model for Automated Simulation Modelling in Ocean Engineering**|Can Xue et.al.|[2611.26333](http://arxiv.org/abs/2611.26333)|null|
-|**2026-11-19**|**Client Exits - A Way to Increase LLM Transparency on the Client Side**|Marc Jansen et.al.|[2611.26309](http://arxiv.org/abs/2611.26309)|null|
-|**2026-11-19**|**DailySafe: Benchmarking Dynamic Safety Awareness in Everyday Multi-Turn Multimodal Interactions**|Xuankun Rong et.al.|[2611.26298](http://arxiv.org/abs/2611.26298)|null|
 |**2026-11-19**|**What If Chain-of-Thought Is Not Enough?**|Marc Jansen et.al.|[2611.26282](http://arxiv.org/abs/2611.26282)|null|
 |**2026-11-19**|**A Statistical Framework for Training Data Auditing of Large Language Models**|Shengjie Niu et.al.|[2611.26264](http://arxiv.org/abs/2611.26264)|null|
-|**2026-11-19**|**Sightline: Calibrated Data-Flow Summaries for LLM-Integrated Applications**|Zihao Xu et.al.|[2611.26221](http://arxiv.org/abs/2611.26221)|null|
 |**2026-11-19**|**The FrontierOR Challenge: Agentic Algorithm Design for Operations Research**|Hai Wang et.al.|[2611.26171](http://arxiv.org/abs/2611.26171)|null|
-|**2026-11-19**|**MultiBinder: Preventing Multi-Subject Identity Leakage in Personalized Video Generation**|Wei Li et.al.|[2611.26164](http://arxiv.org/abs/2611.26164)|null|
 |**2026-11-18**|**Jailbreak Detection on Large Language Models via Contrastive Prototype Structures**|Yan Qiu et.al.|[2611.24936](http://arxiv.org/abs/2611.24936)|null|
 |**2026-11-18**|**Who are you? The Personal Imitation Game**|Muhammad Rizky Wellyanto et.al.|[2611.24888](http://arxiv.org/abs/2611.24888)|null|
 |**2026-11-18**|**Ground, Iterate, Trace: Decomposing AI Research Ideation**|Samson Yu et.al.|[2611.24887](http://arxiv.org/abs/2611.24887)|null|
@@ -11223,23 +11218,17 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-11-19**|**RL Post-Training in Diffusion Transformers Is Activation Steering**|Tuna Han Salih Meral et.al.|[2611.26627](http://arxiv.org/abs/2611.26627)|null|
-|**2026-11-19**|**ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement**|Yansong Qu et.al.|[2611.26615](http://arxiv.org/abs/2611.26615)|null|
 |**2026-11-19**|**Thermal-Guided Ensemble Reinforcement Learning for Regime-Adaptive Short-Term GPU Power Forecasting in AI Data Centers**|Yuanshuo Zhang et.al.|[2611.26527](http://arxiv.org/abs/2611.26527)|null|
 |**2026-11-19**|**Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning**|Élodie Côté-Gauthier et.al.|[2611.26504](http://arxiv.org/abs/2611.26504)|null|
 |**2026-11-19**|**SHUSH: Emission-Aware Reward Design for Proactive Video Assistants**|Shawn Liang et.al.|[2611.26478](http://arxiv.org/abs/2611.26478)|null|
 |**2026-11-19**|**ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain**|Zixuan Huang et.al.|[2611.26414](http://arxiv.org/abs/2611.26414)|null|
-|**2026-11-19**|**How to Effectively Manage the Energy in Residential Systems: Development and Comparison of Methods**|Julian Ruddick et.al.|[2611.26412](http://arxiv.org/abs/2611.26412)|null|
 |**2026-11-19**|**Beam Model Technical Report**| Reflection Team et.al.|[2611.26358](http://arxiv.org/abs/2611.26358)|null|
 |**2026-11-19**|**Training LLMs to Follow Reasoning Instructions with Minimal Edits**|Alexandra Yakovleva et.al.|[2611.26342](http://arxiv.org/abs/2611.26342)|null|
 |**2026-11-19**|**Actor-Predictor Architecture for Reinforcement Learning with Formal Specification Objectives**|Josef Brozovich et.al.|[2611.26313](http://arxiv.org/abs/2611.26313)|null|
-|**2026-11-19**|**Exposure-Aware Informative Path Planning Using Deep Reinforcement Learning**|Muzaffar Qureshi et.al.|[2611.26302](http://arxiv.org/abs/2611.26302)|null|
-|**2026-11-19**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293](http://arxiv.org/abs/2611.26293)|null|
 |**2026-11-19**|**The Stability Gap in Continual Reinforcement Learning**|Sebastian Pusch et.al.|[2611.26252](http://arxiv.org/abs/2611.26252)|null|
-|**2026-11-19**|**Adaptive Hamiltonian Identification via Quantum Reinforcement Learning under Non-Stationary Dynamics**|Jawaher Kaldari et.al.|[2611.26241](http://arxiv.org/abs/2611.26241)|null|
 |**2026-11-19**|**EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL**|Wei Dai et.al.|[2611.26196](http://arxiv.org/abs/2611.26196)|null|
 |**2026-11-19**|**SenseAlign: Learning Decision-Aligned Predictive Representations for Active Urban Sensing with UAVs**|Weijiang Xiong et.al.|[2611.26109](http://arxiv.org/abs/2611.26109)|null|
 |**2026-11-19**|**RL Can Only Reinforce What It Sees Succeed**|Ruben Sanchez-Corcuera et.al.|[2611.26084](http://arxiv.org/abs/2611.26084)|null|
-|**2026-11-19**|**Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network**|Fatima Atwi et.al.|[2611.26074](http://arxiv.org/abs/2611.26074)|null|
 |**2026-11-19**|**Reference-Free Humanoid Skateboarding via Termination-Shaped Reinforcement Learning**|Ganeshvar Soenessardien et.al.|[2611.26054](http://arxiv.org/abs/2611.26054)|null|
 |**2026-11-19**|**Policy Improvement-Guided Replay for Continual Reinforcement Learning**|Qin-Wen Luo et.al.|[2611.25989](http://arxiv.org/abs/2611.25989)|null|
 |**2026-11-18**|**DiWALI: Diffusion Policy Learning in World Models via Latent Action Inference from Human and Robot Play**|Akshay L Chandra et.al.|[2611.24836](http://arxiv.org/abs/2611.24836)|null|
