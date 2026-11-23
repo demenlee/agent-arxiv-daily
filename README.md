@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.11.22
+### Automatically Updated on 2026.11.23
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -61,7 +61,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-09**|**SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery**|Weimin Wu et.al.|[2611.12552](http://arxiv.org/abs/2611.12552)|null|
 |**2026-11-09**|**ForgeSystem: An Architecture for Demand-Specific Artefact Production with AI Agents**|Qingfeng He et.al.|[2611.12288](http://arxiv.org/abs/2611.12288)|null|
 |**2026-11-08**|**Third Eye: Beyond Immediate Gains in Recursive Self-Improvement**|Sujato Dutta et.al.|[2611.12988](http://arxiv.org/abs/2611.12988)|null|
-|**2026-11-08**|**InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**| InfraRSI Team et.al.|[2611.11558](http://arxiv.org/abs/2611.11558)|null|
+|**2026-11-08**|**InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**|InfraRSI Team et.al.|[2611.11558](http://arxiv.org/abs/2611.11558)|null|
 |**2026-11-08**|**Review the Episodes, Refine the Lessons: Simple Memory Evolution for Embodied Agents**|Yifei Yao et.al.|[2611.11509](http://arxiv.org/abs/2611.11509)|null|
 |**2026-11-08**|**JoMoHa: Joint Model--Harness Optimization with Reinforcement Learning**|Xudong Wu et.al.|[2611.11499](http://arxiv.org/abs/2611.11499)|null|
 |**2026-11-08**|**Task-adaptive anonymisation enables privacy-preserving sharing of clinical speech data**|Ziyun Cui et.al.|[2611.11273](http://arxiv.org/abs/2611.11273)|null|
@@ -5642,7 +5642,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -5655,7 +5655,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-19**|**Training Vision Models for LLM-Driven Weight-Space Programming**|Timo Ropinski et.al.|[2611.26408](http://arxiv.org/abs/2611.26408)|null|
 |**2026-11-19**|**EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning**|Yuqi Tang et.al.|[2611.26380](http://arxiv.org/abs/2611.26380)|null|
 |**2026-11-19**|**HiSA: Sparsifying the Hidden Dimension of RoPE Attention in LLMs**|Ambroise Borbely et.al.|[2611.26363](http://arxiv.org/abs/2611.26363)|null|
-|**2026-11-19**|**Beam Model Technical Report**| Reflection Team et.al.|[2611.26358](http://arxiv.org/abs/2611.26358)|null|
+|**2026-11-19**|**Beam Model Technical Report**|Reflection Team et.al.|[2611.26358](http://arxiv.org/abs/2611.26358)|null|
 |**2026-11-19**|**Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation**|Zhiwei Li et.al.|[2611.26349](http://arxiv.org/abs/2611.26349)|null|
 |**2026-11-19**|**Training LLMs to Follow Reasoning Instructions with Minimal Edits**|Alexandra Yakovleva et.al.|[2611.26342](http://arxiv.org/abs/2611.26342)|null|
 |**2026-11-19**|**ClosureBench: A Benchmark for Reasoning under Closure Assumptions**|Francesco Belardinelli et.al.|[2611.26335](http://arxiv.org/abs/2611.26335)|null|
@@ -5671,7 +5671,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-18**|**Depth Before Breadth: Reverse-to-Forward Curriculum with Advantage Decomposition for LLM Agent**|Siyuan Du et.al.|[2611.24697](http://arxiv.org/abs/2611.24697)|null|
 |**2026-11-18**|**Metadata-Driven AI: An Architectural Pattern for Sustainable Data Analysis with LLMs**|Renaud Pawlak et.al.|[2611.24661](http://arxiv.org/abs/2611.24661)|null|
 |**2026-11-18**|**Self-Rewarded Reinforcement Learning for Better-Structured Medical Explanations in Small Language Models**|Prakhar Mishra et.al.|[2611.24650](http://arxiv.org/abs/2611.24650)|null|
-|**2026-11-18**|**Clover-35B-A3B-Preview Technical Report**| DiffuSpace Technical Team et.al.|[2611.24636](http://arxiv.org/abs/2611.24636)|null|
+|**2026-11-18**|**Clover-35B-A3B-Preview Technical Report**|DiffuSpace Technical Team et.al.|[2611.24636](http://arxiv.org/abs/2611.24636)|null|
 |**2026-11-18**|**Chain-of-Thought Hidden States Reveal Task-Solving Directions for Direct Answers**|Houman Mehrafarin et.al.|[2611.24598](http://arxiv.org/abs/2611.24598)|null|
 |**2026-11-17**|**Learning Stratified Policies for Inference-Time Objectives**|Mridul Mahajan et.al.|[2611.23154](http://arxiv.org/abs/2611.23154)|null|
 |**2026-11-17**|**VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity Dynamics in Video MLLMs**|Chengqian Ma et.al.|[2611.23153](http://arxiv.org/abs/2611.23153)|null|
@@ -11220,7 +11220,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -11231,7 +11231,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-19**|**Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning**|Élodie Côté-Gauthier et.al.|[2611.26504](http://arxiv.org/abs/2611.26504)|null|
 |**2026-11-19**|**SHUSH: Emission-Aware Reward Design for Proactive Video Assistants**|Shawn Liang et.al.|[2611.26478](http://arxiv.org/abs/2611.26478)|null|
 |**2026-11-19**|**ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain**|Zixuan Huang et.al.|[2611.26414](http://arxiv.org/abs/2611.26414)|null|
-|**2026-11-19**|**Beam Model Technical Report**| Reflection Team et.al.|[2611.26358](http://arxiv.org/abs/2611.26358)|null|
+|**2026-11-19**|**Beam Model Technical Report**|Reflection Team et.al.|[2611.26358](http://arxiv.org/abs/2611.26358)|null|
 |**2026-11-19**|**Training LLMs to Follow Reasoning Instructions with Minimal Edits**|Alexandra Yakovleva et.al.|[2611.26342](http://arxiv.org/abs/2611.26342)|null|
 |**2026-11-19**|**Actor-Predictor Architecture for Reinforcement Learning with Formal Specification Objectives**|Josef Brozovich et.al.|[2611.26313](http://arxiv.org/abs/2611.26313)|null|
 |**2026-11-19**|**The Stability Gap in Continual Reinforcement Learning**|Sebastian Pusch et.al.|[2611.26252](http://arxiv.org/abs/2611.26252)|null|
@@ -16878,7 +16878,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 Notes: 
 

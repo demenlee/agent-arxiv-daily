@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.11.22
+> Updated on 2026.11.23
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -2934,7 +2934,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-08-24, **InjecMEM: Memory Injection Attack on LLM Agent Memory Systems**, Hanling Tian et.al., Paper: [http://arxiv.org/abs/2608.23471](http://arxiv.org/abs/2608.23471)
 - 2025-09-26, **Infusing Theory of Mind into Socially Intelligent LLM Agents**, EunJeong Hwang et.al., Paper: [http://arxiv.org/abs/2509.22887](http://arxiv.org/abs/2509.22887)
 - 2026-03-25, **Infrastructure for Valuable, Tradable, and Verifiable Agent Memory**, Mengyuan Li et.al., Paper: [http://arxiv.org/abs/2603.24564](http://arxiv.org/abs/2603.24564)
-- 2026-11-08, **InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**,  InfraRSI Team et.al., Paper: [http://arxiv.org/abs/2611.11558](http://arxiv.org/abs/2611.11558)
+- 2026-11-08, **InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**, InfraRSI Team et.al., Paper: [http://arxiv.org/abs/2611.11558](http://arxiv.org/abs/2611.11558)
 - 2026-07-07, **Information Gain-based Rollout Policy Optimization: An Adaptive Tree-Structured Rollout Approach for Multi-Turn LLM Agents**, Yijun Zhang et.al., Paper: [http://arxiv.org/abs/2607.06223](http://arxiv.org/abs/2607.06223)
 - 2025-10-16, **Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents**, Guoqing Wang et.al., Paper: [http://arxiv.org/abs/2510.14967](http://arxiv.org/abs/2510.14967)
 - 2026-04-03, **InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking**, Ka Yiu Lee et.al., Paper: [http://arxiv.org/abs/2604.02971](http://arxiv.org/abs/2604.02971)
@@ -5640,7 +5640,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-28, **"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts**, Shenao Wang et.al., Paper: [http://arxiv.org/abs/2603.27204](http://arxiv.org/abs/2603.27204)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -10266,7 +10266,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-08-07, **CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing**, Yan Zhou et.al., Paper: [http://arxiv.org/abs/2608.07424](http://arxiv.org/abs/2608.07424)
 - 2026-04-05, **CoALFake: Collaborative Active Learning with Human-LLM Co-Annotation for Cross-Domain Fake News Detection**, Esma Aïmeur et.al., Paper: [http://arxiv.org/abs/2604.04174](http://arxiv.org/abs/2604.04174)
 - 2026-07-08, **Co-LMLM: Continuous-Query Limited Memory Language Models**, Yair Feldman et.al., Paper: [http://arxiv.org/abs/2607.07707](http://arxiv.org/abs/2607.07707)
-- 2026-11-18, **Clover-35B-A3B-Preview Technical Report**,  DiffuSpace Technical Team et.al., Paper: [http://arxiv.org/abs/2611.24636](http://arxiv.org/abs/2611.24636)
+- 2026-11-18, **Clover-35B-A3B-Preview Technical Report**, DiffuSpace Technical Team et.al., Paper: [http://arxiv.org/abs/2611.24636](http://arxiv.org/abs/2611.24636)
 - 2026-04-19, **Cloud-native and Distributed Systems for Efficient and Scalable Large Language Models -- A Research Agenda**, Minxian Xu et.al., Paper: [http://arxiv.org/abs/2604.17227](http://arxiv.org/abs/2604.17227)
 - 2026-08-02, **Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning**, Yuzhou Liu et.al., Paper: [http://arxiv.org/abs/2608.01014](http://arxiv.org/abs/2608.01014)
 - 2026-11-19, **ClosureBench: A Benchmark for Reasoning under Closure Assumptions**, Francesco Belardinelli et.al., Paper: [http://arxiv.org/abs/2611.26335](http://arxiv.org/abs/2611.26335)
@@ -10652,7 +10652,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-10-05, **Before Agent Tells The Lie: Has Deception Already Been Represented?**, Xinling Li et.al., Paper: [http://arxiv.org/abs/2610.06576](http://arxiv.org/abs/2610.06576)
 - 2026-01-22, **Beat-ssl: Capturing Local ECG Morphology through Heartbeat-level Contrastive Learning with Soft Targets**, Muhammad Ilham Rizqyawan et.al., Paper: [http://arxiv.org/abs/2601.16147](http://arxiv.org/abs/2601.16147)
 - 2026-03-19, **BeamAgent: LLM-Aided MIMO Beamforming with Decoupled Intent Parsing and Alternating Optimization for Joint Site Selection and Precoding**, Xiucheng Wang et.al., Paper: [http://arxiv.org/abs/2603.18855](http://arxiv.org/abs/2603.18855)
-- 2026-11-19, **Beam Model Technical Report**,  Reflection Team et.al., Paper: [http://arxiv.org/abs/2611.26358](http://arxiv.org/abs/2611.26358)
+- 2026-11-19, **Beam Model Technical Report**, Reflection Team et.al., Paper: [http://arxiv.org/abs/2611.26358](http://arxiv.org/abs/2611.26358)
 - 2026-07-30, **Beacon: Knowing When and How to Perform Agentic Visual Reasoning**, Qixun Wang et.al., Paper: [http://arxiv.org/abs/2607.28595](http://arxiv.org/abs/2607.28595)
 - 2026-01-15, **Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2601.10589](http://arxiv.org/abs/2601.10589)
 - 2025-11-24, **Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration**, James Y. Huang et.al., Paper: [http://arxiv.org/abs/2511.19417](http://arxiv.org/abs/2511.19417)
@@ -11216,7 +11216,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-20, **"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**, Alexandra Neagu et.al., Paper: [http://arxiv.org/abs/2602.18372](http://arxiv.org/abs/2602.18372)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -16225,7 +16225,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-09-02, **Before the Script, Set the Stage: How Worldview Simulation Amplifies Psychologically Grounded Persuasion in Multi-Turn Jailbreaking**, Siyu Chen et.al., Paper: [http://arxiv.org/abs/2609.02414](http://arxiv.org/abs/2609.02414)
 - 2026-03-04, **BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning**, Tarjei Paule Hage et.al., Paper: [http://arxiv.org/abs/2603.04124](http://arxiv.org/abs/2603.04124)
 - 2026-04-27, **Beam Scheduling for Cross-Layer ISAC: A Deep Reinforcement Learning Approach**, Xiyu Wang et.al., Paper: [http://arxiv.org/abs/2604.24369](http://arxiv.org/abs/2604.24369)
-- 2026-11-19, **Beam Model Technical Report**,  Reflection Team et.al., Paper: [http://arxiv.org/abs/2611.26358](http://arxiv.org/abs/2611.26358)
+- 2026-11-19, **Beam Model Technical Report**, Reflection Team et.al., Paper: [http://arxiv.org/abs/2611.26358](http://arxiv.org/abs/2611.26358)
 - 2026-08-31, **Beacon: LLM Multi-Agent Driven Hardware Design Space Exploration for Heterogeneous Multi-Chiplet Deep Learning Accelerators**, Boyu Li et.al., Paper: [http://arxiv.org/abs/2608.30932](http://arxiv.org/abs/2608.30932)
 - 2026-07-30, **Beacon: Knowing When and How to Perform Agentic Visual Reasoning**, Qixun Wang et.al., Paper: [http://arxiv.org/abs/2607.28595](http://arxiv.org/abs/2607.28595)
 - 2026-01-15, **Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2601.10589](http://arxiv.org/abs/2601.10589)
@@ -16872,7 +16872,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 - 2026-04-17, **$G_2$ -structures as Octonion Algebras**, Isak Sundelius et.al., Paper: [http://arxiv.org/abs/2604.15966](http://arxiv.org/abs/2604.15966)
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 Notes: 
 
