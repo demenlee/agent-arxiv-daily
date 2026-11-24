@@ -415,3 +415,10 @@ Exposure-Aware Informative Path Planning Using Deep Reinforcement Learning
 LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control
 Adaptive Hamiltonian Identification via Quantum Reinforcement Learning under Non-Stationary Dynamics
 Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network
+Unlearning Model Identity: Ablating LoRA Weights from Question-Based Identity Tuning
+PROSPER: LLMs as Sparse Retrievers for First-Stage Product Search
+Interpreting Diffusion Model Activations in Natural Language
+Reducing Permutation Sensitivity in Multimodal Large Language Models via Shared Positions and Attention-Only Distillation
+Right Verdict, Right Reason? An Execution-Grounded Study of Whether LLM Vulnerability Detectors Understand Vulnerabilities
+Nearly Minimax-Optimal Sample Complexity of Natural Policy Gradient with a Matching Information-Theoretic Lower Bound
+Online Scheduling for Entanglement Distillation: Learning When to Wait
