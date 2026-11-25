@@ -422,3 +422,13 @@ Reducing Permutation Sensitivity in Multimodal Large Language Models via Shared 
 Right Verdict, Right Reason? An Execution-Grounded Study of Whether LLM Vulnerability Detectors Understand Vulnerabilities
 Nearly Minimax-Optimal Sample Complexity of Natural Policy Gradient with a Matching Information-Theoretic Lower Bound
 Online Scheduling for Entanglement Distillation: Learning When to Wait
+Ego2Wrist: Bootstrapping Wrist-View Synthesis from Egocentric Video
+Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates
+WorldLatent: A Unified 4D Latent Space for World Perception and Generation
+Reducing RSA-2048 Factoring Resources Below One Billion Toffolis via LLM-Driven Verifiable Quantum Compilation
+Grower-in-the-loop AI for Deployable Precision Fertilisation in Sustainable Agriculture
+Triage Accuracy of Jev and Open-Weight System One Decision Models and Their Use for Early Emergency Recognition in Symptom-Assessment Applications
+Origins of City Reputation: Measuring Trust and Bias in Online Reviews Using Agentic AI and NLP
+Congestion-Aware Adaptive Routing for LLM Classification
+BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models
+Hierarchical Multi-Timescale Deep Reinforcement Learning for QoS-Aware AI-RAN Configuration
