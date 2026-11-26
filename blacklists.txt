@@ -432,3 +432,15 @@ Origins of City Reputation: Measuring Trust and Bias in Online Reviews Using Age
 Congestion-Aware Adaptive Routing for LLM Classification
 BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models
 Hierarchical Multi-Timescale Deep Reinforcement Learning for QoS-Aware AI-RAN Configuration
+FOL-Proof: Verifying LLM Text-to-Logic Translations via Deterministic Semantics
+Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement
+Towards Realistic Evaluation of Uncertainty Quantification for LLM-Based Recommender Systems
+SALSA: Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment
+PORTA: Systematic Discovery of Vulnerabilities in Identity Brokers
+Estimating GPU Roofline Arithmetic Intensity with Off-the-Shelf LLMs and Compiler Artifacts
+Adaptive Electromagnetic Transient-level Digital Twins for Data Centers via In-Context Learning with LLMs
+From Grammar Deltas to Token Masks: Incremental Constrained Decoding under Runtime Grammar Evolution
+From Historical Schedules to On-Sky Control: Autonomous Scheduling on the 4-m Blanco Telescope
+DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking
+Load Balancing Neurons: Firing-Rate Control Sustains Plasticity in Continual Learning
+BARE: Body-Aware Reflexive Evasion for Humanoid Robots
