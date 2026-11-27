@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.11.26
+### Automatically Updated on 2026.11.27
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -16,12 +16,14 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL**|Haowen Hou et.al.|[2611.34777](http://arxiv.org/abs/2611.34777)|null|
+|**2026-11-25**|**Can Its Own Misses Teach an MLLM to Find Small Brain Metastases?**|Yixuan Duan et.al.|[2611.33836](http://arxiv.org/abs/2611.33836)|null|
+|**2026-11-25**|**OVOK: A Recursive Self-Improving Agentic Framework for Video-Based Articulated Robot State Estimation**|Cheng Dai et.al.|[2611.32185](http://arxiv.org/abs/2611.32185)|null|
 |**2026-11-24**|**OmniHarness-RSI: Modality-Aware Harness Evolution for Omnimodal Understanding**|Shilin Ma et.al.|[2611.32951](http://arxiv.org/abs/2611.32951)|null|
 |**2026-11-24**|**VenusOCR2.0: Towards Efficient and Effective Document Parsing**|Lei Li et.al.|[2611.32617](http://arxiv.org/abs/2611.32617)|null|
 |**2026-11-24**|**RecurSciBench: Benchmarking Recursive Self-Improvement in Data-Driven Scientific Research**|Wenxi Xu et.al.|[2611.32508](http://arxiv.org/abs/2611.32508)|null|
 |**2026-11-24**|**A recursive self-improvement framework for electron microscopy analysis**|Yaotian Yang et.al.|[2611.32325](http://arxiv.org/abs/2611.32325)|null|
 |**2026-11-24**|**Mayfly: Lifecycle-Aware High-Bandwidth Flash for Recursive Self-Improvement**|Chunlin Tian et.al.|[2611.32264](http://arxiv.org/abs/2611.32264)|null|
-|**2026-11-24**|**OVOK: A Recursive Self-Improving Agentic Framework for Video-Based Articulated Robot State Estimation**|Cheng Dai et.al.|[2611.32185](http://arxiv.org/abs/2611.32185)|null|
 |**2026-11-24**|**Improving the Improver: Semantic PID Control for Medical Agent Self-Improvement**|Dexia Chen et.al.|[2611.28680](http://arxiv.org/abs/2611.28680)|null|
 |**2026-11-23**|**Self-Upgrading Embodied Agents**|Jiajun Fan et.al.|[2611.31117](http://arxiv.org/abs/2611.31117)|null|
 |**2026-11-23**|**Beyond Self-Consistency: Recursive Self-Improvement at Test Time**|Jianyu Wu et.al.|[2611.30965](http://arxiv.org/abs/2611.30965)|null|
@@ -5668,25 +5670,37 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Diverse Alternative Reasoning Traces for Hard Math Problems**|Lukas Aichberger et.al.|[2611.34928](http://arxiv.org/abs/2611.34928)|null|
+|**2026-11-25**|**One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics**|Shuaijun Liu et.al.|[2611.34925](http://arxiv.org/abs/2611.34925)|null|
+|**2026-11-25**|**ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration**|Tianru Zhang et.al.|[2611.34903](http://arxiv.org/abs/2611.34903)|null|
+|**2026-11-25**|**Stranger Things: When Objects Appear Without Their Typical Neighbors**|Siddhartha Gairola et.al.|[2611.34881](http://arxiv.org/abs/2611.34881)|null|
+|**2026-11-25**|**A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom**|Joy Bose et.al.|[2611.34868](http://arxiv.org/abs/2611.34868)|null|
+|**2026-11-25**|**Put the World Back: Timestamps Matter in Time Series Reasoning**|Tingrui Huang et.al.|[2611.34848](http://arxiv.org/abs/2611.34848)|null|
+|**2026-11-25**|**Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering**|Masahiro Kato et.al.|[2611.34841](http://arxiv.org/abs/2611.34841)|null|
+|**2026-11-25**|**Proverbs As A Window On Collective Prescriptions**|Tomás Lejarraga et.al.|[2611.34832](http://arxiv.org/abs/2611.34832)|null|
+|**2026-11-25**|**Repairing the Trustworthiness of Distilled Language Models**|Kumar Shubham et.al.|[2611.34831](http://arxiv.org/abs/2611.34831)|null|
+|**2026-11-25**|**LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?**|Zichen Tian et.al.|[2611.34821](http://arxiv.org/abs/2611.34821)|null|
+|**2026-11-25**|**VulnSafe: Measuring Vulnerability-Aware Relational Safety in Large Language Models**|Jiaming Luo et.al.|[2611.34819](http://arxiv.org/abs/2611.34819)|null|
+|**2026-11-25**|**PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank**|Bich Ngoc Doan et.al.|[2611.34785](http://arxiv.org/abs/2611.34785)|null|
+|**2026-11-25**|**Make the Adversary Spend More: Stateful Deception as a Cost-Exchange Primitive for AI-Era Cyber Defense**|Alessandro Cantelli-Forti et.al.|[2611.34770](http://arxiv.org/abs/2611.34770)|null|
+|**2026-11-25**|**What Is a Theory Worth to an LLM Solver? Measuring, Inducing, and Merging Theories in Context**|Jun Gao et.al.|[2611.34751](http://arxiv.org/abs/2611.34751)|null|
+|**2026-11-25**|**Seeing the Right Context: Grounded On-Policy Distillation for Remote Sensing**|Yichang Luo et.al.|[2611.34700](http://arxiv.org/abs/2611.34700)|null|
+|**2026-11-25**|**ZeroHero: Training Small Language Agents from Scratch**|Nikita Sorokin et.al.|[2611.34635](http://arxiv.org/abs/2611.34635)|null|
+|**2026-11-25**|**A Differential Computing Accelerator for LLM Inference Leveraging Bit-Slice Transition Sparsity**|Yifan Wang et.al.|[2611.34630](http://arxiv.org/abs/2611.34630)|null|
+|**2026-11-25**|**From Models to Services: Systematizing Security Assurance for Model-as-a-Service**|Jianming Zhou et.al.|[2611.34623](http://arxiv.org/abs/2611.34623)|null|
+|**2026-11-25**|**PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving**|Xiaoqiang Guo et.al.|[2611.34615](http://arxiv.org/abs/2611.34615)|null|
+|**2026-11-25**|**SEAM: A Self-Evolving and Adaptive Probing Framework for Automatic MLLM Hallucination Evaluation**|Shiyu Zhang et.al.|[2611.34598](http://arxiv.org/abs/2611.34598)|null|
 |**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
 |**2026-11-24**|**MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing**|Scott Piersall et.al.|[2611.33119](http://arxiv.org/abs/2611.33119)|null|
 |**2026-11-24**|**Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions**|Yuxing Liu et.al.|[2611.33111](http://arxiv.org/abs/2611.33111)|null|
-|**2026-11-24**|**FOL-Proof: Verifying LLM Text-to-Logic Translations via Deterministic Semantics**|Yisrael Clark et.al.|[2611.33078](http://arxiv.org/abs/2611.33078)|null|
 |**2026-11-24**|**Auditing the Judge: Human-Derived Bias Discovery, Quantification, and Mitigation in LLM Judges**|Hamin Koo et.al.|[2611.33065](http://arxiv.org/abs/2611.33065)|null|
-|**2026-11-24**|**Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement**|Zihan Chen et.al.|[2611.33050](http://arxiv.org/abs/2611.33050)|null|
-|**2026-11-24**|**Towards Realistic Evaluation of Uncertainty Quantification for LLM-Based Recommender Systems**|Hao Wu et.al.|[2611.33036](http://arxiv.org/abs/2611.33036)|null|
 |**2026-11-24**|**Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?**|Steffen Urban et.al.|[2611.33031](http://arxiv.org/abs/2611.33031)|null|
-|**2026-11-24**|**SALSA: Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment**|Shivank Rajput et.al.|[2611.33030](http://arxiv.org/abs/2611.33030)|null|
-|**2026-11-24**|**PORTA: Systematic Discovery of Vulnerabilities in Identity Brokers**|Zixu Zhou et.al.|[2611.33015](http://arxiv.org/abs/2611.33015)|null|
 |**2026-11-24**|**Can LLM Judges Catch Unsafe Clinical Actions? A Fault-Injection Study**|Neda Ghafouri et.al.|[2611.33012](http://arxiv.org/abs/2611.33012)|null|
 |**2026-11-24**|**Leto: Utility-Centric Agent Memory**|Shuguang Chen et.al.|[2611.33005](http://arxiv.org/abs/2611.33005)|null|
 |**2026-11-24**|**LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training**|Hanzhen Wang et.al.|[2611.33004](http://arxiv.org/abs/2611.33004)|null|
-|**2026-11-24**|**Estimating GPU Roofline Arithmetic Intensity with Off-the-Shelf LLMs and Compiler Artifacts**|Gregory Bolet et.al.|[2611.32975](http://arxiv.org/abs/2611.32975)|null|
 |**2026-11-24**|**"I Do Intend to Deliver": Will LLMs Run a Marketplace Advance-Fee Scam?**|Megan Squire et.al.|[2611.32957](http://arxiv.org/abs/2611.32957)|null|
 |**2026-11-24**|**LoomKV: Lossless KV Cache Compression from GPU Memory to SSD for LLM Serving**|Wentao Zhu et.al.|[2611.32954](http://arxiv.org/abs/2611.32954)|null|
-|**2026-11-24**|**Adaptive Electromagnetic Transient-level Digital Twins for Data Centers via In-Context Learning with LLMs**|Amit Jena et.al.|[2611.32882](http://arxiv.org/abs/2611.32882)|null|
 |**2026-11-24**|**Scalable Placement for Disaggregated LLM Serving on Heterogeneous Edge Fleets**|Truong-Thanh Le et.al.|[2611.32881](http://arxiv.org/abs/2611.32881)|null|
-|**2026-11-24**|**From Grammar Deltas to Token Masks: Incremental Constrained Decoding under Runtime Grammar Evolution**|Hantao Hua et.al.|[2611.32807](http://arxiv.org/abs/2611.32807)|null|
 |**2026-11-24**|**Scaling Laws of Ensemble Uncertainty in Language Models**|Siamak Ravanbakhsh et.al.|[2611.32801](http://arxiv.org/abs/2611.32801)|null|
 |**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240](http://arxiv.org/abs/2611.31240)|null|
 |**2026-11-23**|**CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting**|Ramraj Chandradevan et.al.|[2611.31185](http://arxiv.org/abs/2611.31185)|null|
@@ -11292,6 +11306,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses**|Meenal Parakh et.al.|[2611.34936](http://arxiv.org/abs/2611.34936)|null|
+|**2026-11-25**|**Attack Policy Selection can Mislead Monitor Evaluators**|Charlie Griffin et.al.|[2611.34934](http://arxiv.org/abs/2611.34934)|null|
+|**2026-11-25**|**Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation**|Shaoteng Liu et.al.|[2611.34907](http://arxiv.org/abs/2611.34907)|null|
+|**2026-11-25**|**Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk**|Amirparsa Bahrami et.al.|[2611.34840](http://arxiv.org/abs/2611.34840)|null|
+|**2026-11-25**|**Gradient TD( $λ$ ) for Non-Linear Function Approximation**|Sujeet Lahane et.al.|[2611.34826](http://arxiv.org/abs/2611.34826)|null|
+|**2026-11-25**|**Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss**|Thiago de Souza Lamenza et.al.|[2611.34818](http://arxiv.org/abs/2611.34818)|null|
+|**2026-11-25**|**Split-RL: Local Conflict Resolution in Reinforcement Learning**|Benjamin Fuhrer et.al.|[2611.34799](http://arxiv.org/abs/2611.34799)|null|
+|**2026-11-25**|**When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL**|Haowen Hou et.al.|[2611.34777](http://arxiv.org/abs/2611.34777)|null|
+|**2026-11-25**|**Collect for Coverage, Replay with Evidence: Adaptive and Efficient On-Policy Distillation for Long-Horizon Agents**|Haowen Hou et.al.|[2611.34756](http://arxiv.org/abs/2611.34756)|null|
+|**2026-11-25**|**BRIAR: Martingale Belief Smoothing on Bifurcation-Guided Reasoning Trees**|Tianyi Yang et.al.|[2611.34746](http://arxiv.org/abs/2611.34746)|null|
+|**2026-11-25**|**Privileged On-Policy Distillation for Calibrated Alzheimer's Diagnosis With Missing Modalities**|Vo Minh Khoi Nguyen et.al.|[2611.34721](http://arxiv.org/abs/2611.34721)|null|
+|**2026-11-25**|**Maco-RL: Scaling Agent Capabilities with Mixed-Task Reinforcement Learning**|Jiacheng Zhang et.al.|[2611.34703](http://arxiv.org/abs/2611.34703)|null|
+|**2026-11-25**|**Seeing the Right Context: Grounded On-Policy Distillation for Remote Sensing**|Yichang Luo et.al.|[2611.34700](http://arxiv.org/abs/2611.34700)|null|
+|**2026-11-25**|**Find the Clue, Not the Scene: Rethinking Reasoning for Entity Recognition in Vision-Language Models**|Kyungmin Min et.al.|[2611.34681](http://arxiv.org/abs/2611.34681)|null|
+|**2026-11-25**|**Provably Efficient Concave Utility Reinforcement Learning with Linear Function Approximation**|Max Qiushi Lin et.al.|[2611.34678](http://arxiv.org/abs/2611.34678)|null|
+|**2026-11-25**|**Do We Still Need Reinforcement Learning When We Can Read the World Model?**|Mingchao Zhang et.al.|[2611.34656](http://arxiv.org/abs/2611.34656)|null|
+|**2026-11-25**|**Nav4Manip: From Navigation to Dexterous Mobile Manipulation through Co-Evolution**|Yusen Feng et.al.|[2611.34655](http://arxiv.org/abs/2611.34655)|null|
+|**2026-11-25**|**Distractor-Robust Reinforcement Learning via Variational Bisimulation**|Benjamin Freed et.al.|[2611.34641](http://arxiv.org/abs/2611.34641)|null|
+|**2026-11-25**|**LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search**|Maria Ilektra Plakitsi et.al.|[2611.34634](http://arxiv.org/abs/2611.34634)|null|
+|**2026-11-25**|**Procedure Inference as Memory: Learning Recruiter Decision Procedures from OKF-Structured Episodes in Multi-Session Hiring Assistants**|Praveen Kumar Bodigutla et.al.|[2611.34576](http://arxiv.org/abs/2611.34576)|null|
 |**2026-11-24**|**DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning**|Binfei Ji et.al.|[2611.33153](http://arxiv.org/abs/2611.33153)|null|
 |**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
 |**2026-11-24**|**Reinforcement Learning Can Be Recovered From Its Own Rollouts**|Jiayi Sheng et.al.|[2611.33102](http://arxiv.org/abs/2611.33102)|null|
@@ -11300,18 +11334,14 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-24**|**Hybrid AI for AI-Native RAN Control: A Functional Perspective**|Sabrine Aroua et.al.|[2611.33035](http://arxiv.org/abs/2611.33035)|null|
 |**2026-11-24**|**GRAPE-Bench: When Vision Degrades, Does Video Reasoning Hold?**|Ce Zhang et.al.|[2611.33020](http://arxiv.org/abs/2611.33020)|null|
 |**2026-11-24**|**MESSI: Multi-Expert Soccer Skill Integration for Physics-Based Character Control**|Xiaogang Peng et.al.|[2611.33011](http://arxiv.org/abs/2611.33011)|null|
-|**2026-11-24**|**From Historical Schedules to On-Sky Control: Autonomous Scheduling on the 4-m Blanco Telescope**|Rachel Hur et.al.|[2611.32963](http://arxiv.org/abs/2611.32963)|null|
 |**2026-11-24**|**Beyond Expected Value: PPO with Distributional Critics for Systematic Conservation Planning**|Ana Maria Quintero Ossa et.al.|[2611.32948](http://arxiv.org/abs/2611.32948)|null|
 |**2026-11-24**|**Online V-Learning with Adaptive Longitudinal Data**|Aniruddhan Ganesaraman et.al.|[2611.32947](http://arxiv.org/abs/2611.32947)|null|
-|**2026-11-24**|**DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking**|Chaoyue Xing et.al.|[2611.32944](http://arxiv.org/abs/2611.32944)|null|
 |**2026-11-24**|**Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe**|Richmond Sin Jing Xuan et.al.|[2611.32884](http://arxiv.org/abs/2611.32884)|null|
 |**2026-11-24**|**Breaking the Joint Action Space Dependence in Distributionally Robust Multi-Agent Reinforcement Learning**|Yue Wang et.al.|[2611.32812](http://arxiv.org/abs/2611.32812)|null|
 |**2026-11-24**|**Delta-Vega Hedging with Deep Reinforcement Learning: From Simulation to Reality**|Michele Colombi et.al.|[2611.32790](http://arxiv.org/abs/2611.32790)|null|
-|**2026-11-24**|**Load Balancing Neurons: Firing-Rate Control Sustains Plasticity in Continual Learning**|Jan Robine et.al.|[2611.32691](http://arxiv.org/abs/2611.32691)|null|
 |**2026-11-24**|**Are We Rewarding the Wrong Module? Module-Specific Policy Optimization for Multimodal Reinforcement Learning**|HuiSeong Cho et.al.|[2611.32687](http://arxiv.org/abs/2611.32687)|null|
 |**2026-11-24**|**Bathys: Advancing Deep Search Agents**|Zixuan Chen et.al.|[2611.32660](http://arxiv.org/abs/2611.32660)|null|
 |**2026-11-24**|**TeamFlowRL: Online Policy Optimization of Decentralized Flow Policies for Multi-Agent Coordination**|Guowei Zou et.al.|[2611.32645](http://arxiv.org/abs/2611.32645)|null|
-|**2026-11-24**|**BARE: Body-Aware Reflexive Evasion for Humanoid Robots**|Zihao Li et.al.|[2611.32642](http://arxiv.org/abs/2611.32642)|null|
 |**2026-11-23**|**Agentic AI for Intent Management and Control in Autonomous Communication Networks**|Burak Demirel et.al.|[2611.31223](http://arxiv.org/abs/2611.31223)|null|
 |**2026-11-23**|**CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting**|Ramraj Chandradevan et.al.|[2611.31185](http://arxiv.org/abs/2611.31185)|null|
 |**2026-11-23**|**Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training**|Nan Chen et.al.|[2611.31166](http://arxiv.org/abs/2611.31166)|null|

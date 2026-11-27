@@ -444,3 +444,15 @@ From Historical Schedules to On-Sky Control: Autonomous Scheduling on the 4-m Bl
 DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking
 Load Balancing Neurons: Firing-Rate Control Sustains Plasticity in Continual Learning
 BARE: Body-Aware Reflexive Evasion for Humanoid Robots
+One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics
+ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration
+Stranger Things: When Objects Appear Without Their Typical Neighbors
+Put the World Back: Timestamps Matter in Time Series Reasoning
+Proverbs As A Window On Collective Prescriptions
+VulnSafe: Measuring Vulnerability-Aware Relational Safety in Large Language Models
+PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank
+Make the Adversary Spend More: Stateful Deception as a Cost-Exchange Primitive for AI-Era Cyber Defense
+SEAM: A Self-Evolving and Adaptive Probing Framework for Automatic MLLM Hallucination Evaluation
+Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk
+Provably Efficient Concave Utility Reinforcement Learning with Linear Function Approximation
+LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search
