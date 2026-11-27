@@ -5678,25 +5678,16 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-11-25**|**Diverse Alternative Reasoning Traces for Hard Math Problems**|Lukas Aichberger et.al.|[2611.34928](http://arxiv.org/abs/2611.34928)|null|
-|**2026-11-25**|**One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics**|Shuaijun Liu et.al.|[2611.34925](http://arxiv.org/abs/2611.34925)|null|
-|**2026-11-25**|**ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration**|Tianru Zhang et.al.|[2611.34903](http://arxiv.org/abs/2611.34903)|null|
-|**2026-11-25**|**Stranger Things: When Objects Appear Without Their Typical Neighbors**|Siddhartha Gairola et.al.|[2611.34881](http://arxiv.org/abs/2611.34881)|null|
 |**2026-11-25**|**A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom**|Joy Bose et.al.|[2611.34868](http://arxiv.org/abs/2611.34868)|null|
-|**2026-11-25**|**Put the World Back: Timestamps Matter in Time Series Reasoning**|Tingrui Huang et.al.|[2611.34848](http://arxiv.org/abs/2611.34848)|null|
 |**2026-11-25**|**Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering**|Masahiro Kato et.al.|[2611.34841](http://arxiv.org/abs/2611.34841)|null|
-|**2026-11-25**|**Proverbs As A Window On Collective Prescriptions**|Tomás Lejarraga et.al.|[2611.34832](http://arxiv.org/abs/2611.34832)|null|
 |**2026-11-25**|**Repairing the Trustworthiness of Distilled Language Models**|Kumar Shubham et.al.|[2611.34831](http://arxiv.org/abs/2611.34831)|null|
 |**2026-11-25**|**LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?**|Zichen Tian et.al.|[2611.34821](http://arxiv.org/abs/2611.34821)|null|
-|**2026-11-25**|**VulnSafe: Measuring Vulnerability-Aware Relational Safety in Large Language Models**|Jiaming Luo et.al.|[2611.34819](http://arxiv.org/abs/2611.34819)|null|
-|**2026-11-25**|**PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank**|Bich Ngoc Doan et.al.|[2611.34785](http://arxiv.org/abs/2611.34785)|null|
-|**2026-11-25**|**Make the Adversary Spend More: Stateful Deception as a Cost-Exchange Primitive for AI-Era Cyber Defense**|Alessandro Cantelli-Forti et.al.|[2611.34770](http://arxiv.org/abs/2611.34770)|null|
 |**2026-11-25**|**What Is a Theory Worth to an LLM Solver? Measuring, Inducing, and Merging Theories in Context**|Jun Gao et.al.|[2611.34751](http://arxiv.org/abs/2611.34751)|null|
 |**2026-11-25**|**Seeing the Right Context: Grounded On-Policy Distillation for Remote Sensing**|Yichang Luo et.al.|[2611.34700](http://arxiv.org/abs/2611.34700)|null|
 |**2026-11-25**|**ZeroHero: Training Small Language Agents from Scratch**|Nikita Sorokin et.al.|[2611.34635](http://arxiv.org/abs/2611.34635)|null|
 |**2026-11-25**|**A Differential Computing Accelerator for LLM Inference Leveraging Bit-Slice Transition Sparsity**|Yifan Wang et.al.|[2611.34630](http://arxiv.org/abs/2611.34630)|null|
 |**2026-11-25**|**From Models to Services: Systematizing Security Assurance for Model-as-a-Service**|Jianming Zhou et.al.|[2611.34623](http://arxiv.org/abs/2611.34623)|null|
 |**2026-11-25**|**PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving**|Xiaoqiang Guo et.al.|[2611.34615](http://arxiv.org/abs/2611.34615)|null|
-|**2026-11-25**|**SEAM: A Self-Evolving and Adaptive Probing Framework for Automatic MLLM Hallucination Evaluation**|Shiyu Zhang et.al.|[2611.34598](http://arxiv.org/abs/2611.34598)|null|
 |**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
 |**2026-11-24**|**MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing**|Scott Piersall et.al.|[2611.33119](http://arxiv.org/abs/2611.33119)|null|
 |**2026-11-24**|**Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions**|Yuxing Liu et.al.|[2611.33111](http://arxiv.org/abs/2611.33111)|null|
@@ -11318,7 +11309,6 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-25**|**DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses**|Meenal Parakh et.al.|[2611.34936](http://arxiv.org/abs/2611.34936)|null|
 |**2026-11-25**|**Attack Policy Selection can Mislead Monitor Evaluators**|Charlie Griffin et.al.|[2611.34934](http://arxiv.org/abs/2611.34934)|null|
 |**2026-11-25**|**Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation**|Shaoteng Liu et.al.|[2611.34907](http://arxiv.org/abs/2611.34907)|null|
-|**2026-11-25**|**Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk**|Amirparsa Bahrami et.al.|[2611.34840](http://arxiv.org/abs/2611.34840)|null|
 |**2026-11-25**|**Gradient TD( $λ$ ) for Non-Linear Function Approximation**|Sujeet Lahane et.al.|[2611.34826](http://arxiv.org/abs/2611.34826)|null|
 |**2026-11-25**|**Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss**|Thiago de Souza Lamenza et.al.|[2611.34818](http://arxiv.org/abs/2611.34818)|null|
 |**2026-11-25**|**Split-RL: Local Conflict Resolution in Reinforcement Learning**|Benjamin Fuhrer et.al.|[2611.34799](http://arxiv.org/abs/2611.34799)|null|
@@ -11329,11 +11319,9 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-25**|**Maco-RL: Scaling Agent Capabilities with Mixed-Task Reinforcement Learning**|Jiacheng Zhang et.al.|[2611.34703](http://arxiv.org/abs/2611.34703)|null|
 |**2026-11-25**|**Seeing the Right Context: Grounded On-Policy Distillation for Remote Sensing**|Yichang Luo et.al.|[2611.34700](http://arxiv.org/abs/2611.34700)|null|
 |**2026-11-25**|**Find the Clue, Not the Scene: Rethinking Reasoning for Entity Recognition in Vision-Language Models**|Kyungmin Min et.al.|[2611.34681](http://arxiv.org/abs/2611.34681)|null|
-|**2026-11-25**|**Provably Efficient Concave Utility Reinforcement Learning with Linear Function Approximation**|Max Qiushi Lin et.al.|[2611.34678](http://arxiv.org/abs/2611.34678)|null|
 |**2026-11-25**|**Do We Still Need Reinforcement Learning When We Can Read the World Model?**|Mingchao Zhang et.al.|[2611.34656](http://arxiv.org/abs/2611.34656)|null|
 |**2026-11-25**|**Nav4Manip: From Navigation to Dexterous Mobile Manipulation through Co-Evolution**|Yusen Feng et.al.|[2611.34655](http://arxiv.org/abs/2611.34655)|null|
 |**2026-11-25**|**Distractor-Robust Reinforcement Learning via Variational Bisimulation**|Benjamin Freed et.al.|[2611.34641](http://arxiv.org/abs/2611.34641)|null|
-|**2026-11-25**|**LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search**|Maria Ilektra Plakitsi et.al.|[2611.34634](http://arxiv.org/abs/2611.34634)|null|
 |**2026-11-25**|**Procedure Inference as Memory: Learning Recruiter Decision Procedures from OKF-Structured Episodes in Multi-Session Hiring Assistants**|Praveen Kumar Bodigutla et.al.|[2611.34576](http://arxiv.org/abs/2611.34576)|null|
 |**2026-11-24**|**DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning**|Binfei Ji et.al.|[2611.33153](http://arxiv.org/abs/2611.33153)|null|
 |**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
